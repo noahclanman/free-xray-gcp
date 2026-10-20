@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Ukraine (UA) — 1 configs — 2026-10-20 18:30 UTC
+# @xray_ehi_hub — Ukraine (UA) — 1 configs — 2026-10-20 22:00 UTC
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@173.242.51.189:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20a0801

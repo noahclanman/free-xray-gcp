@@ -2,7 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — United Arab Emirates (AE) — 3 configs — 2026-10-20 18:30 UTC
-vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%208868c
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?path=%2F&security=none&sni=uae.unixzone.us&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bdc2c
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=random&security=none&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2027c09
+# @xray_ehi_hub — United Arab Emirates (AE) — 5 configs — 2026-10-20 22:00 UTC
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2058293
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20fdd27
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=chrome&security=none&sni=uae.unixzone.us&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bdf87
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=random&path=%2F&security=none&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b6e21
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=/vless&security=&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2029a62

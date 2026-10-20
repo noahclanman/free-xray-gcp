@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 1 configs — 2026-10-20 18:30 UTC
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?flow=xtls-rprx-vision&fp=random&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&security=reality&sid=0da7e14db353e7d0&sni=litv.nztvpn.com&type=tcp#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2091e77
+# @xray_ehi_hub — Lithuania (LT) — 1 configs — 2026-10-20 22:00 UTC
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@84.32.109.20:443?security=reality&encryption=none&pbk=3jySGemfaqPZ2vM66Qtzo5SotO3eoRn1FeGaKp6KBQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=litv.nztvpn.com&sid=0da7e14db353e7d0#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%206a7bb
