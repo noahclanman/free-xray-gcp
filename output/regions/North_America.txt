@@ -1,0 +1,26 @@
+#profile-title: NORTH AMERICA
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — NORTH AMERICA — 21 configs — 2026-10-20 14:33 UTC
+CA 🇨🇦 | 448ms | e7d1d
+CA 🇨🇦 | 467ms | 8955d
+CA 🇨🇦 | 469ms | e07c8
+CA 🇨🇦 | 514ms | d87f5
+CA 🇨🇦 | 579ms | 4c1e4
+CA 🇨🇦 | 604ms | cd36c
+CA 🇨🇦 | 629ms | fdab4
+CA 🇨🇦 | 642ms | 95970
+CA 🇨🇦 | 666ms | 3123f
+CA 🇨🇦 | 683ms | b421a
+US 🇺🇸 | 778ms | 5d0fe
+CA 🇨🇦 | 779ms | 7d911
+US 🇺🇸 | 797ms | 4f0f1
+CA 🇨🇦 | 920ms | 3d06b
+US 🇺🇸 | 1028ms | c575b
+CA 🇨🇦 | 1055ms | 6db24
+US 🇺🇸 | 1129ms | a2009
+US 🇺🇸 | 1148ms | 52944
+US 🇺🇸 | 1169ms | 1ab02
+CA 🇨🇦 | 1284ms | 43699
+CA 🇨🇦 | 5745ms | 359ba

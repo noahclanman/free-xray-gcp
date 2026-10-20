@@ -1,0 +1,13 @@
+#profile-title: REALITY
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — REALITY — 8 configs — 2026-10-20 14:33 UTC
+ZZ | 783ms | 4162b
+US 🇺🇸 | 1028ms | c575b
+US 🇺🇸 | 1129ms | a2009
+US 🇺🇸 | 1169ms | 1ab02
+FR 🇫🇷 | 1312ms | 6296c
+SG 🇸🇬 | 1793ms | b0dcd
+DE 🇩🇪 | 2013ms | 0bece
+NL 🇳🇱 | 2141ms | bac34

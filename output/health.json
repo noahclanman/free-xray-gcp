@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "updated_at": "2026-10-20T14:33:21Z",
+  "duration_seconds": 183.1,
+  "xray": "Xray 26.3.27 (Xray, Penetrates Everything.) d2758a0 (go1.26.1 windows/amd64)",
+  "geoip": "db-ip country lite",
+  "sources": {
+    "active": 20,
+    "failed": []
+  },
+  "counts": {
+    "links_collected": 42389,
+    "unique": 17372,
+    "on_gcp": 15,
+    "tcp_reachable": 10015,
+    "tested": 117,
+    "working": 39,
+    "published": 39
+  }
+}

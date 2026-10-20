@@ -1,0 +1,12 @@
+#profile-title: TROJAN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — TROJAN — 7 configs — 2026-10-20 14:33 UTC
+CA 🇨🇦 | 1055ms | 6db24
+LV 🇱🇻 | 1836ms | 24116
+NL 🇳🇱 | 2180ms | a35c4
+NL 🇳🇱 | 2266ms | be120
+NL 🇳🇱 | 5523ms | bd0ac
+CA 🇨🇦 | 5745ms | 359ba
+DE 🇩🇪 | 5810ms | 40b26

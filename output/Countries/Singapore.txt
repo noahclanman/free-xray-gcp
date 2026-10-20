@@ -1,0 +1,6 @@
+#profile-title: Singapore (SG)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Singapore (SG) — 1 configs — 2026-10-20 14:33 UTC
+SG 🇸🇬 | 1793ms | b0dcd

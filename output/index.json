@@ -1,0 +1,211 @@
+{
+  "repo": "noahclanman/free-xray-gcp",
+  "brand": "@noahclanman",
+  "updated_at": "2026-10-20T14:33:21Z",
+  "update_interval_minutes": 30,
+  "eligibility": "every config opened a real HTTP request through xray",
+  "raw_base": "https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output",
+  "mirror_base": "https://cdn.jsdelivr.net/gh/noahclanman/free-xray-gcp@main/output",
+  "categories": {
+    "all": {
+      "count": 39,
+      "files": {
+        "configs_txt": "all/configs.txt",
+        "configs_base64": "all/configs_base64.txt"
+      }
+    },
+    "fast": {
+      "count": 25,
+      "files": {
+        "configs_txt": "fast/configs.txt",
+        "configs_base64": "fast/configs_base64.txt"
+      }
+    },
+    "gcp": {
+      "count": 0,
+      "files": {
+        "configs_txt": null,
+        "configs_base64": null
+      }
+    },
+    "protocols/shadowsocks": {
+      "count": 6,
+      "files": {
+        "configs_txt": "protocols/shadowsocks.txt",
+        "configs_base64": "protocols/shadowsocks_base64.txt"
+      }
+    },
+    "protocols/trojan": {
+      "count": 7,
+      "files": {
+        "configs_txt": "protocols/trojan.txt",
+        "configs_base64": "protocols/trojan_base64.txt"
+      }
+    },
+    "protocols/vless": {
+      "count": 22,
+      "files": {
+        "configs_txt": "protocols/vless.txt",
+        "configs_base64": "protocols/vless_base64.txt"
+      }
+    },
+    "protocols/vmess": {
+      "count": 4,
+      "files": {
+        "configs_txt": "protocols/vmess.txt",
+        "configs_base64": "protocols/vmess_base64.txt"
+      }
+    },
+    "top100": {
+      "count": 39,
+      "files": {
+        "configs_txt": "top100.txt",
+        "configs_base64": null
+      }
+    },
+    "transports/non_tls": {
+      "count": 10,
+      "files": {
+        "configs_txt": "transports/non_tls.txt",
+        "configs_base64": "transports/non_tls_base64.txt"
+      }
+    },
+    "transports/reality": {
+      "count": 8,
+      "files": {
+        "configs_txt": "transports/reality.txt",
+        "configs_base64": "transports/reality_base64.txt"
+      }
+    },
+    "transports/tcp_reality": {
+      "count": 8,
+      "files": {
+        "configs_txt": "transports/tcp_reality.txt",
+        "configs_base64": "transports/tcp_reality_base64.txt"
+      }
+    },
+    "transports/tcp_tls": {
+      "count": 1,
+      "files": {
+        "configs_txt": "transports/tcp_tls.txt",
+        "configs_base64": "transports/tcp_tls_base64.txt"
+      }
+    },
+    "transports/tls": {
+      "count": 21,
+      "files": {
+        "configs_txt": "transports/tls.txt",
+        "configs_base64": "transports/tls_base64.txt"
+      }
+    },
+    "transports/ws_tls": {
+      "count": 20,
+      "files": {
+        "configs_txt": "transports/ws_tls.txt",
+        "configs_base64": "transports/ws_tls_base64.txt"
+      }
+    }
+  },
+  "protocols": {
+    "vless": 22,
+    "trojan": 7,
+    "shadowsocks": 6,
+    "vmess": 4
+  },
+  "transports": {
+    "ws": 22,
+    "ws_tls": 20,
+    "tcp": 17,
+    "tcp_reality": 8,
+    "tcp_tls": 1
+  },
+  "regions": {
+    "North America": 21,
+    "Europe": 13,
+    "Other": 3,
+    "Asia": 2
+  },
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "region": "North America",
+      "count": 15,
+      "file": "Countries/Canada.txt"
+    },
+    {
+      "code": "NL",
+      "name": "The Netherlands",
+      "flag": "🇳🇱",
+      "region": "Europe",
+      "count": 8,
+      "file": "Countries/The_Netherlands.txt"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "region": "North America",
+      "count": 6,
+      "file": "Countries/United_States.txt"
+    },
+    {
+      "code": "ZZ",
+      "name": "Unknown",
+      "flag": "",
+      "region": "Other",
+      "count": 3,
+      "file": "Countries/Unknown.txt"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "region": "Europe",
+      "count": 2,
+      "file": "Countries/Germany.txt"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "flag": "🇫🇷",
+      "region": "Europe",
+      "count": 1,
+      "file": "Countries/France.txt"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "flag": "🇭🇰",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Hong_Kong.txt"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "flag": "🇱🇻",
+      "region": "Europe",
+      "count": 1,
+      "file": "Countries/Latvia.txt"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "flag": "🇵🇱",
+      "region": "Europe",
+      "count": 1,
+      "file": "Countries/Poland.txt"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Singapore.txt"
+    }
+  ],
+  "total_unique": 39
+}

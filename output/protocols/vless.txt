@@ -1,0 +1,27 @@
+#profile-title: VLESS
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — VLESS — 22 configs — 2026-10-20 14:33 UTC
+SG 🇸🇬 | 1793ms | b0dcd
+CA 🇨🇦 | 448ms | e7d1d
+CA 🇨🇦 | 467ms | 8955d
+CA 🇨🇦 | 469ms | e07c8
+CA 🇨🇦 | 514ms | d87f5
+CA 🇨🇦 | 579ms | 4c1e4
+CA 🇨🇦 | 604ms | cd36c
+CA 🇨🇦 | 629ms | fdab4
+CA 🇨🇦 | 642ms | 95970
+CA 🇨🇦 | 666ms | 3123f
+CA 🇨🇦 | 683ms | b421a
+CA 🇨🇦 | 779ms | 7d911
+ZZ | 783ms | 4162b
+CA 🇨🇦 | 920ms | 3d06b
+US 🇺🇸 | 1028ms | c575b
+US 🇺🇸 | 1129ms | a2009
+US 🇺🇸 | 1169ms | 1ab02
+FR 🇫🇷 | 1312ms | 6296c
+PL 🇵🇱 | 1531ms | 3dd33
+ZZ | 1987ms | fa2f7
+DE 🇩🇪 | 2013ms | 0bece
+NL 🇳🇱 | 2141ms | bac34

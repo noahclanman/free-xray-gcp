@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-10-20T14:33:21Z",
+  "source": "all",
+  "criterion": "passed a real proxied request through xray",
+  "location_method": "GeoIP (DB-IP Country Lite)",
+  "countries": [
+    {
+      "code": "CA",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "region": "North America",
+      "count": 15,
+      "file": "Countries/Canada.txt"
+    },
+    {
+      "code": "NL",
+      "name": "The Netherlands",
+      "flag": "🇳🇱",
+      "region": "Europe",
+      "count": 8,
+      "file": "Countries/The_Netherlands.txt"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "region": "North America",
+      "count": 6,
+      "file": "Countries/United_States.txt"
+    },
+    {
+      "code": "ZZ",
+      "name": "Unknown",
+      "flag": "",
+      "region": "Other",
+      "count": 3,
+      "file": "Countries/Unknown.txt"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "region": "Europe",
+      "count": 2,
+      "file": "Countries/Germany.txt"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "flag": "🇫🇷",
+      "region": "Europe",
+      "count": 1,
+      "file": "Countries/France.txt"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "flag": "🇭🇰",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Hong_Kong.txt"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "flag": "🇱🇻",
+      "region": "Europe",
+      "count": 1,
+      "file": "Countries/Latvia.txt"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "flag": "🇵🇱",
+      "region": "Europe",
+      "count": 1,
+      "file": "Countries/Poland.txt"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Singapore.txt"
+    }
+  ]
+}

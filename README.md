@@ -1,84 +1,124 @@
-# GCP V2Ray
+# Free Xray Configs — GCP first
 
-Auto-updating, **really working** subscription of **VMess / VLESS / Trojan / Shadowsocks**
-configs. Configs hosted on **Google Cloud (GCP)** are tested first and listed at the top;
-the rest is filled with the fastest configs that passed the same live test. Every config is
-verified by actually proxying an HTTP request through it, not by a TCP ping. Refreshed every
-~30 minutes by GitHub Actions.
+A self-updating subscription of **VMess / VLESS / Trojan / Shadowsocks** configs.
+Every config in this repo **actually proxied a real HTTP request** through Xray before it was
+published — there are no TCP-ping-only entries. Configs hosted on **Google Cloud (GCP)** are
+tested first and published in their own folder; the main list is **Asia-first**, then sorted by
+measured latency.
 
-## Subscription links
+Updated every 30 minutes by GitHub Actions. No server, no account, no dependencies.
 
-Replace `YOUR_USER/YOUR_REPO` with your own:
+## Subscribe
+
+Pick one link and paste it into v2rayNG / v2rayN / Hiddify / NekoBox / Streisand.
+
+| Collection | What it is | Subscription link |
+|---|---|---|
+| **All** | every verified config, Asia first | [`all/configs_base64.txt`](https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/all/configs_base64.txt) |
+| **GCP** | only configs hosted on Google Cloud | [`gcp/configs_base64.txt`](https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/gcp/configs_base64.txt) |
+| **Low ping** | fastest configs under 400 ms | [`fast/configs_base64.txt`](https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/fast/configs_base64.txt) |
+| **Top 100** | the 100 fastest overall | [`top100.txt`](https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/top100.txt) |
+
+Per protocol (`protocols/`) and per transport (`transports/`) lists — including
+`reality`, `tls`, `ws_tls`, `grpc_tls`, `xhttp_tls`, `httpupgrade_tls`, `non_tls` — plus
+`Countries/<Country>.txt` and `regions/Asia.txt` are listed in **[OUTPUTS.md](OUTPUTS.md)**.
+
+Plain-text variants exist next to every subscription file (`configs.txt` vs
+`configs_base64.txt`), and jsDelivr mirrors are available:
+`https://cdn.jsdelivr.net/gh/noahclanman/free-xray-gcp@main/output/...`
+
+## Naming
 
 ```
-# all GCP configs (plain)
-https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/output/gcp_v2ray.txt
-
-# all GCP configs (base64 - classic subscription format)
-https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/output/gcp_v2ray_base64.txt
-
-# per protocol
-https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/output/gcp_vmess.txt
-https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/output/gcp_vless.txt
-
-# stats (count, regions, last update)
-https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/output/stats.json
+JP 🇯🇵 | 288ms | 1d974            verified config in Japan
+GCP SG 🇸🇬 | 402ms | 3ae49        same, but the server IP is inside Google Cloud
 ```
 
-Each config is named after its host, e.g. `GCP asia-southeast1 | 412ms | a1b2c` for a
-GCP-hosted server, or `OTHER | 690ms | c3d4e` for a verified non-GCP fill config.
-The `ms` value is the **real end-to-end delay** measured through the proxy (DNS + TCP +
-TLS + HTTP request to a `generate_204` endpoint), not a TCP ping. GCP configs come first,
-each block sorted fastest first.
+`288ms` is the **real end-to-end delay** measured through the proxy — DNS + TCP + TLS + the
+HTTP request — not a TCP handshake. The short hash identifies the server across updates, so
+your client keeps its selection when the list refreshes.
 
-## How it works
+## How a run works
 
-1. Downloads every source in `sources.txt` (plain or base64).
-2. Keeps only `vmess://`, `vless://`, `trojan://` and `ss://` links and removes duplicates.
-3. Resolves each server hostname to an IP and marks which ones are inside Google's official
-   Cloud ranges (<https://www.gstatic.com/ipranges/cloud.json>).
-4. Cheap TCP prefilter, then the real test: for every candidate, Xray is started with that
-   config and the script fetches a real `204` URL through it. Configs that fail to load,
-   time out, or return an error are thrown away.
-5. Publishes up to 500 working configs into `output/`: all live GCP configs first, then the
-   fastest other verified configs, each with its measured delay.
+```
+sources.txt
+    │  GitHub lists, base64 subscriptions, Telegram channels (HTML scraped)
+    ▼
+extract vmess:// vless:// trojan:// ss://   →  dedupe by server+credentials
+    ▼
+resolve hostnames  →  GeoIP (DB-IP Country Lite) + Google Cloud prefix match
+    ▼
+cheap TCP prefilter (1.5 s)
+    ▼
+REAL TEST: start Xray with the config, fetch a generate_204 URL through it
+    │  pass → keep the measured delay     fail → discard
+    ▼
+sort: Asia first, then GCP, then latency
+    ▼
+output/  (categories, countries, transports, index.json, health.json)
+```
 
-There are only a few dozen GCP-hosted configs in the whole free pool on a good day, so the
-non-GCP fill is what keeps the subscription usable. Set `GCP_ONLY=1` (see below) if you want
-the strict version instead.
+All GCP candidates are tested before anything else, so a working GCP config is never
+dropped because the time budget ran out. If a run finds nothing at all, `output/` is left
+untouched and the previous list stays online.
 
-If a run finds no working configs or no source is reachable, it exits without touching `output/`,
-so your last good list stays online.
+## Repository layout
 
-## Setup (5 minutes)
+```
+sources.txt                 where configs come from (add your own)
+scripts/update.py           the whole pipeline, standard library only
+.github/workflows/update.yml  cron: every 30 minutes
+output/
+├── all/configs.txt         every verified config (Asia first)
+├── gcp/configs.txt         GCP-hosted only (created when at least one is alive)
+├── fast/configs.txt        low-latency subset
+├── top100.txt              fastest 100
+├── protocols/              vmess, vless, trojan, shadowsocks
+├── transports/             tls, reality, ws_tls, grpc_tls, xhttp_tls, ...
+├── Countries/              one file per country + index.json
+├── regions/                Asia, Europe, North America, ...
+├── index.json              machine-readable catalogue with counts and links
+└── health.json             last run: sources, counts, duration
+```
 
-1. Create a new GitHub repo and upload all these files (keep the folder structure).
-2. Repo **Settings -> Actions -> General -> Workflow permissions -> Read and write permissions**.
-3. Go to the **Actions** tab, open **Update GCP V2Ray configs**, click **Run workflow**.
-4. After it finishes, `output/` appears. Use the raw links above.
+## Run it yourself
 
-## Customize
+```bash
+python scripts/update.py          # needs Python 3.9+ and xray on PATH (or XRAY_BIN)
+```
 
-| Want | Change |
-|---|---|
-| More sources | add lines to `sources.txt` |
-| Only some protocols | `PROTOCOLS: "vmess,vless"` in `.github/workflows/update.yml` |
-| Keep more / fewer | `MAX_OUTPUT` |
-| Strict GCP only, no fill | `GCP_ONLY: "1"` in `.github/workflows/update.yml` |
-| Test more servers at once | `TEST_WORKERS` (16 on CI, more uses more RAM) |
-| Shorter / longer run | `MAX_TEST_MINUTES` (default 20) |
-| Stricter test | `TEST_TIMEOUT` down to 5, or add your own URL to `TEST_URLS` |
-| Specific GCP regions only | filter on `region` in `scripts/update.py` (e.g. `region.startswith("asia-")`) |
-| Run locally | `python scripts/update.py` (Python 3.9+, needs `xray` in PATH or `XRAY_BIN` set) |
+| Variable | Default | Meaning |
+|---|---|---|
+| `XRAY_BIN` | `xray` | path to the Xray binary used for the real test |
+| `MAX_OUTPUT` | `1000` | cap on published configs |
+| `MAX_TEST_MINUTES` | `20` | time budget for the real test phase |
+| `TEST_WORKERS` | `16` | parallel Xray instances |
+| `TEST_TIMEOUT` | `7` | seconds allowed for one proxied request |
+| `TEST_URLS` | gstatic + cloudflare `generate_204` | fallback test targets |
+| `FAST_MS` | `400` | threshold for the `fast/` list |
+| `TCP_PREFILTER` | `1` | set `0` to test every config with Xray |
+| `GCP_ONLY` | `0` | set `1` to publish GCP configs only |
+| `PROTOCOLS` | `vmess,vless,trojan,ss` | protocols to keep |
+| `REPO` / `BRAND` | – | used in list headers and `index.json` |
 
-## Notes
+To fork this: create a repo, push the files, enable **Settings → Actions → General →
+Workflow permissions → Read and write**, then run the workflow once.
 
-- A config in `output/` answered a real HTTP request through Xray at the time of the run,
-  so it should connect. "Should" and not "will": free servers are overloaded, rate-limited
-  and often die within hours, and your own network may be filtered differently than the
-  GitHub runner that tested them. Re-run the workflow (or wait 30 min) to refresh.
-- The delay shown is measured from a GitHub datacenter, so your own ping will differ.
-  Use it to rank configs, not as an absolute number.
-- Free public configs are shared by many people and may be monitored by whoever runs the server.
-  Do not use them for anything sensitive.
-- Use responsibly and follow the laws where you live.
+## Honest limits
+
+- **The GCP pool is tiny.** Of ~17,000 unique configs, normally only ~10 resolve to a Google
+  Cloud IP, and free ones are often dead. When none pass the real test, `gcp/` is not
+  published and the folder disappears from the list. `index.json` still reports
+  `categories.gcp.count = 0`.
+- **A passing config can still die.** Servers are shared, rate-limited and disappear within
+  hours. The list is regenerated every 30 minutes; the app you use keeps the last copy.
+- **Latency is measured from a GitHub datacenter**, not from your network. Use it to rank
+  configs, not as an absolute number.
+- **Free configs are not private.** Assume the operator can see your traffic metadata.
+  Do not use them for banking, logins or anything sensitive.
+
+## Legal
+
+This repository only aggregates publicly posted configuration links and tests reachability.
+It does not host, operate or endorse any server. Use it in accordance with the laws that
+apply to you.

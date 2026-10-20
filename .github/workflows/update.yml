@@ -40,12 +40,15 @@ jobs:
         run: python scripts/update.py
         env:
           PROTOCOLS: "vmess,vless,trojan,ss"
-          MAX_OUTPUT: "500"
+          MAX_OUTPUT: "1000"
+          REPO: ${{ github.repository }}
+          BRAND: "@noahclanman"
           XRAY_BIN: ${{ runner.temp }}/xray/xray
           TEST_WORKERS: "16"
           MAX_TEST_MINUTES: "20"
           TEST_TIMEOUT: "7"
           TCP_TIMEOUT: "1.5"
+          FAST_MS: "400"
 
       - name: Commit if changed
         run: |
