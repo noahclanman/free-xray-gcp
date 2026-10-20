@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-10-20 17:22 UTC
-vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?security=reality&type=xhttp&path=%2FG3EEoH63&sni=www.amazon.com&fp=chrome&sid=f57d8f26&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&mode=auto&encryption=none#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201872c
+# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-10-20 18:14 UTC
+vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@pl-03.avroraservice.online:8443?mode=stream-one&path=/xhttp&security=reality&encryption=none&pbk=upBeYE6Fyy46znMKXx-jkC66hAgARHcwYIdjNB4yXl8&fp=chrome&type=xhttp&sni=cdn-pl.cahmes.space&sid=a7a3b3ffe0572fce#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2076f46

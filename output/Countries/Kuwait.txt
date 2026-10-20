@@ -1,0 +1,6 @@
+#profile-title: Kuwait (KW)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Kuwait (KW) — 1 configs — 2026-10-20 18:14 UTC
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=de1.dedushka.top&type=tcp#KW%20%F0%9F%87%B0%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%204ca60
