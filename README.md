@@ -96,6 +96,7 @@ python scripts/update.py          # needs Python 3.9+ and xray on PATH (or XRAY_
 | `TEST_TIMEOUT` | `7` | seconds allowed for one proxied request |
 | `TEST_URLS` | gstatic + cloudflare `generate_204` | fallback test targets |
 | `FAST_MS` | `400` | threshold for the `fast/` list |
+| `MAX_MS` | `4000` | drop non-GCP configs slower than this (GCP ones are kept) |
 | `TCP_PREFILTER` | `1` | set `0` to test every config with Xray |
 | `GCP_ONLY` | `0` | set `1` to publish GCP configs only |
 | `PROTOCOLS` | `vmess,vless,trojan,ss` | protocols to keep |

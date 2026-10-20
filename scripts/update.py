@@ -63,6 +63,7 @@ SUPPORT_URL = os.getenv("SUPPORT_URL", "")  # optional, shown in the list header
 MAX_OUTPUT = int(os.getenv("MAX_OUTPUT", "1000"))
 TOP_N = int(os.getenv("TOP_N", "100"))
 FAST_MS = float(os.getenv("FAST_MS", "400"))
+MAX_MS = float(os.getenv("MAX_MS", "4000"))   # drop non-GCP configs slower than this
 RESOLVE_WORKERS = int(os.getenv("RESOLVE_WORKERS", "200"))
 TEST_WORKERS = int(os.getenv("TEST_WORKERS", "16"))  # parallel xray instances
 MAX_TEST_MINUTES = float(os.getenv("MAX_TEST_MINUTES", "20"))
@@ -931,7 +932,7 @@ def main():
             "tag": sha1(identity(link).encode()).hexdigest()[:5],
         })
     recs.sort(key=prio_key)
-    recs = recs[:MAX_OUTPUT]
+    recs = [r for r in recs if r["region"] or r["ms"] <= MAX_MS][:MAX_OUTPUT]
     for r in recs:
         r["name"] = remark(r)
         r["out"] = rename(r["link"], r["name"])

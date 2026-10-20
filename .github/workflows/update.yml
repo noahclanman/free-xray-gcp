@@ -49,6 +49,7 @@ jobs:
           TEST_TIMEOUT: "7"
           TCP_TIMEOUT: "1.5"
           FAST_MS: "400"
+          MAX_MS: "4000"
 
       - name: Commit if changed
         run: |

@@ -30,6 +30,9 @@ mirror  https://cdn.jsdelivr.net/gh/noahclanman/free-xray-gcp@main/output
 `configs.txt` files start with `#profile-*` comment headers (title, update interval,
 web page). Subscription clients ignore them; a plain base64 blob is in the twin file.
 
+Configs slower than `MAX_MS` (default **4000 ms**) are not published, except GCP ones,
+which are always kept because working GCP servers are rare.
+
 **`gcp/` only exists when at least one GCP config passed the test.** The pool is small, so
 some runs publish no GCP folder at all. In that case `index.json` reports
 `categories.gcp.count = 0` and `files` is `null` — that is not a broken build.
