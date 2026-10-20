@@ -1,13 +1,13 @@
 {
-  "updated_utc": "2026-10-20 13:21:25",
+  "updated_utc": "2026-10-20 13:22:21",
   "collected": 15746,
   "unique": 7806,
   "on_gcp": 10,
-  "alive_published": 8,
+  "alive_published": 7,
   "by_region": {
-    "us-central1": 3,
-    "europe-west1": 2,
+    "us-central1": 2,
     "europe-southwest1": 2,
+    "europe-west1": 2,
     "us-west1": 1
   }
 }
