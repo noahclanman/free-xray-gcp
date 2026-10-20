@@ -933,6 +933,9 @@ def main():
         })
     recs.sort(key=prio_key)
     recs = [r for r in recs if r["region"] or r["ms"] <= MAX_MS][:MAX_OUTPUT]
+    if not recs:
+        log(f"Every working config was slower than {int(MAX_MS)} ms - keeping previous output.")
+        sys.exit(1)
     for r in recs:
         r["name"] = remark(r)
         r["out"] = rename(r["link"], r["name"])
