@@ -1,7 +1,0 @@
-#profile-title: AFRICA
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — AFRICA — 2 configs — 2026-10-20 15:49 UTC
-SC 🇸🇨 | 760ms | a8cdf
-ZA 🇿🇦 | 972ms | 1783a

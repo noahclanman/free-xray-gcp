@@ -2,19 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — United Kingdom (GB) — 15 configs — 2026-10-20 15:49 UTC
-GB 🇬🇧 | 301ms | 8b844
-GB 🇬🇧 | 435ms | ac3eb
-GB 🇬🇧 | 505ms | 63b24
-GB 🇬🇧 | 512ms | 1f599
-GB 🇬🇧 | 551ms | 89f36
-GB 🇬🇧 | 709ms | c030c
-GB 🇬🇧 | 915ms | c9821
-GB 🇬🇧 | 1290ms | 22769
-GB 🇬🇧 | 1323ms | 6a0a3
-GB 🇬🇧 | 1376ms | 2450b
-GB 🇬🇧 | 1378ms | f8db6
-GB 🇬🇧 | 1481ms | fb88f
-GB 🇬🇧 | 1489ms | 9260f
-GB 🇬🇧 | 1891ms | b2eb5
-GB 🇬🇧 | 2128ms | 13394
+# @noahclanman — United Kingdom (GB) — 1 configs — 2026-10-20 16:00 UTC
+vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiR0Ig8J+HrPCfh6cgfCAxNjYwbXMgfCBmNDM5YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==

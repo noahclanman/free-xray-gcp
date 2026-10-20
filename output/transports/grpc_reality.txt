@@ -2,32 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — GRPC REALITY — 28 configs — 2026-10-20 15:49 UTC
-US 🇺🇸 | 268ms | f9cfb
-GB 🇬🇧 | 301ms | 8b844
-US 🇺🇸 | 435ms | 765f8
-DE 🇩🇪 | 744ms | 162cd
-DE 🇩🇪 | 753ms | b7235
-DE 🇩🇪 | 762ms | 11514
-FR 🇫🇷 | 782ms | a0423
-DK 🇩🇰 | 973ms | 73880
-DK 🇩🇰 | 978ms | 72d65
-NL 🇳🇱 | 990ms | 85e33
-RU 🇷🇺 | 1075ms | e0d45
-RS 🇷🇸 | 1077ms | 35533
-RU 🇷🇺 | 1096ms | c5f70
-RU 🇷🇺 | 1097ms | 28422
-RS 🇷🇸 | 1140ms | 6646c
-MD 🇲🇩 | 1167ms | 24279
-TR 🇹🇷 | 1269ms | 16ab5
-RU 🇷🇺 | 1361ms | f5d58
-RS 🇷🇸 | 1420ms | e7fac
-RS 🇷🇸 | 1457ms | a7925
-RU 🇷🇺 | 1457ms | 03d3f
-BG 🇧🇬 | 1506ms | c3ee6
-RS 🇷🇸 | 1725ms | 08b37
-RU 🇷🇺 | 2032ms | 65473
-MD 🇲🇩 | 2148ms | 9c0e6
-MD 🇲🇩 | 2888ms | acb46
-MD 🇲🇩 | 3313ms | edb81
-RS 🇷🇸 | 3852ms | ad25f
+# @noahclanman — GRPC REALITY — 1 configs — 2026-10-20 16:00 UTC
+vless://a346c521-7a7f-452b-9356-a4893feb5982@66.151.40.60:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&type=grpc&serviceName=GunService&sni=github.com#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%201425ms%20%7C%2011514

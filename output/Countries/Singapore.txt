@@ -2,33 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Singapore (SG) — 29 configs — 2026-10-20 15:49 UTC
-SG 🇸🇬 | 552ms | 20238
-SG 🇸🇬 | 553ms | 0dd56
-SG 🇸🇬 | 558ms | 2a5b8
-SG 🇸🇬 | 561ms | 297fb
-SG 🇸🇬 | 703ms | ce1e7
-SG 🇸🇬 | 756ms | 58143
-SG 🇸🇬 | 833ms | ce37d
-SG 🇸🇬 | 869ms | 3743b
-SG 🇸🇬 | 882ms | 33c1f
-SG 🇸🇬 | 918ms | e4c56
-SG 🇸🇬 | 979ms | ee102
-SG 🇸🇬 | 990ms | 8dca8
-SG 🇸🇬 | 1013ms | b5176
-SG 🇸🇬 | 1068ms | 696da
-SG 🇸🇬 | 1074ms | dbb0e
-SG 🇸🇬 | 1176ms | bc0a3
-SG 🇸🇬 | 1276ms | 001ed
-SG 🇸🇬 | 1278ms | 55815
-SG 🇸🇬 | 1280ms | d4fa2
-SG 🇸🇬 | 1283ms | 35212
-SG 🇸🇬 | 1374ms | 13e35
-SG 🇸🇬 | 1394ms | 3ae49
-SG 🇸🇬 | 1593ms | 08196
-SG 🇸🇬 | 1633ms | c248b
-SG 🇸🇬 | 1706ms | 2fe33
-SG 🇸🇬 | 1954ms | fcbd5
-SG 🇸🇬 | 2477ms | b0dcd
-SG 🇸🇬 | 2603ms | 0dbdf
-SG 🇸🇬 | 3244ms | 544fe
+# @noahclanman — Singapore (SG) — 1 configs — 2026-10-20 16:00 UTC
+vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21004?fp=chrome&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&security=reality&sid=2df2bd9d8366cef1&sni=www.cloudflare.com&type=tcp#SG%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20526ms%20%7C%20f193f

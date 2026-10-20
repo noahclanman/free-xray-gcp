@@ -2,9 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Kazakhstan (KZ) — 5 configs — 2026-10-20 15:49 UTC
-KZ 🇰🇿 | 1958ms | 05d89
-KZ 🇰🇿 | 2168ms | 800e1
-KZ 🇰🇿 | 2324ms | 588ae
-KZ 🇰🇿 | 2377ms | 142b0
-KZ 🇰🇿 | 3273ms | 8888e
+# @noahclanman — Kazakhstan (KZ) — 1 configs — 2026-10-20 16:00 UTC
+vmess://eyJ2IjpudWxsLCJwcyI6IktaIPCfh7Dwn4e/IHwgMzg5MG1zIHwgMDVkODkiLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJLWiDwn4ew8J+HvyB8IEBSYXlkaWthbHggfCA2REJBOUEifQ==

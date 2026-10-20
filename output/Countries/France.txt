@@ -2,29 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — France (FR) — 25 configs — 2026-10-20 15:49 UTC
-FR 🇫🇷 | 415ms | e1992
-FR 🇫🇷 | 525ms | 0552c
-FR 🇫🇷 | 526ms | b27d6
-FR 🇫🇷 | 541ms | 1526c
-FR 🇫🇷 | 542ms | be154
-FR 🇫🇷 | 545ms | aa99a
-FR 🇫🇷 | 561ms | 4ec6d
-FR 🇫🇷 | 564ms | d204f
-FR 🇫🇷 | 566ms | 9b0e2
-FR 🇫🇷 | 574ms | c2c0e
-FR 🇫🇷 | 592ms | ce399
-FR 🇫🇷 | 599ms | 57f48
-FR 🇫🇷 | 601ms | 75c61
-FR 🇫🇷 | 623ms | c8f40
-FR 🇫🇷 | 653ms | de8ec
-FR 🇫🇷 | 655ms | 0eba4
-FR 🇫🇷 | 659ms | 400dc
-FR 🇫🇷 | 692ms | 2377a
-FR 🇫🇷 | 782ms | a0423
-FR 🇫🇷 | 826ms | 35b97
-FR 🇫🇷 | 1034ms | 920f4
-FR 🇫🇷 | 1377ms | 991e9
-FR 🇫🇷 | 1580ms | 06bae
-FR 🇫🇷 | 1807ms | 28089
-FR 🇫🇷 | 2086ms | ac630
+# @noahclanman — France (FR) — 2 configs — 2026-10-20 16:00 UTC
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20879ms%20%7C%204ec6d
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=firefox&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20968ms%20%7C%205f6ce

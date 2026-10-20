@@ -768,7 +768,10 @@ def remark(rec):
 
 def write_list(path, recs, title, base64_twin=True):
     path.parent.mkdir(parents=True, exist_ok=True)
-    body = [remark(r) for r in recs]
+    body = [r["out"] for r in recs]
+    for line in body:
+        if not any(line.lower().startswith(s + "://") for s in PROTOCOLS):
+            raise RuntimeError(f"refusing to publish a non-config line: {line[:60]}")
     text = txt_header(title, len(body)) + "\n" + "\n".join(body) + "\n"
     path.write_text(text, encoding="utf-8")
     if base64_twin:

@@ -1,7 +1,0 @@
-#profile-title: Taiwan (TW)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Taiwan (TW) — 2 configs — 2026-10-20 15:49 UTC
-TW 🇹🇼 | 684ms | df29a
-TW 🇹🇼 | 700ms | c5423

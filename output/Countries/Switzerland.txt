@@ -1,8 +1,0 @@
-#profile-title: Switzerland (CH)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Switzerland (CH) — 3 configs — 2026-10-20 15:49 UTC
-CH 🇨🇭 | 598ms | 09184
-CH 🇨🇭 | 630ms | ee667
-CH 🇨🇭 | 659ms | db85a
