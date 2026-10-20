@@ -19,7 +19,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -27,11 +27,25 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build GCP-only list
+      - name: Install Xray (used for the real proxy test)
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/xray.zip" \
+            https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          mkdir -p "$RUNNER_TEMP/xray"
+          unzip -q -o "$RUNNER_TEMP/xray.zip" -d "$RUNNER_TEMP/xray"
+          chmod +x "$RUNNER_TEMP/xray/xray"
+          "$RUNNER_TEMP/xray/xray" version
+
+      - name: Build GCP-only list (real proxy test)
         run: python scripts/update.py
         env:
-          PROTOCOLS: "vmess,vless"   # add trojan,ss if you want them too
+          PROTOCOLS: "vmess,vless,trojan,ss"
           MAX_OUTPUT: "500"
+          XRAY_BIN: ${{ runner.temp }}/xray/xray
+          TEST_WORKERS: "16"
+          MAX_TEST_MINUTES: "20"
+          TEST_TIMEOUT: "7"
+          TCP_TIMEOUT: "1.5"
 
       - name: Commit if changed
         run: |
