@@ -1,0 +1,16 @@
+#profile-title: South Korea (KR)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — South Korea (KR) — 11 configs — 2026-10-20 14:48 UTC
+KR 🇰🇷 | 721ms | 61a9f
+KR 🇰🇷 | 725ms | 918ce
+KR 🇰🇷 | 749ms | 4c093
+KR 🇰🇷 | 786ms | f08e0
+KR 🇰🇷 | 878ms | d8585
+KR 🇰🇷 | 890ms | fca2a
+KR 🇰🇷 | 2556ms | a0b62
+KR 🇰🇷 | 2559ms | 95d1d
+KR 🇰🇷 | 2569ms | f1452
+KR 🇰🇷 | 3581ms | 7bff6
+KR 🇰🇷 | 3899ms | cbdc3

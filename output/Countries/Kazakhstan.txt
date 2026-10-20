@@ -1,0 +1,13 @@
+#profile-title: Kazakhstan (KZ)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Kazakhstan (KZ) — 8 configs — 2026-10-20 14:48 UTC
+KZ 🇰🇿 | 1339ms | 6c268
+KZ 🇰🇿 | 1375ms | 588ae
+KZ 🇰🇿 | 1420ms | 05d89
+KZ 🇰🇿 | 1851ms | 190d6
+KZ 🇰🇿 | 3391ms | 0e2d0
+KZ 🇰🇿 | 4468ms | 4da7b
+KZ 🇰🇿 | 5982ms | 09c94
+KZ 🇰🇿 | 6377ms | 800e1

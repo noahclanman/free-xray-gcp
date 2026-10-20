@@ -1,0 +1,9 @@
+#profile-title: Estonia (EE)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Estonia (EE) — 4 configs — 2026-10-20 14:48 UTC
+EE 🇪🇪 | 757ms | ada38
+EE 🇪🇪 | 1052ms | 81cbc
+EE 🇪🇪 | 2497ms | 436bb
+EE 🇪🇪 | 3784ms | 242e6

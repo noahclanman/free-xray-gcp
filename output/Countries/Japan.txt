@@ -1,0 +1,60 @@
+#profile-title: Japan (JP)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Japan (JP) — 55 configs — 2026-10-20 14:48 UTC
+JP 🇯🇵 | 334ms | b3cb3
+JP 🇯🇵 | 334ms | fe548
+JP 🇯🇵 | 338ms | 43252
+JP 🇯🇵 | 342ms | cb11c
+JP 🇯🇵 | 445ms | 61004
+JP 🇯🇵 | 449ms | b34b0
+JP 🇯🇵 | 452ms | a7325
+JP 🇯🇵 | 460ms | 58d88
+JP 🇯🇵 | 461ms | bcbb2
+JP 🇯🇵 | 461ms | e17cc
+JP 🇯🇵 | 461ms | fcf3c
+JP 🇯🇵 | 463ms | 35949
+JP 🇯🇵 | 467ms | 2202f
+JP 🇯🇵 | 472ms | 2a356
+JP 🇯🇵 | 474ms | 244e1
+JP 🇯🇵 | 476ms | 2f661
+JP 🇯🇵 | 477ms | 23a37
+JP 🇯🇵 | 479ms | 8b653
+JP 🇯🇵 | 480ms | 680b5
+JP 🇯🇵 | 488ms | df616
+JP 🇯🇵 | 493ms | cb751
+JP 🇯🇵 | 524ms | 171fd
+JP 🇯🇵 | 542ms | 3bcb4
+JP 🇯🇵 | 631ms | e2e02
+JP 🇯🇵 | 638ms | f0ee4
+JP 🇯🇵 | 640ms | dd521
+JP 🇯🇵 | 643ms | cffbc
+JP 🇯🇵 | 649ms | 2b6de
+JP 🇯🇵 | 651ms | d4a3e
+JP 🇯🇵 | 651ms | bc88e
+JP 🇯🇵 | 653ms | ec870
+JP 🇯🇵 | 656ms | 711a7
+JP 🇯🇵 | 661ms | 4aa7b
+JP 🇯🇵 | 662ms | e5a15
+JP 🇯🇵 | 662ms | 6ef10
+JP 🇯🇵 | 663ms | c4b82
+JP 🇯🇵 | 673ms | 1ed89
+JP 🇯🇵 | 678ms | f861b
+JP 🇯🇵 | 701ms | 1f510
+JP 🇯🇵 | 704ms | 92665
+JP 🇯🇵 | 722ms | 0d359
+JP 🇯🇵 | 740ms | b03fc
+JP 🇯🇵 | 940ms | 6c6ed
+JP 🇯🇵 | 1070ms | c68c5
+JP 🇯🇵 | 1165ms | ea719
+JP 🇯🇵 | 1182ms | 5d2f8
+JP 🇯🇵 | 1264ms | 62fb6
+JP 🇯🇵 | 1552ms | 49d7d
+JP 🇯🇵 | 1567ms | 2ce94
+JP 🇯🇵 | 1755ms | be96a
+JP 🇯🇵 | 2159ms | 9ec81
+JP 🇯🇵 | 2318ms | cddbd
+JP 🇯🇵 | 3172ms | 4d5e6
+JP 🇯🇵 | 3267ms | 24bf8
+JP 🇯🇵 | 5455ms | a0e4b

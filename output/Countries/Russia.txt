@@ -1,0 +1,27 @@
+#profile-title: Russia (RU)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Russia (RU) — 22 configs — 2026-10-20 14:48 UTC
+RU 🇷🇺 | 610ms | 8f1ad
+RU 🇷🇺 | 727ms | b9beb
+RU 🇷🇺 | 753ms | 2f25d
+RU 🇷🇺 | 787ms | a0f74
+RU 🇷🇺 | 1000ms | dac30
+RU 🇷🇺 | 1007ms | c38c2
+RU 🇷🇺 | 1027ms | fdfa5
+RU 🇷🇺 | 1063ms | c88df
+RU 🇷🇺 | 1086ms | 25e13
+RU 🇷🇺 | 1094ms | 36eda
+RU 🇷🇺 | 1112ms | 202e3
+RU 🇷🇺 | 1116ms | 6b72d
+RU 🇷🇺 | 1122ms | e0d45
+RU 🇷🇺 | 1164ms | c5f70
+RU 🇷🇺 | 1683ms | 3e771
+RU 🇷🇺 | 2402ms | c8489
+RU 🇷🇺 | 2459ms | 36dbf
+RU 🇷🇺 | 3290ms | 0fb45
+RU 🇷🇺 | 3545ms | 419fb
+RU 🇷🇺 | 3920ms | 5bcef
+RU 🇷🇺 | 4267ms | 4a4f4
+RU 🇷🇺 | 5755ms | 76f46

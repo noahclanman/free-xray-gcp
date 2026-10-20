@@ -1,0 +1,20 @@
+#profile-title: Finland (FI)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Finland (FI) — 15 configs — 2026-10-20 14:48 UTC
+FI 🇫🇮 | 510ms | f5c4a
+FI 🇫🇮 | 739ms | 5ff4a
+FI 🇫🇮 | 1131ms | e1100
+FI 🇫🇮 | 1727ms | 3209c
+FI 🇫🇮 | 1753ms | 91ac1
+FI 🇫🇮 | 1763ms | a3058
+FI 🇫🇮 | 1884ms | 06b7d
+FI 🇫🇮 | 1884ms | 27ef5
+FI 🇫🇮 | 1917ms | 57f32
+FI 🇫🇮 | 1917ms | 8f29f
+FI 🇫🇮 | 2058ms | 1f5c6
+FI 🇫🇮 | 3115ms | b6db9
+FI 🇫🇮 | 4565ms | 2356c
+FI 🇫🇮 | 5406ms | 81f7b
+FI 🇫🇮 | 6720ms | 25927

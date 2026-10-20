@@ -1,0 +1,14 @@
+#profile-title: Italy (IT)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Italy (IT) — 9 configs — 2026-10-20 14:48 UTC
+IT 🇮🇹 | 492ms | 4d37b
+IT 🇮🇹 | 525ms | 66158
+IT 🇮🇹 | 601ms | 67bde
+IT 🇮🇹 | 603ms | 1bc05
+IT 🇮🇹 | 682ms | 8666e
+IT 🇮🇹 | 697ms | 9d300
+IT 🇮🇹 | 3191ms | 2c852
+IT 🇮🇹 | 5214ms | 9c9d6
+IT 🇮🇹 | 5628ms | 04821

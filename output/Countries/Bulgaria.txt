@@ -1,0 +1,12 @@
+#profile-title: Bulgaria (BG)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Bulgaria (BG) — 7 configs — 2026-10-20 14:48 UTC
+BG 🇧🇬 | 767ms | 33630
+BG 🇧🇬 | 1084ms | af698
+BG 🇧🇬 | 1210ms | 309d1
+BG 🇧🇬 | 1283ms | cc117
+BG 🇧🇬 | 1313ms | 5d20b
+BG 🇧🇬 | 1372ms | 09590
+BG 🇧🇬 | 2282ms | 7228c
