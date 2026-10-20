@@ -91,7 +91,7 @@ python scripts/update.py          # needs Python 3.9+ and xray on PATH (or XRAY_
 |---|---|---|
 | `XRAY_BIN` | `xray` | path to the Xray binary used for the real test |
 | `MAX_OUTPUT` | `1000` | cap on published configs |
-| `MAX_TEST_MINUTES` | `20` | time budget for the real test phase |
+| `MAX_TEST_MINUTES` | `20` | time budget for the real test phase (CI uses 15) |
 | `TEST_WORKERS` | `16` | parallel Xray instances |
 | `TEST_TIMEOUT` | `7` | seconds allowed for one proxied request |
 | `TEST_URLS` | gstatic + cloudflare `generate_204` | fallback test targets |

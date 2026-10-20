@@ -8,6 +8,7 @@ on:
     paths:
       - "sources.txt"
       - "scripts/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
@@ -45,7 +46,7 @@ jobs:
           BRAND: "@noahclanman"
           XRAY_BIN: ${{ runner.temp }}/xray/xray
           TEST_WORKERS: "16"
-          MAX_TEST_MINUTES: "20"
+          MAX_TEST_MINUTES: "15"
           TEST_TIMEOUT: "7"
           TCP_TIMEOUT: "1.5"
           FAST_MS: "400"
@@ -55,11 +56,15 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output
+          # Another run may have pushed while this one was testing. Rebase the
+          # freshly built output onto whatever is on the remote right now
+          # instead of `git pull --rebase`, which conflicts on regenerated files.
+          git fetch -q origin "${GITHUB_REF_NAME}"
+          git reset -q --soft "origin/${GITHUB_REF_NAME}"
+          git add -A output
           if git diff --cached --quiet; then
             echo "No changes."
           else
             git commit -m "update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase -q
             git push
           fi

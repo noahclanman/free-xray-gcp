@@ -184,6 +184,6 @@ workflow run turns red.
 |---|---|
 | Schedule | every 30 minutes (`cron: */30 * * * *`) |
 | Manual | Actions → *Update GCP V2ray configs* → Run workflow |
-| Time budget | 20 min of real testing, 45 min job limit |
+| Time budget | 15 min of real testing, 45 min job limit |
 | On zero working configs | previous `output/` kept, run fails |
 | Cache | raw ≈ 5 min, jsDelivr ≈ 12 h |
