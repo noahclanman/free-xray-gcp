@@ -177,7 +177,11 @@ one-click **Sync fork** or any commit resets that timer.
 - **Custom domain:** put Cloudflare in front of `raw.githubusercontent.com` for your own path,
   or use jsDelivr (`cdn.jsdelivr.net/gh/<you>/<repo>@main/output/...`).
 - **Your own branding:** set `CHANNEL` and `BRAND`, and regenerate the README assets with
-  `python scripts/make_assets.py` (needs `pip install "qrcode[pil]"`).
+  `python scripts/make_assets.py` (needs `pip install "qrcode[pil]"`). It produces
+  `assets/hero.png`, `assets/pipeline.png`, `assets/social-preview.png` and the QR codes.
+- **Social preview:** GitHub does not accept SVG here, so upload `assets/social-preview.png`
+  (1280×640) under **Settings → General → Social preview** — it is what people see when the
+  repo is shared on Telegram, X or Discord.
 - **Pull requests to upstream:** see [CONTRIBUTING.md](CONTRIBUTING.md). Please do not PR
   generated files under `output/` — CI owns that directory.
 

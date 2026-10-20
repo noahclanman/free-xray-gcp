@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Free Xray Configs — real-delay verified, rebuilt every 30 minutes" width="100%">
+<img src="assets/hero.png" alt="Free Xray Configs — real-delay verified, rebuilt every 30 minutes" width="100%">
 
 <br>
 
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/noahclanman/free-xray-gcp/main/output/all/conf
 
 Most free-config repositories publish a big number and let you guess. Here is the uncomfortable answer, **measured rather than estimated**: the majority of any free config pool is dead at any given moment. That is a property of free configs, not of this repository — so instead of hiding it, every run measures it and sorts by it.
 
-<img src="assets/pipeline.svg" alt="Pipeline: collect → repair → dial → prove → publish" width="100%">
+<img src="assets/pipeline.png" alt="Pipeline: collect → repair → dial → prove → publish" width="100%">
 
 | Stage | The question it asks | Cost |
 |---|---|---|

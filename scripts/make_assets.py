@@ -1,7 +1,8 @@
-"""Generate the README assets (hero banner, pipeline diagram, QR codes).
+"""Generate the README assets (hero banner, pipeline diagram, social card, QR codes).
 
-Run once after changing links; the images are committed so the README never
-depends on an external image service:
+Everything is rendered at 4x and downscaled to 2x, so the PNGs stay sharp on
+retina displays and on GitHub's image proxy (which never serves a blurry SVG
+font fallback).
 
     pip install "qrcode[pil]"
     python scripts/make_assets.py
@@ -9,6 +10,7 @@ depends on an external image service:
 from pathlib import Path
 
 import qrcode
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 from qrcode.constants import ERROR_CORRECT_M
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -32,144 +34,280 @@ QR_CODES = {
     "qr_ton": TON,
 }
 
-HERO = """<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Free Xray Configs — real-delay verified, updated every 30 minutes">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#08101d"/>
-      <stop offset="0.55" stop-color="#0b1a2b"/>
-      <stop offset="1" stop-color="#062430"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#19f5b4" stop-opacity="0.55"/>
-      <stop offset="0.5" stop-color="#1d3a52" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#2bb3ff" stop-opacity="0.55"/>
-    </linearGradient>
-    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#b9f4ff"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.12" cy="0.18" r="0.75">
-      <stop offset="0" stop-color="#19f5b4" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#19f5b4" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+# palette
+BG_A = (7, 12, 21)
+BG_B = (8, 19, 27)
+WHITE = (255, 255, 255)
+MUTED = (158, 182, 201)
+DIM = (108, 134, 153)
+ACCENT = (25, 240, 178)
+BLUE = (52, 176, 255)
+PANEL = (8, 21, 33)
+PANEL_EDGE = (30, 60, 84)
 
-  <rect width="1200" height="330" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="330" rx="20" fill="url(#glow)"/>
-  <rect x="1" y="1" width="1198" height="328" rx="19" fill="none" stroke="url(#edge)" stroke-width="2"/>
-
-  <circle cx="120" cy="104" r="40" fill="none" stroke="#19f5b4" stroke-opacity="0.55" stroke-width="2"/>
-  <ellipse cx="120" cy="104" rx="40" ry="16" fill="none" stroke="#19f5b4" stroke-opacity="0.35"/>
-  <ellipse cx="120" cy="104" rx="17" ry="40" fill="none" stroke="#19f5b4" stroke-opacity="0.35"/>
-  <line x1="80" y1="104" x2="160" y2="104" stroke="#19f5b4" stroke-opacity="0.25"/>
-
-  <text x="190" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3.4" fill="#19f5b4">LIVE — REBUILT EVERY 30 MINUTES</text>
-  <text x="186" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="url(#text)">Free Xray Configs</text>
-  <text x="190" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#9db8cc">Not a scraped dump. Every config proxied a real HTTP request before it shipped.</text>
-
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">
-    <rect x="190" y="208" width="82" height="32" rx="16" fill="#0f2b3a" stroke="#1f5a6b"/>
-    <text x="231" y="229" fill="#7ee7ff" text-anchor="middle">VLESS</text>
-    <rect x="284" y="208" width="86" height="32" rx="16" fill="#0f2b3a" stroke="#1f5a6b"/>
-    <text x="327" y="229" fill="#7ee7ff" text-anchor="middle">VMess</text>
-    <rect x="382" y="208" width="92" height="32" rx="16" fill="#0f2b3a" stroke="#1f5a6b"/>
-    <text x="428" y="229" fill="#7ee7ff" text-anchor="middle">Trojan</text>
-    <rect x="486" y="208" width="136" height="32" rx="16" fill="#0f2b3a" stroke="#1f5a6b"/>
-    <text x="554" y="229" fill="#7ee7ff" text-anchor="middle">Shadowsocks</text>
-  </g>
-
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c3d6e4">
-    <text x="190" y="280" fill="#6e879b">Asia first · GCP first · real measured latency · no sign-up</text>
-  </g>
-
-  <rect x="742" y="58" width="408" height="214" rx="14" fill="#081521" fill-opacity="0.86" stroke="#1d3a52"/>
-  <text x="770" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2" fill="#7fe7c4">WHAT EVERY LINK HAS SURVIVED</text>
-
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#d7e6f0">
-    <circle cx="782" cy="122" r="7" fill="#19f5b4" fill-opacity="0.18" stroke="#19f5b4"/>
-    <path d="M778.5 122 l2.5 2.6 l4.6 -5.2" fill="none" stroke="#19f5b4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="804" y="127">Parsed, repaired, deduplicated</text>
-
-    <circle cx="782" cy="157" r="7" fill="#19f5b4" fill-opacity="0.18" stroke="#19f5b4"/>
-    <path d="M778.5 157 l2.5 2.6 l4.6 -5.2" fill="none" stroke="#19f5b4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="804" y="162">TCP handshake actually completed</text>
-
-    <circle cx="782" cy="192" r="7" fill="#19f5b4" fill-opacity="0.18" stroke="#19f5b4"/>
-    <path d="M778.5 192 l2.5 2.6 l4.6 -5.2" fill="none" stroke="#19f5b4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="804" y="197">Fetched a real URL through Xray</text>
-
-    <circle cx="782" cy="227" r="7" fill="#19f5b4" fill-opacity="0.18" stroke="#19f5b4"/>
-    <path d="M778.5 227 l2.5 2.6 l4.6 -5.2" fill="none" stroke="#19f5b4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="804" y="232">Sorted by a measured delay, not a ping</text>
-  </g>
-
-  <text x="1128" y="300" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5d7788" text-anchor="end">github.com/noahclanman/free-xray-gcp</text>
-</svg>
-"""
-
-PIPELINE = """<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Pipeline: collect, repair, dial, prove, publish">
-  <defs>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2bb3ff" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#19f5b4" stop-opacity="0.5"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="230" rx="16" fill="#0a1522" stroke="#1d3a52"/>
-
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <g>
-      <rect x="34" y="60" width="196" height="96" rx="12" fill="#0e2233" stroke="#245a73"/>
-      <text x="52" y="86" font-size="12" font-weight="700" fill="#5fd0ff" letter-spacing="2">L0 · COLLECT</text>
-      <text x="52" y="112" font-size="14" fill="#dceaf4">GitHub lists,</text>
-      <text x="52" y="132" font-size="14" fill="#dceaf4">Telegram, base64</text>
-    </g>
-    <g>
-      <rect x="268" y="60" width="196" height="96" rx="12" fill="#0e2233" stroke="#245a73"/>
-      <text x="286" y="86" font-size="12" font-weight="700" fill="#5fd0ff" letter-spacing="2">L1 · REPAIR</text>
-      <text x="286" y="112" font-size="14" fill="#dceaf4">Parse, normalise,</text>
-      <text x="286" y="132" font-size="14" fill="#dceaf4">dedupe by identity</text>
-    </g>
-    <g>
-      <rect x="502" y="60" width="196" height="96" rx="12" fill="#0e2233" stroke="#245a73"/>
-      <text x="520" y="86" font-size="12" font-weight="700" fill="#5fd0ff" letter-spacing="2">L2 · DIAL</text>
-      <text x="520" y="112" font-size="14" fill="#dceaf4">Resolve, GeoIP,</text>
-      <text x="520" y="132" font-size="14" fill="#dceaf4">cheap TCP prefilter</text>
-    </g>
-    <g>
-      <rect x="736" y="60" width="196" height="96" rx="12" fill="#0e2233" stroke="#2c7a63"/>
-      <text x="754" y="86" font-size="12" font-weight="700" fill="#19f5b4" letter-spacing="2">L3 · PROVE</text>
-      <text x="754" y="112" font-size="14" fill="#dceaf4">Start Xray, fetch</text>
-      <text x="754" y="132" font-size="14" fill="#dceaf4">generate_204 → ms</text>
-    </g>
-    <g>
-      <rect x="970" y="60" width="196" height="96" rx="12" fill="#122a24" stroke="#19f5b4"/>
-      <text x="988" y="86" font-size="12" font-weight="700" fill="#19f5b4" letter-spacing="2">PUBLISH</text>
-      <text x="988" y="112" font-size="14" fill="#dceaf4">Asia → GCP → ms,</text>
-      <text x="988" y="132" font-size="14" fill="#dceaf4">countries + TLS</text>
-    </g>
-
-    <g stroke="#2bb3ff" stroke-width="2" fill="none" stroke-linecap="round">
-      <line x1="232" y1="108" x2="258" y2="108"/><path d="M252 102 l8 6 l-8 6"/>
-      <line x1="466" y1="108" x2="492" y2="108"/><path d="M486 102 l8 6 l-8 6"/>
-      <line x1="700" y1="108" x2="726" y2="108"/><path d="M720 102 l8 6 l-8 6"/>
-      <line x1="934" y1="108" x2="960" y2="108"/><path d="M954 102 l8 6 l-8 6"/>
-    </g>
-
-    <rect x="34" y="182" width="1132" height="10" rx="5" fill="url(#bar)"/>
-    <text x="34" y="214" font-size="12" fill="#6e879b">Everything the upstreams published</text>
-    <text x="1166" y="214" font-size="12" fill="#19f5b4" text-anchor="end">What actually survives</text>
-  </g>
-</svg>
-"""
+S = 4  # supersampling factor (4x render -> 2x output)
 
 
-def write_svg(name: str, content: str) -> None:
-    (ASSETS / name).write_text(content, encoding="utf-8", newline="\n")
-    print(f"  {name}")
+def font(size: float, weight: str = "regular") -> ImageFont.FreeTypeFont:
+    """Segoe UI when available, with graceful fallbacks for other systems."""
+    candidates = {
+        "bold": ["segoeuib.ttf", "arialbd.ttf", "DejaVuSans-Bold.ttf"],
+        "semibold": ["seguisb.ttf", "segoeuib.ttf", "arialbd.ttf", "DejaVuSans-Bold.ttf"],
+        "regular": ["segoeui.ttf", "arial.ttf", "DejaVuSans.ttf"],
+    }[weight]
+    roots = [Path("C:/Windows/Fonts"), Path("/usr/share/fonts/truetype/dejavu"), Path("/Library/Fonts")]
+    for name in candidates:
+        for root in roots:
+            candidate = root / name
+            if candidate.exists():
+                return ImageFont.truetype(str(candidate), int(size))
+    try:
+        return ImageFont.truetype(candidates[0], int(size))
+    except OSError:
+        return ImageFont.load_default(size=int(size))
+
+
+def gradient(w: int, h: int, a, b) -> Image.Image:
+    small = Image.new("RGB", (128, 128))
+    px = small.load()
+    for y in range(128):
+        for x in range(128):
+            t = (x + y) / 254
+            px[x, y] = tuple(int(a[i] + (b[i] - a[i]) * t) for i in range(3))
+    return small.resize((w, h), Image.BICUBIC)
+
+
+def add_glow(base: Image.Image, center, radius: float, opacity: float = 0.22) -> Image.Image:
+    w, h = base.size
+    low = (max(1, w // 8), max(1, h // 8))
+    mask = Image.new("L", low, 0)
+    cx, cy = center[0] / 8, center[1] / 8
+    r = radius / 8
+    ImageDraw.Draw(mask).ellipse([cx - r, cy - r, cx + r * 1.6, cy + r * 1.2], fill=255)
+    mask = mask.filter(ImageFilter.GaussianBlur(r / 2.2)).resize((w, h), Image.BICUBIC)
+    layer = Image.new("RGBA", (w, h), ACCENT + (0,))
+    layer.putalpha(mask.point(lambda v: int(v * opacity)))
+    return Image.alpha_composite(base.convert("RGBA"), layer)
+
+
+def tracked(draw, xy, text, f, fill, tracking):
+    """Draw text with letter-spacing (PIL has none built in)."""
+    x, y = xy
+    for ch in text:
+        draw.text((x, y), ch, font=f, fill=fill, anchor="ls")
+        x += draw.textlength(ch, font=f) + tracking
+
+
+def chip(draw, x, y, label, f, S: int) -> float:
+    pad = 17 * S
+    height = 30 * S
+    width = draw.textlength(label, font=f) + pad * 2
+    box = [x, y, x + width, y + height]
+    draw.rounded_rectangle(box, radius=height / 2, fill=(13, 40, 54), outline=(33, 92, 110),
+                           width=max(1, int(1.2 * S)))
+    draw.text((x + width / 2, y + height / 2 + 1), label, font=f, fill=(126, 231, 255), anchor="mm")
+    return x + width
+
+
+def check(draw, cx, cy, r, S: int):
+    draw.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(15, 58, 48), outline=ACCENT,
+                 width=max(1, int(1.5 * S)))
+    draw.line(
+        [(cx - r * 0.42, cy + r * 0.02), (cx - r * 0.10, cy + r * 0.36), (cx + r * 0.48, cy - r * 0.36)],
+        fill=ACCENT, width=max(1, int(1.8 * S)), joint="curve")
+
+
+def build_hero() -> Image.Image:
+    W, H = 1200, 320
+    w, h = W * S, H * S
+
+    def P(v):
+        return int(round(v * S))
+
+    base = gradient(w, h, BG_A, BG_B)
+    base = add_glow(base, (P(0), P(0)), P(330), 0.09)
+
+    # subtle grid
+    grid = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    gd = ImageDraw.Draw(grid)
+    for x in range(P(40), w, P(48)):
+        gd.line([(x, 0), (x, h)], fill=(255, 255, 255, 6), width=1)
+    for y in range(P(40), h, P(48)):
+        gd.line([(0, y), (w, y)], fill=(255, 255, 255, 6), width=1)
+    base = Image.alpha_composite(base, grid)
+
+    # right panel (translucent)
+    panel = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    pd = ImageDraw.Draw(panel)
+    pd.rounded_rectangle([P(756), P(50), P(1150), P(268)], radius=P(16),
+                         fill=PANEL + (228,), outline=PANEL_EDGE + (255,), width=max(1, P(1.2)))
+    base = Image.alpha_composite(base, panel)
+    d = ImageDraw.Draw(base)
+
+    # globe
+    cx, cy, r = P(126), P(112), P(42)
+    stroke = max(2, P(1.8))
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(25, 240, 178, 190), width=stroke)
+    d.ellipse([cx - r, cy - int(r * 0.36), cx + r, cy + int(r * 0.36)],
+              outline=(25, 240, 178, 110), width=max(1, P(1)))
+    d.ellipse([cx - int(r * 0.36), cy - r, cx + int(r * 0.36), cy + r],
+              outline=(25, 240, 178, 110), width=max(1, P(1)))
+    d.line([(cx - r, cy), (cx + r, cy)], fill=(25, 240, 178, 80), width=max(1, P(1)))
+
+    # eyebrow / title / subtitle
+    f_eye = font(P(12.5), "bold")
+    tracked(d, (P(200), P(72)), "LIVE  —  REBUILT EVERY 30 MINUTES", f_eye, ACCENT, P(3.1))
+
+    f_title = font(P(55), "bold")
+    d.text((P(196), P(158)), "Free Xray Configs", font=f_title, fill=WHITE, anchor="ls")
+
+    f_sub = font(P(17), "regular")
+    d.text((P(200), P(196)),
+           "Every config proxied a real HTTP request before it shipped.",
+           font=f_sub, fill=MUTED, anchor="ls")
+
+    # protocol chips
+    f_chip = font(P(13), "bold")
+    x = P(200)
+    for label in ("VLESS", "VMess", "Trojan", "Shadowsocks"):
+        x = chip(d, x, P(214), label, f_chip, S) + P(11)
+
+    f_foot = font(P(11.5), "regular")
+    d.text((P(200), P(288)), "Asia first  ·  GCP first  ·  measured latency  ·  no sign-up",
+           font=f_foot, fill=DIM, anchor="ls")
+    d.text((P(1150), P(300)), f"github.com/{REPO}", font=font(P(10.5)), fill=(88, 112, 130),
+           anchor="rs")
+
+    # panel checklist
+    f_pt = font(P(10), "bold")
+    tracked(d, (P(786), P(86)), "WHAT EVERY LINK HAS SURVIVED", f_pt, (127, 231, 196), P(1.9))
+    f_row = font(P(13), "regular")
+    rows = [
+        "Parsed, repaired, deduplicated",
+        "TCP handshake actually completed",
+        "Fetched a real URL through Xray",
+        "Sorted by a measured delay, not a ping",
+    ]
+    for i, row in enumerate(rows):
+        ry = P(124 + i * 36)
+        check(d, P(796), ry - P(1), P(7.5), S)
+        d.text((P(818), ry), row, font=f_row, fill=(216, 231, 241), anchor="lm")
+
+    # rounded mask + downscale to 2x
+    mask = Image.new("L", (w, h), 0)
+    ImageDraw.Draw(mask).rounded_rectangle([0, 0, w - 1, h - 1], radius=P(18), fill=255)
+    base.putalpha(mask)
+    return base.resize((W * 2, H * 2), Image.LANCZOS)
+
+
+def build_pipeline() -> Image.Image:
+    W, H = 1200, 220
+    w, h = W * S, H * S
+
+    def P(v):
+        return int(round(v * S))
+
+    base = gradient(w, h, BG_A, BG_B)
+    base = add_glow(base, (P(1120), P(20)), P(420), 0.10)
+    d = ImageDraw.Draw(base)
+
+    cards = [
+        ("L0 · COLLECT", ["GitHub lists,", "Telegram, base64"], (52, 176, 255), (14, 34, 51), (36, 90, 115)),
+        ("L1 · REPAIR", ["Parse, normalise,", "dedupe by identity"], (52, 176, 255), (14, 34, 51), (36, 90, 115)),
+        ("L2 · DIAL", ["Resolve, GeoIP,", "cheap TCP prefilter"], (52, 176, 255), (14, 34, 51), (36, 90, 115)),
+        ("L3 · PROVE", ["Start Xray, fetch", "generate_204 → ms"], (25, 240, 178), (13, 40, 40), (38, 110, 92)),
+        ("PUBLISH", ["Asia → GCP → ms,", "countries + TLS"], (25, 240, 178), (16, 45, 37), ACCENT),
+    ]
+
+    x0, gap, cw, top, ch = 24, 24, 212, 34, 96
+    f_head = font(P(10.5), "bold")
+    f_body = font(P(13), "regular")
+
+    for i, (title, lines, accent, fill, edge) in enumerate(cards):
+        x = x0 + i * (cw + gap)
+        d.rounded_rectangle([P(x), P(top), P(x + cw), P(top + ch)], radius=P(11),
+                            fill=fill, outline=edge, width=max(1, P(1.3)))
+        tracked(d, (P(x + 16), P(top + 26)), title, f_head, accent, P(1.6))
+        for j, line in enumerate(lines):
+            d.text((P(x + 16), P(top + 50 + j * 20)), line, font=f_body, fill=(219, 233, 243), anchor="ls")
+
+    # arrows
+    for i in range(len(cards) - 1):
+        x = x0 + i * (cw + gap) + cw
+        y = top + ch // 2
+        d.line([(P(x + 5), P(y)), (P(x + gap - 7), P(y))], fill=BLUE, width=max(2, P(1.6)))
+        d.polygon([(P(x + gap - 7), P(y - 4)), (P(x + gap - 1), P(y)), (P(x + gap - 7), P(y + 4))], fill=BLUE)
+
+    # survival bar
+    bar_y, bar_h = 158, 7
+    for i in range(P(24), P(1176)):
+        t = (i - P(24)) / (P(1176) - P(24))
+        color = tuple(int(BLUE[k] + (ACCENT[k] - BLUE[k]) * t) for k in range(3)) + (210,)
+        d.line([(i, P(bar_y)), (i, P(bar_y + bar_h))], fill=color)
+
+    f_cap = font(P(11.5), "regular")
+    d.text((P(24), P(196)), "Everything the upstreams published", font=f_cap, fill=DIM, anchor="ls")
+    d.text((P(1176), P(196)), "What actually survives", font=font(P(11.5), "semibold"), fill=ACCENT, anchor="rs")
+
+    mask = Image.new("L", (w, h), 0)
+    ImageDraw.Draw(mask).rounded_rectangle([0, 0, w - 1, h - 1], radius=P(14), fill=255)
+    base.putalpha(mask)
+    return base.resize((W * 2, H * 2), Image.LANCZOS)
+
+
+def build_social() -> Image.Image:
+    W, H = 1280, 640
+    w, h = W * S, H * S
+
+    def P(v):
+        return int(round(v * S))
+
+    base = gradient(w, h, BG_A, BG_B)
+    base = add_glow(base, (P(640), P(-40)), P(620), 0.09)
+    d = ImageDraw.Draw(base)
+
+    # globe mark
+    cx, cy, r = P(640), P(96), P(34)
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=ACCENT + (200,), width=max(2, P(2)))
+    d.ellipse([cx - r, cy - int(r * 0.36), cx + r, cy + int(r * 0.36)],
+              outline=ACCENT + (110,), width=max(1, P(1)))
+    d.ellipse([cx - int(r * 0.36), cy - r, cx + int(r * 0.36), cy + r],
+              outline=ACCENT + (110,), width=max(1, P(1)))
+
+    f_eye = font(P(14), "bold")
+    text = "LIVE  —  REBUILT EVERY 30 MINUTES"
+    width = sum(d.textlength(c, font=f_eye) + P(3.4) for c in text) - P(3.4)
+    tracked(d, (P(640) - width / 2, P(170)), text, f_eye, ACCENT, P(3.4))
+
+    f_title = font(P(76), "bold")
+    d.text((P(640), P(300)), "Free Xray Configs", font=f_title, fill=WHITE, anchor="ms")
+
+    f_sub = font(P(23), "regular")
+    d.text((P(640), P(348)), "Real-delay verified  ·  GCP-first  ·  Asia-first",
+           font=f_sub, fill=MUTED, anchor="ms")
+
+    f_chip = font(P(15), "bold")
+    labels = ("VLESS", "VMess", "Trojan", "Shadowsocks")
+    widths = [d.textlength(l, font=f_chip) + P(34) for l in labels]
+    total = sum(widths) + P(12) * (len(labels) - 1)
+    x = P(640) - total / 2
+    for label, cw in zip(labels, widths):
+        height = P(34)
+        d.rounded_rectangle([x, P(392), x + cw, P(392) + height], radius=height / 2,
+                            fill=(13, 40, 54), outline=(33, 92, 110), width=max(1, P(1.3)))
+        d.text((x + cw / 2, P(392) + height / 2 + 1), label, font=f_chip,
+               fill=(126, 231, 255), anchor="mm")
+        x += cw + P(12)
+
+    f_url = font(P(21), "semibold")
+    d.text((P(640), P(500)), "t.me/xray_ehi_hub", font=f_url, fill=ACCENT, anchor="ms")
+    d.text((P(640), P(536)), f"github.com/{REPO}", font=font(P(15)), fill=DIM, anchor="ms")
+
+    return base.resize((W, H), Image.LANCZOS)
 
 
 def write_qr(name: str, data: str) -> None:
-    qr = qrcode.QRCode(error_correction=ERROR_CORRECT_M, box_size=12, border=4)
+    qr = qrcode.QRCode(error_correction=ERROR_CORRECT_M, box_size=14, border=4)
     qr.add_data(data)
     qr.make(fit=True)
     img = qr.make_image(fill_color="#0b1220", back_color="white")
@@ -179,12 +317,19 @@ def write_qr(name: str, data: str) -> None:
 
 def main() -> None:
     ASSETS.mkdir(exist_ok=True)
-    print("svg:")
-    write_svg("hero.svg", HERO)
-    write_svg("pipeline.svg", PIPELINE)
-    print("qr:")
+    for name, builder in (("hero", build_hero), ("pipeline", build_pipeline), ("social-preview", build_social)):
+        img = builder()
+        img.save(ASSETS / f"{name}.png", optimize=True)
+        print(f"  {name}.png  {img.size[0]}x{img.size[1]}")
+
     for name, data in QR_CODES.items():
         write_qr(name, data)
+
+    for stale in ("hero.svg", "pipeline.svg"):
+        p = ASSETS / stale
+        if p.exists():
+            p.unlink()
+            print(f"  removed {stale}")
 
 
 if __name__ == "__main__":
