@@ -1,15 +1,15 @@
 {
-  "updated_utc": "2026-10-20 13:48:38",
+  "updated_utc": "2026-10-20 13:57:11",
   "collected": 42163,
   "unique": 17619,
   "on_gcp": 10,
-  "tcp_reachable": 10181,
-  "tested": 395,
-  "working": 106,
-  "published": 106,
+  "tcp_reachable": 10377,
+  "tested": 1778,
+  "working": 500,
+  "published": 500,
   "gcp_published": 0,
   "test": "real proxy fetch https://www.gstatic.com/generate_204 / https://cp.cloudflare.com/generate_204",
   "by_region": {
-    "other": 106
+    "other": 500
   }
 }
