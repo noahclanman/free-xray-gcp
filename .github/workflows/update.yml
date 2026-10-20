@@ -43,7 +43,8 @@ jobs:
           PROTOCOLS: "vmess,vless,trojan,ss"
           MAX_OUTPUT: "1000"
           REPO: ${{ github.repository }}
-          BRAND: "@noahclanman"
+          BRAND: "@xray_ehi_hub"
+          CHANNEL: "@xray_ehi_hub"
           XRAY_BIN: ${{ runner.temp }}/xray/xray
           TEST_WORKERS: "16"
           MAX_TEST_MINUTES: "15"

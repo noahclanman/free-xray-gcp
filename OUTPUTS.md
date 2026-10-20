@@ -112,19 +112,20 @@ subscriptions. Use `all/` or `regions/` for that.
 ## 6. Naming scheme
 
 ```
-JP 🇯🇵 | 288ms | 1d974
-GCP SG 🇸🇬 | 402ms | 3ae49
+JP 🇯🇵 | @xray_ehi_hub | 1d974
+GCP SG 🇸🇬 | @xray_ehi_hub | 3ae49
 ```
 
 | Part | Meaning |
 |---|---|
 | `GCP ` | optional prefix: the server IP belongs to Google Cloud |
 | `JP 🇯🇵` | ISO country code + flag, from the server IP |
-| `288ms` | real proxy round trip from the GitHub runner |
+| `@xray_ehi_hub` | the channel that maintains this list (configurable with `CHANNEL`) |
 | `1d974` | first 5 hex chars of `sha1(server + credentials)` — stable ID |
 
-The hash lets clients keep a selection across refreshes even though remarks change with
-latency. Duplicate configs (same server, same credentials, different remark) are removed.
+The hash lets clients keep a selection across refreshes even though the list is regenerated. Duplicate configs (same server, same credentials, different remark) are removed.
+
+Latency is still measured on every run and still drives the ordering — `top100.txt`, `fast/` and the Asia-first sort in `all/` are all latency-ranked — but it is no longer printed in the remark.
 
 ## 7. `index.json`
 

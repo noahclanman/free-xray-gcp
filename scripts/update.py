@@ -58,7 +58,8 @@ GEOIP_URL = os.getenv(
     "GEOIP_URL", "https://download.db-ip.com/free/dbip-country-lite-%Y-%m.csv.gz")
 XRAY_BIN = os.getenv("XRAY_BIN", "xray")
 REPO = os.getenv("REPO", "")            # "owner/repo", used in headers + index.json
-BRAND = os.getenv("BRAND", "")          # optional label, e.g. "@noahclanman"
+BRAND = os.getenv("BRAND", "")          # optional label, e.g. "@xray_ehi_hub"
+CHANNEL = os.getenv("CHANNEL", "@xray_ehi_hub")  # shown inside every remark
 SUPPORT_URL = os.getenv("SUPPORT_URL", "")  # optional, shown in the list headers
 MAX_OUTPUT = int(os.getenv("MAX_OUTPUT", "1000"))
 TOP_N = int(os.getenv("TOP_N", "100"))
@@ -576,7 +577,7 @@ def rename(link, new_name):
         raw = json.dumps(j, separators=(",", ":"), ensure_ascii=False)
         return "vmess://" + base64.b64encode(raw.encode()).decode()
     u = urlparse(link)
-    return urlunparse(u._replace(fragment=quote(new_name, safe="")))
+    return urlunparse(u._replace(fragment=quote(new_name, safe="@")))
 
 
 def identity(link):
@@ -760,10 +761,13 @@ def txt_header(title, count):
 def remark(rec):
     cc = rec["cc"]
     f = flag(cc)
-    tag = rec["tag"]
     who = f"{cc} {f}".strip() if f else cc
     prefix = "GCP " if rec["region"] else ""
-    return f"{prefix}{who} | {int(rec['ms'])}ms | {tag}"
+    parts = [f"{prefix}{who}"]
+    if CHANNEL:
+        parts.append(CHANNEL)
+    parts.append(rec["tag"])
+    return " | ".join(parts)
 
 
 def write_list(path, recs, title, base64_twin=True):
