@@ -1,6 +1,6 @@
-#profile-title: Ireland (IE)
+#profile-title: Uzbekistan (UZ)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Ireland (IE) — 1 configs — 2026-10-20 14:48 UTC
-IE 🇮🇪 | 362ms | 06561
+# @noahclanman — Uzbekistan (UZ) — 1 configs — 2026-10-20 15:12 UTC
+UZ 🇺🇿 | 1237ms | 7cb7a

@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — XHTTP REALITY — 2 configs — 2026-10-20 14:48 UTC
-FR 🇫🇷 | 580ms | 1872c
-RU 🇷🇺 | 5755ms | 76f46
+# @noahclanman — XHTTP REALITY — 2 configs — 2026-10-20 15:12 UTC
+FR 🇫🇷 | 451ms | 2377a
+RU 🇷🇺 | 6871ms | 76f46

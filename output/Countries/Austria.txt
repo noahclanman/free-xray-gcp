@@ -1,6 +1,7 @@
-#profile-title: Costa Rica (CR)
+#profile-title: Austria (AT)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Costa Rica (CR) — 1 configs — 2026-10-20 14:48 UTC
-CR 🇨🇷 | 3735ms | 64ce9
+# @noahclanman — Austria (AT) — 2 configs — 2026-10-20 15:12 UTC
+AT 🇦🇹 | 591ms | c98b9
+AT 🇦🇹 | 591ms | 5dce1

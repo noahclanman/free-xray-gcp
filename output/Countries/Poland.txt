@@ -2,20 +2,22 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Poland (PL) — 16 configs — 2026-10-20 14:48 UTC
-PL 🇵🇱 | 511ms | af465
-PL 🇵🇱 | 631ms | e5955
-PL 🇵🇱 | 662ms | 15307
-PL 🇵🇱 | 679ms | 2ac94
-PL 🇵🇱 | 709ms | 9a0af
-PL 🇵🇱 | 719ms | 53341
-PL 🇵🇱 | 720ms | 5a647
-PL 🇵🇱 | 723ms | eaf7b
-PL 🇵🇱 | 743ms | 5ddc4
-PL 🇵🇱 | 753ms | 24f50
-PL 🇵🇱 | 796ms | 5c36d
-PL 🇵🇱 | 907ms | 2c9c0
-PL 🇵🇱 | 1014ms | cbf15
-PL 🇵🇱 | 1485ms | e13d4
-PL 🇵🇱 | 1677ms | 316ad
-PL 🇵🇱 | 1951ms | 95612
+# @noahclanman — Poland (PL) — 18 configs — 2026-10-20 15:12 UTC
+PL 🇵🇱 | 468ms | 2ac94
+PL 🇵🇱 | 472ms | ed322
+PL 🇵🇱 | 486ms | 24f50
+PL 🇵🇱 | 493ms | eaf7b
+PL 🇵🇱 | 497ms | 6dd08
+PL 🇵🇱 | 523ms | 5bd53
+PL 🇵🇱 | 536ms | a3048
+PL 🇵🇱 | 539ms | 90006
+PL 🇵🇱 | 539ms | 5ddc4
+PL 🇵🇱 | 570ms | cbf15
+PL 🇵🇱 | 637ms | 2c9c0
+PL 🇵🇱 | 653ms | 53341
+PL 🇵🇱 | 683ms | f8db6
+PL 🇵🇱 | 737ms | 194e9
+PL 🇵🇱 | 1317ms | e13d4
+PL 🇵🇱 | 1358ms | c41a0
+PL 🇵🇱 | 1514ms | 0390f
+PL 🇵🇱 | 2058ms | bfacb
