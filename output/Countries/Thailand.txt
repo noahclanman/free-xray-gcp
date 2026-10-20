@@ -2,8 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Thailand (TH) — 4 configs — 2026-10-20 18:14 UTC
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2010f70
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2076cfe
-vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2062d9a
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20087b7
+# @xray_ehi_hub — Thailand (TH) — 1 configs — 2026-10-20 18:30 UTC
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20af546

@@ -2,11 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Italy (IT) — 7 configs — 2026-10-20 18:14 UTC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20fc94d
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204d37b
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204f0e5
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20159a8
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20de2c1
+# @xray_ehi_hub — Italy (IT) — 5 configs — 2026-10-20 18:30 UTC
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2067bde
+vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?security=reality&type=tcp&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=37fbf155c7a9f3ff&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%208666e
 vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?flow=xtls-rprx-vision&fp=chrome&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%209d300
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%203cbd8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20de2c1
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?flow=xtls-rprx-vision&fp=firefox&host=www.cloudflare.com&path=%2F&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20dfcd7

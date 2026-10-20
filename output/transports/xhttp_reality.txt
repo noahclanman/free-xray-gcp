@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-10-20 18:14 UTC
-vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@pl-03.avroraservice.online:8443?mode=stream-one&path=/xhttp&security=reality&encryption=none&pbk=upBeYE6Fyy46znMKXx-jkC66hAgARHcwYIdjNB4yXl8&fp=chrome&type=xhttp&sni=cdn-pl.cahmes.space&sid=a7a3b3ffe0572fce#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2076f46
+# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-10-20 18:30 UTC
+vless://2b9fc113-db27-4635-86d8-fa4556a5b7ba@nl.cachevault.net:443?mode=auto&path=%2Fstatic%2F&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A0%2C%22maxConnections%22%3A1%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%7D&pbk=XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE&fp=firefox&type=xhttp&sni=nl.cachevault.net&sid=8ba02790a1480848#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20456fb

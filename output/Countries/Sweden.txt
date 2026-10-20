@@ -2,5 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Sweden (SE) — 1 configs — 2026-10-20 18:14 UTC
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?&sni=5.178.109.174&type=ws&headerType=none&host=5.178.109.174&path=/vless#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bbed4
+# @xray_ehi_hub — Sweden (SE) — 3 configs — 2026-10-20 18:30 UTC
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20a7f25
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@109.120.157.35:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20dc58d
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e7a43
