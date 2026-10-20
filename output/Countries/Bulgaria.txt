@@ -1,0 +1,9 @@
+#profile-title: Bulgaria (BG)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @noahclanman — Bulgaria (BG) — 4 configs — 2026-10-20 16:18 UTC
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=firefox&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%201204ms%20%7C%20309d1
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?encryption=none&security=reality&sni=bg2.univesalsrv.com&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&mode=gun&authority=&serviceName=api.v2.PushService#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%201261ms%20%7C%205d20b
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sid=501ab3325b77e1ca#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%201693ms%20%7C%207228c
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%201708ms%20%7C%202f77b
