@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — United Arab Emirates (AE) — 3 configs — 2026-10-20 15:12 UTC
-AE 🇦🇪 | 1164ms | ee999
-AE 🇦🇪 | 1168ms | 44a5f
-AE 🇦🇪 | 1220ms | 2c102
+# @noahclanman — United Arab Emirates (AE) — 3 configs — 2026-10-20 15:49 UTC
+AE 🇦🇪 | 1299ms | 29a62
+AE 🇦🇪 | 1676ms | 58293
+AE 🇦🇪 | 2103ms | fdd27

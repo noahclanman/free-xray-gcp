@@ -2,39 +2,20 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Hong Kong (HK) — 35 configs — 2026-10-20 15:12 UTC
-HK 🇭🇰 | 955ms | 87f58
-HK 🇭🇰 | 1023ms | f64e9
-HK 🇭🇰 | 1039ms | 1aed6
-HK 🇭🇰 | 1048ms | aaac0
-HK 🇭🇰 | 1052ms | 1f1e7
-HK 🇭🇰 | 1061ms | 8c13d
-HK 🇭🇰 | 1077ms | 0a143
-HK 🇭🇰 | 1085ms | 3713c
-HK 🇭🇰 | 1092ms | e63a2
-HK 🇭🇰 | 1094ms | 62c3f
-HK 🇭🇰 | 1105ms | 6c97e
-HK 🇭🇰 | 1109ms | ec683
-HK 🇭🇰 | 1111ms | 30cc8
-HK 🇭🇰 | 1115ms | e821c
-HK 🇭🇰 | 1119ms | f61c1
-HK 🇭🇰 | 1140ms | 82788
-HK 🇭🇰 | 1153ms | 2f40f
-HK 🇭🇰 | 1437ms | daa1e
-HK 🇭🇰 | 1592ms | 993e1
-HK 🇭🇰 | 1607ms | ebbdc
-HK 🇭🇰 | 1647ms | d10c5
-HK 🇭🇰 | 1953ms | 4bfc2
-HK 🇭🇰 | 2103ms | a5b6e
-HK 🇭🇰 | 2331ms | 802b0
-HK 🇭🇰 | 2855ms | 60288
-HK 🇭🇰 | 3137ms | 82564
-HK 🇭🇰 | 3143ms | f414a
-HK 🇭🇰 | 3567ms | 694f1
-HK 🇭🇰 | 3787ms | 0e555
-HK 🇭🇰 | 4685ms | 84f98
-HK 🇭🇰 | 4720ms | 1073b
-HK 🇭🇰 | 4872ms | 2fab5
-HK 🇭🇰 | 5110ms | ab1f7
-HK 🇭🇰 | 7381ms | 29974
-HK 🇭🇰 | 8627ms | 1851c
+# @noahclanman — Hong Kong (HK) — 16 configs — 2026-10-20 15:49 UTC
+HK 🇭🇰 | 851ms | d31b2
+HK 🇭🇰 | 1553ms | 0f169
+HK 🇭🇰 | 1607ms | c9c4d
+HK 🇭🇰 | 1753ms | d10c5
+HK 🇭🇰 | 1991ms | 2fab5
+HK 🇭🇰 | 2028ms | bf391
+HK 🇭🇰 | 2161ms | 90fec
+HK 🇭🇰 | 2318ms | 7ce0f
+HK 🇭🇰 | 2428ms | a5b6e
+HK 🇭🇰 | 2586ms | 0e555
+HK 🇭🇰 | 2837ms | aae9f
+HK 🇭🇰 | 3190ms | 5aab1
+HK 🇭🇰 | 3713ms | 12707
+HK 🇭🇰 | 3828ms | 3ef09
+HK 🇭🇰 | 3910ms | 82564
+HK 🇭🇰 | 3955ms | 62c3f

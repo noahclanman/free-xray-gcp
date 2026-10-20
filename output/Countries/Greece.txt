@@ -1,6 +1,6 @@
-#profile-title: Uzbekistan (UZ)
+#profile-title: Greece (GR)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Uzbekistan (UZ) — 1 configs — 2026-10-20 15:12 UTC
-UZ 🇺🇿 | 1237ms | 7cb7a
+# @noahclanman — Greece (GR) — 1 configs — 2026-10-20 15:49 UTC
+GR 🇬🇷 | 777ms | 2e2c5

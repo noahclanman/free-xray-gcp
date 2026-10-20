@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Thailand (TH) — 2 configs — 2026-10-20 15:12 UTC
-TH 🇹🇭 | 1074ms | 10f70
-TH 🇹🇭 | 2740ms | 76cfe
+# @noahclanman — Thailand (TH) — 1 configs — 2026-10-20 15:49 UTC
+TH 🇹🇭 | 820ms | 10f70

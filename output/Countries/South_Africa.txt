@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — South Africa (ZA) — 1 configs — 2026-10-20 15:12 UTC
-ZA 🇿🇦 | 847ms | 9a2e2
+# @noahclanman — South Africa (ZA) — 1 configs — 2026-10-20 15:49 UTC
+ZA 🇿🇦 | 972ms | 1783a

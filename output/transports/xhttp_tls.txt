@@ -2,12 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — XHTTP TLS — 8 configs — 2026-10-20 15:12 UTC
-DE 🇩🇪 | 437ms | 82107
-FI 🇫🇮 | 461ms | 09aa7
-NL 🇳🇱 | 1200ms | c283c
-NL 🇳🇱 | 1623ms | 10f60
-NL 🇳🇱 | 1995ms | 69bf4
-RU 🇷🇺 | 4782ms | fdfa5
-RU 🇷🇺 | 8319ms | 05abb
-RU 🇷🇺 | 11275ms | dac30
+# @noahclanman — XHTTP TLS — 1 configs — 2026-10-20 15:49 UTC
+FI 🇫🇮 | 683ms | 09aa7

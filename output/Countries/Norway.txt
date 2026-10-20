@@ -1,7 +1,7 @@
-#profile-title: Romania (RO)
+#profile-title: Norway (NO)
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — Romania (RO) — 2 configs — 2026-10-20 15:12 UTC
-RO 🇷🇴 | 650ms | 1adc1
-RO 🇷🇴 | 4394ms | 8c78e
+# @noahclanman — Norway (NO) — 2 configs — 2026-10-20 15:49 UTC
+NO 🇳🇴 | 533ms | 663d3
+NO 🇳🇴 | 576ms | 8a7cf

@@ -2,17 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @noahclanman — India (IN) — 13 configs — 2026-10-20 15:12 UTC
-IN 🇮🇳 | 1018ms | 46953
-IN 🇮🇳 | 1222ms | 1b2e5
-IN 🇮🇳 | 1431ms | d1dde
-IN 🇮🇳 | 1883ms | 1e254
-IN 🇮🇳 | 1941ms | 32bb7
-IN 🇮🇳 | 2735ms | afab2
-IN 🇮🇳 | 3746ms | 481c8
-IN 🇮🇳 | 4455ms | f23f2
-IN 🇮🇳 | 4525ms | 72497
-IN 🇮🇳 | 5928ms | 62184
-IN 🇮🇳 | 7412ms | 89016
-IN 🇮🇳 | 7860ms | ce0ee
-IN 🇮🇳 | 7901ms | 0e62d
+# @noahclanman — India (IN) — 6 configs — 2026-10-20 15:49 UTC
+IN 🇮🇳 | 931ms | a95d0
+IN 🇮🇳 | 933ms | 78564
+IN 🇮🇳 | 972ms | 01d91
+IN 🇮🇳 | 979ms | 59311
+IN 🇮🇳 | 1808ms | 1b2e5
+IN 🇮🇳 | 3518ms | d2281
