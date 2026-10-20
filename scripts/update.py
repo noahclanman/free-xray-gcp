@@ -63,12 +63,17 @@ def b64decode(s: str) -> str:
 
 
 def extract_links(text: str):
-    text = text.strip()
-    if "://" not in text[:40]:  # whole file is a base64 subscription
+    text = text.lstrip("\ufeff").strip()
+    # A base64 subscription can only contain the base64 alphabet, so a real link
+    # anywhere in the file means it is already plain text. Do not rely on the
+    # first few characters: many sources start with "#profile-*" comment lines.
+    if "://" not in text:
         try:
-            text = b64decode(text)
+            decoded = b64decode(text)
         except Exception:  # noqa: BLE001
             return []
+        if "://" in decoded:
+            text = decoded
     return [l.strip() for l in text.splitlines() if LINK_RE.match(l.strip())]
 
 
