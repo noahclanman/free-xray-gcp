@@ -902,6 +902,19 @@ def main():
     results, tested = run_tests(ordered, MAX_OUTPUT, deadline)
     log(f"tested {tested}, working {len(results)}")
 
+    # GCP configs are rare, so give the ones that failed one more, slower attempt
+    passed = {item[0] for _, item in results}
+    retry = [e for e in gcp_candidates if e[0] not in passed]
+    if retry:
+        log(f"retrying {len(retry)} GCP configs with a longer timeout ...")
+        with ThreadPoolExecutor(min(TEST_WORKERS, len(retry))) as ex:
+            retried = list(ex.map(lambda e: (e, real_test(e[0], TEST_TIMEOUT * 1.5)), retry))
+        for entry, ms in retried:
+            tested += 1
+            if ms is not None:
+                results.append((ms, entry))
+        log(f"after retry: {sum(1 for _, i in results if i[3])} working GCP configs")
+
     if not results:
         log("Nothing alive this run - keeping previous output.")
         sys.exit(1)
