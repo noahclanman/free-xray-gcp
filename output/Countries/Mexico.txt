@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Mexico (MX) — 2 configs — 2026-10-21 19:47 UTC
-ss://YWVzLTEyOC1nY206Y2U1YjA4MjIyNGViNjMwOTg0YjM2ZTgzOWM3MzYzY2Q@82.27.100.120:18777#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%20d91c8
-trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%20649f8
+# @xray_ehi_hub — Mexico (MX) — 1 configs — 2026-10-21 23:12 UTC
+trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%20d8e4f
