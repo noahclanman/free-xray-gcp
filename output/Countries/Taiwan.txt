@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Taiwan (TW) — 3 configs — 2026-10-21 00:34 UTC
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=raw#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%20a20fc
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%20f5215
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?flow=xtls-rprx-vision&fp=random&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&security=reality&sid=f713561d&sni=www.cloudflare.com&type=tcp#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%203f0a0
+# @xray_ehi_hub — Taiwan (TW) — 2 configs — 2026-10-21 05:19 UTC
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiVFcg8J+HufCfh7wgfCBAeHJheV9laGlfaHViIHwgYzA4MTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJuYW1lIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgODI2NTI3In0=
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%2044ac8

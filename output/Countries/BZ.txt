@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — BZ (BZ) — 2 configs — 2026-10-21 00:34 UTC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime06.workers.dev&packetEncoding=xudp&encryption=none#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%202cff1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?encryption=none&host=vms.lifetime04.workers.dev&path=/&security=none&type=ws#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20ab4cb
+# @xray_ehi_hub — BZ (BZ) — 1 configs — 2026-10-21 05:19 UTC
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?encryption=none&host=vms.lifetime04.workers.dev&path=%2F&security=none&type=ws#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20150ef

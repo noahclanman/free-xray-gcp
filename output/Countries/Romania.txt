@@ -2,8 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 4 configs — 2026-10-21 00:34 UTC
-vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-odro27lpfz.mydevelopertool.xyz:443?security=reality&encryption=none&pbk=8AUF38jwIBefT5bVE-_bDTmOvGKxSQ59hnmVJF2pwSw&headerType=none&fp=chrome&spx=/887354a7793d8f1&type=tcp&flow=xtls-rprx-vision&sni=sni-odro27lpfz.mydevelopertool.xyz&sid=4ddb92f0ea089707#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%201db28
-vless://74f5426b-19d9-4567-a7ff-865aa4c87cca@pub-07h33f.mydevelopertool.xyz:8000?security=reality&encryption=none&pbk=2dv8gNuhbvuxFB2A2bsxGj1lQ_ApOmj_-5qXejNxRwY&headerType=none&fp=chrome&spx=/887354a7793d8f1&type=tcp&flow=xtls-rprx-vision&sni=sni-07h33f.mydevelopertool.xyz&sid=e0954def98b22710#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20fcc8b
-vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20454bc
-vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&sid=31e91d43e553bf32&sni=gateway.icloud.com#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20fd5dd
+# @xray_ehi_hub — Romania (RO) — 1 configs — 2026-10-21 05:19 UTC
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20bab8b

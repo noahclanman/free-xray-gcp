@@ -2,9 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Turkey (TR) — 5 configs — 2026-10-21 00:34 UTC
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2094c9f
-trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20023d0
-trojan://humanity@143.246.136.99:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20bad5f
+# @xray_ehi_hub — Turkey (TR) — 3 configs — 2026-10-21 05:19 UTC
 trojan://humanity@143.246.136.156:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c1228
-vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/fp=chrome#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20a00da
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@helllo.com.tr:2216?encryption=none&security=reality&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=ddaaf1630788aeac&sni=www.apple.com&fp=chrome&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c0129
+trojan://humanity@143.246.136.99:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20bad5f
