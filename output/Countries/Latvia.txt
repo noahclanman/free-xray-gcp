@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Latvia (LV) — 3 configs — 2026-10-21 15:46 UTC
-vless://ac5424e7-f541-4235-b923-580e3d94aa21@72.56.52.44:443?security=reality&encryption=none&pbk=Fi8t03_zdkmRdXLEgNEXyntW-4Srn6QUeI63ADZ-FhQ&host=Copy__Shode__az__Chanel0111Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pap.pl&sid=43389196e02ca78b#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20fd55b
-trojan://humanity@91.197.3.7:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%200fcba
+# @xray_ehi_hub — Latvia (LV) — 2 configs — 2026-10-21 19:47 UTC
+trojan://humanity@85.31.102.163:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%205193a
 trojan://humanity@94.158.219.126:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2024116
