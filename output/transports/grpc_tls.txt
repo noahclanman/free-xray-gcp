@@ -1,0 +1,6 @@
+#profile-title: GRPC TLS
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — GRPC TLS — 1 configs — 2026-10-21 07:47 UTC
+vless://2dd0b63e-c545-43cf-ba15-c512ccd4f41d@api.mediastvor.cc:443?encryption=none&allowInsecure=0&fp=chrome&sni=api.mediastvor.cc&mode=gun&serviceName=3e99d50d5740985d&type=grpc&security=tls&insecure=0&alpn=h2#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20543c3
