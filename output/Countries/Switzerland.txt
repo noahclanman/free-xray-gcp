@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Switzerland (CH) — 2 configs — 2026-10-21 07:47 UTC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2078fda
+# @xray_ehi_hub — Switzerland (CH) — 5 configs — 2026-10-21 10:40 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2009184
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20ee667
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20c491c
+vless://48942ced-a272-41c1-98ac-75745d83bf93@116.204.164.60:7443?encryption=none&fp=firefox&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=/@Marisa_kristi&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2042f62
+trojan://humanity@91.245.225.79:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2098335

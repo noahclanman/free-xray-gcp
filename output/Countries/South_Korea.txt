@@ -2,11 +2,13 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — South Korea (KR) — 7 configs — 2026-10-21 07:47 UTC
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAeHJheV9laGlfaHViIHwgNDhiYTIiLCJhZGQiOiI0My4xMDguMTAzLjE2NyIsInBvcnQiOiIxMjMiLCJpZCI6IjM1YWEwZmRhLTE3NWEtNGFlYy1jNDY4LTAyMzFkZWUxYTEyMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@64.176.231.183:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&security=reality&sid=ca193e889d958f81&sni=www.apple.com&type=tcp#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2071432
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@64.176.231.183:443?flow=xtls-rprx-vision&fp=chrome&host=www.apple.com&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&security=reality&sid=ca193e889d958f81&sni=www.apple.com&type=tcp#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200ec6e
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20abeae
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@193.122.115.184:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20fc75e
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c67bb
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAeHJheV9laGlfaHViIHwgYzI4NjgiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
+# @xray_ehi_hub — South Korea (KR) — 9 configs — 2026-10-21 10:40 UTC
+vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@64.176.231.183:443?flow=xtls-rprx-vision&fp=chrome&host=www.apple.com&path=%2F&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&security=reality&sid=ca193e889d958f81&sni=www.apple.com&type=tcp#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2061a9f
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=raw#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200d760
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&path=%2F&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%207e815
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.164.44.60:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20094c2
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@131.186.26.94:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2037e8d
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@146.56.151.92:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchrome#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%208a9a3
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2009e12
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b0101
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ce60e

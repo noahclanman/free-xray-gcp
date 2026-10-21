@@ -2,11 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — United Arab Emirates (AE) — 7 configs — 2026-10-21 07:47 UTC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&packetEncoding=xudp&encryption=none#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204f6a2
+# @xray_ehi_hub — United Arab Emirates (AE) — 4 configs — 2026-10-21 10:40 UTC
+vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?path=%2Fvless&security=none&sni=185.253.116.33&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b6dde
 vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%208868c
-vless://CQ9D5NqEbxPfdg@185.253.116.46:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.heise.de&fp=chrome&pbk=RQ4Z91En99W1IloruReNIuqeIY1PHfrd-Unv7XL--jU&sid=11a7579d&type=tcp&headerType=none#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20163d1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?fp=chrome&security=none&sni=uae.unixzone.us&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bdf87
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?fp=firefox&host=uae.unixzone.us&path=%2F&security=none&type=ws#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ea61a
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2092755
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2058293
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=%2F&host=uae.unixzone.us&sni=uae.unixzone.us#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%205c700

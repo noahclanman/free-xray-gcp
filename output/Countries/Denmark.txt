@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Denmark (DK) — 2 configs — 2026-10-21 07:47 UTC
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444/?type=grpc&encryption=none&flow=&serviceName=GunService&sni=github.com&security=reality&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0#DK%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%20d3ee9
+# @xray_ehi_hub — Denmark (DK) — 4 configs — 2026-10-21 10:40 UTC
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?encryption=none&fp=&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#DK%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%2073880
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?encryption=none&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#DK%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%20da779
+vless://64726966-0000-4000-8000-740000000000@193.180.208.167:8443?encryption=none&security=tls&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&fp=firefox&type=ws&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=%2F#DK%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%202d1b4
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@5.249.255.116:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=chrome#DK%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%20637c9
