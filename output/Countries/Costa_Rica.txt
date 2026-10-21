@@ -1,0 +1,6 @@
+#profile-title: Costa Rica (CR)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Costa Rica (CR) — 1 configs — 2026-10-21 00:34 UTC
+trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#CR%20%F0%9F%87%A8%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2064ce9

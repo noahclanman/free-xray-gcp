@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Thailand (TH) — 3 configs — 2026-10-20 22:00 UTC
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?host=ais.speedtest.net&path=%2Fws&security=none&sni=ais.speedtest.net&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20c0636
+# @xray_ehi_hub — Thailand (TH) — 3 configs — 2026-10-21 00:34 UTC
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20af546
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?host=ais.speedtest.net&path=%2Fws&security=none&sni=v2ray.simspeedup.com&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2060e64
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?security=none&type=ws&path=%2Fws&host=v2ray.simspeedup.com&packetEncoding=xudp#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2087971
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@103.107.52.106:52351#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20a4c8c
