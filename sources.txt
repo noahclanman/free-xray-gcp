@@ -30,5 +30,4 @@ https://t.me/s/v2rayngvless
 https://t.me/s/DirectVPN
 
 # ---------- Websites ----------
-https://www.xrayvip.com/free.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix
