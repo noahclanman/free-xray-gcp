@@ -2,8 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Sweden (SE) — 4 configs — 2026-10-22 06:36 UTC
-trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206fb15
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=/vless&security=none&type=ws#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%200d275
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@swself2.yandex-api.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swself2.yandex-api.com&fp=random&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&type=tcp&headerType=none#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2018326
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20158cc
+# @xray_ehi_hub — Sweden (SE) — 1 configs — 2026-10-22 12:29 UTC
+vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sosoy4.fars-remen.ir:32545?security=&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e3425

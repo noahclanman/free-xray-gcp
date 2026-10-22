@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Latvia (LV) — 4 configs — 2026-10-22 06:36 UTC
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?alpn=http/1.1&fp=chrome#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%205f004
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=firefox#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2017d91
+# @xray_ehi_hub — Latvia (LV) — 4 configs — 2026-10-22 12:29 UTC
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%202be24
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@31.59.168.247:443?security=reality&type=tcp&sni=web.gderevievsvideos.fyi&fp=firefox&flow=xtls-rprx-vision&sid=7271129440ade8fa&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&encryption=none#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%200c005
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@94.140.112.22:443?security=tls&sni=lv1.dedushka.top#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%201976a
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20b6657
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2093148

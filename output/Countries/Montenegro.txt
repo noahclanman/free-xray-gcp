@@ -2,10 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Montenegro (ME) — 6 configs — 2026-10-22 06:36 UTC
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20656bf
+# @xray_ehi_hub — Montenegro (ME) — 5 configs — 2026-10-22 12:29 UTC
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b4fb4
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443/?type=ws&encryption=none&flow=&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2073952
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e9498
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206f420
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%205427d
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20378c2
 trojan://humanity@31.57.190.71:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20651bf
-trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2010d78

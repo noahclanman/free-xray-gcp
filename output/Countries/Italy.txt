@@ -2,12 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Italy (IT) — 8 configs — 2026-10-22 06:36 UTC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d8af3
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%203add8
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2072469
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%209c9d6
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204a273
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204d37b
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2027252
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%209ff73
+# @xray_ehi_hub — Italy (IT) — 5 configs — 2026-10-22 12:29 UTC
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&type=tcp&sni=/?v2rayNplus#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20064be
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%206bd81
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2043f5b
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%207cd19
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2047dd1

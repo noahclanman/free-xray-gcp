@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 2 configs — 2026-10-22 06:36 UTC
-vless://40abbe13-f02e-4da2-9b19-966c2c3eb4ee@146.70.124.85:443?security=reality&encryption=none&pbk=byzvlw97wjAAAfHs5AZRV0P0H6_JKBEZ4yfLS0HNewE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=fe24f8a0a560056e#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2007505
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%208c78e
+# @xray_ehi_hub — Romania (RO) — 2 configs — 2026-10-22 12:29 UTC
+vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@152.237.230.30:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=9Wh7M-tz9D_1WBaQhz2wIJian960Ffcx66NH8HAidDI&sid=61a0eb582ed4f2b5&type=tcp&headerType=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20572aa
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@87.58.205.242:443?security=reality&type=tcp&sni=backend.mskvibe.fyi&fp=firefox&flow=xtls-rprx-vision&sid=7271129440ade8fa&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&encryption=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20d9002

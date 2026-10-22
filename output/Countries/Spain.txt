@@ -2,5 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Spain (ES) — 1 configs — 2026-10-22 06:36 UTC
+# @xray_ehi_hub — Spain (ES) — 3 configs — 2026-10-22 12:29 UTC
 vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=29e8dcd2b37aaa7f&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208cdf7
+vless://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=4eE3K8Eac-ELze-LwRyJolqmhPqgCVqwQM1DKu6i0Ts&sid=e93d46ee3735069e&sni=gateway.icloud.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208acd6
+trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20dda44

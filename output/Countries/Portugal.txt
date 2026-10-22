@@ -1,6 +1,0 @@
-#profile-title: Portugal (PT)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Portugal (PT) — 1 configs — 2026-10-22 06:36 UTC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.92.228:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#PT%20%F0%9F%87%B5%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%207230c

@@ -2,31 +2,34 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — TCP TLS — 27 configs — 2026-10-22 06:36 UTC
-trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%206511d
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208407b
-trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&allowInsecure=1#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%209ce0a
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?security=tls&sni=de4.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%207d406
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&sni=de9.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d4041
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%207b710
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=de6.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d99d8
+# @xray_ehi_hub — TCP TLS — 30 configs — 2026-10-22 12:29 UTC
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%206d4ac
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208e601
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20bfdeb
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%203c727
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de2.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20285e8
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2064d93
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?allowInsecure=1&sni=de2.dedushka.top&type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20570ff
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=de6.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ee85a
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&sni=de9.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%201a2d2
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?allowInsecure=1&sni=pl2.dedushka.top#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20e1943
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?sni=ie1.dedushka.top&type=tcp#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20a92ce
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2024f50
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?alpn=http/1.1&fp=chrome#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%205f004
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&type=tcp&headerType=none#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20a89aa
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=firefox#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2017d91
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%202be24
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?sni=de5.dedushka.top&type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206cde6
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?allowInsecure=1&alpn=http/1.1#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2064f8b
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&sni=de10.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b0965
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20c7f75
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20451ac
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206b7b4
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@94.140.112.22:443?security=tls&sni=lv1.dedushka.top#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%201976a
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?security=tls&sni=pl2.dedushka.top&type=tcp&fp=firefox&alpn=http%2F1.1&allowInsecure=0#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20d56f0
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?allowInsecure=1&sni=pl2.dedushka.top&type=tcp#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%202ac94
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=/#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20cd500
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20b6657
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%205f02e
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl1.dedushka.top#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20c5904
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202ad6c
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=ie1.dedushka.top#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20caab2
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%20a66d9
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&sni=de9.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%201a2d2
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de5.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e7126
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.117:443?security=tls&sni=de8.dedushka.top&type=tcp&fp=firefox&alpn=http%2F1.1#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%203ab48
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?allowInsecure=1&sni=de9.dedushka.top&type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20f842c
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?allowInsecure=1&sni=de7.dedushka.top#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b9bfa
+vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmMzhlNTkxZC1kMTNhLTRjMzAtOTc2My02YmUzYWQ2NWYzZWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiREUg8J+HqfCfh6ogfCBAeHJheV9laGlfaHViIHwgZmFlYTciLCJzY3kiOiJhdXRvIiwic25pIjoiZGUuemhvdS15dWZhbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?allowInsecure=1&sni=de1.dedushka.top&type=tcp#KW%20%F0%9F%87%B0%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%20c4885
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20dc765
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%202fa05
-trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#HK%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%2097069
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.49:443?allowInsecure=1&sni=de6.dedushka.top&type=tcp#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%201a3f6
+vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=user-6a8d949a.noooo.win&type=tcp#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20a3aab
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=node-uk.connectsuite.org#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%20dc34f
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204170d
