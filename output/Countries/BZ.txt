@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — BZ (BZ) — 2 configs — 2026-10-22 12:29 UTC
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.131.7.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%203527f
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.131.6.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%2038847
+# @xray_ehi_hub — BZ (BZ) — 1 configs — 2026-10-22 17:44 UTC
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.131.6.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20a7611

@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-10-22 12:29 UTC
-trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2061055
+# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-10-22 17:44 UTC
+vless://7c28eb69-ba3a-4bb8-8b20-23aa21ed6587@upperdown.syntaxsquad.ir:8447?security=reality&encryption=none&pbk=c9cS0Nvqa2WxygLbVEqnbKbUBUBTayG2zifE-cIqsS4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.yektanet.com&sid=3c1b6517#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%205e3d0

@@ -2,5 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Sweden (SE) — 1 configs — 2026-10-22 12:29 UTC
-vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sosoy4.fars-remen.ir:32545?security=&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e3425
+# @xray_ehi_hub — Sweden (SE) — 4 configs — 2026-10-22 17:44 UTC
+vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@media.vik.lalibobi.online:443/?type=ws&encryption=none&flow=&host=media.vik.lalibobi.online&path=%2Flive%2Fshowroom&security=tls&sni=media.vik.lalibobi.online&alpn=http%2F1.1&fp=firefox#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2064003
+vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e04c6
+trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206fb15
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@185.58.115.62:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se2.gderevievsvideos.fyi&sid=7271129440ade8fa#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2038f7e

@@ -2,8 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Czechia (CZ) — 4 configs — 2026-10-22 12:29 UTC
+# @xray_ehi_hub — Czechia (CZ) — 6 configs — 2026-10-22 17:44 UTC
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%2000542
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.77.126.2:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&alpn=http%2F1.1&sni=snip.edgeoneai.cc.cd&fp=unsafe&encryption=none#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20fcd6e
+vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%203991a
+vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/fp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%202f182
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20ea337
 vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%201d1b7
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20e9f8c
-vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%209b64e
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=unsafe&type=ws&allowInsecure=0&sni=lucasjow.us.ci#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20b9a9f
