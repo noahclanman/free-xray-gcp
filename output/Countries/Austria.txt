@@ -1,9 +1,0 @@
-#profile-title: Austria (AT)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Austria (AT) — 4 configs — 2026-10-21 23:12 UTC
-trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%206a6d3
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20cac7d
-trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%203e9aa
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20c98b9

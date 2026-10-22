@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Thailand (TH) — 1 configs — 2026-10-21 23:12 UTC
-vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2062d9a
+# @xray_ehi_hub — Thailand (TH) — 1 configs — 2026-10-22 01:36 UTC
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#TH%20%F0%9F%87%B9%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2010f70

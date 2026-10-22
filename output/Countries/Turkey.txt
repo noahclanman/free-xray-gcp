@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Turkey (TR) — 2 configs — 2026-10-21 23:12 UTC
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2112?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=06&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206804b
+# @xray_ehi_hub — Turkey (TR) — 6 configs — 2026-10-22 01:36 UTC
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=none&type=tcp&sni=www.apple.com&sid=cc80ef#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%202455a
 vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=ddaaf1630788aeac&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%208dc8b
+trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20023d0
+vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sable56.fars-remen.ir:8446?security=reality&encryption=none&pbk=7OwcalQiQ5RaMsYRjvtwTxZWS3sCpjOefcr3WYKFh04&headerType=none&fp=chrome&type=tcp&sni=storage-p2.googleapis.com&sid=73da8baa63f8d537#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2059d92
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@helllo.com.tr:2216?encryption=none&security=reality&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=ddaaf1630788aeac&sni=www.apple.com&fp=chrome&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c0129
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@helllo.com.tr:2218?encryption=none&security=reality&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=cc80ef&sni=www.apple.com&fp=chrome&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20a8bcc
