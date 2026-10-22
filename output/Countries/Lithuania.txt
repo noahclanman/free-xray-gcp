@@ -2,5 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 1 configs — 2026-10-22 17:44 UTC
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@89.116.250.7:8443?&security=tls&sni=speed.dulacloud.store&type=ws&headerType=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2fp%3Dchrome#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a141c
+# @xray_ehi_hub — Lithuania (LT) — 2 configs — 2026-10-22 20:57 UTC
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20419f7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d2b67

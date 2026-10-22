@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Ireland (IE) — 3 configs — 2026-10-22 17:44 UTC
+# @xray_ehi_hub — Ireland (IE) — 2 configs — 2026-10-22 20:57 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204a6f0
-vmess://eyJhZGQiOiI1NC4yMjkuMTUxLjk3IiwiYWlkIjoiMCIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1OTIzNiIsInBzIjoiSUUg8J+HrvCfh6ogfCBAeHJheV9laGlfaHViIHwgMDY1NjEiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=ie1.dedushka.top#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20caab2
