@@ -2,7 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Montenegro (ME) — 3 configs — 2026-10-22 01:36 UTC
+# @xray_ehi_hub — Montenegro (ME) — 6 configs — 2026-10-22 06:36 UTC
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20656bf
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b4fb4
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443/?type=ws&encryption=none&flow=&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2073952
-trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%202e7bf
-trojan://humanity@31.57.190.73:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204f4d0
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e9498
+trojan://humanity@31.57.190.71:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20651bf
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2010d78

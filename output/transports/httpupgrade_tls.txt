@@ -1,6 +1,0 @@
-#profile-title: HTTPUPGRADE TLS
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — HTTPUPGRADE TLS — 1 configs — 2026-10-22 01:36 UTC
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@178.176.128.128:443/?type=httpupgrade&encryption=none&flow=&host=edge3.statiqedge.com&path=/assets/v1&security=tls&sni=edge3.statiqedge.com&fp=chrome#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20f15a6
