@@ -1,7 +1,0 @@
-#profile-title: Costa Rica (CR)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Costa Rica (CR) — 2 configs — 2026-10-23 08:59 UTC
-vless://e6df2095-a73c-4043-8693-8d5a03686870@190.93.246.21:443?path=/?TELEGRAM--------ICV2RAY?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=lucasjow.us.ci&fp=chrome&type=ws&sni=lucasjow.us.ci#CR%20%F0%9F%87%A8%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200a2a7
-vless://e6df2095-a73c-4043-8693-8d5a03686870@190.93.246.21:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#CR%20%F0%9F%87%A8%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%204bc1c

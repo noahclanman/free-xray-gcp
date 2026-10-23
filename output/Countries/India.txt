@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — India (IN) — 2 configs — 2026-10-23 08:59 UTC
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20a7e73
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20481c8
+# @xray_ehi_hub — India (IN) — 5 configs — 2026-10-23 14:19 UTC
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDIwMCIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiSU4g8J+HrvCfh7MgfCBAeHJheV9laGlfaHViIHwgNDY5NTMiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20b4aae
+vmess://eyJ2IjoiMiIsInBzIjoiSU4g8J+HrvCfh7MgfCBAeHJheV9laGlfaHViIHwgMTRjMjgiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii8iLCJob3N0IjoiaW4tMTUyLjY3LjguMjA1LTAyMDQifQ==
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%203c90f
+vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?fp=ios&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&security=reality&serviceName=rex-eb0bf76b710ce763&sid=92c32de179e5d908&sni=deepl.com&type=grpc#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%2052b47
