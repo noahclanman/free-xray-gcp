@@ -1,0 +1,7 @@
+#profile-title: Portugal (PT)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Portugal (PT) — 2 configs — 2026-10-23 22:07 UTC
+vless://7K8ckQ9Odjv5ya@185.138.89.162:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.heise.de&fp=chrome&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&sid=8a2a4eb0&type=tcp&headerType=none#PT%20%F0%9F%87%B5%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2033751
+vless://7K8ckQ9Odjv5ya@185.138.89.162:443?security=reality&encryption=none&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=8a2a4eb0#PT%20%F0%9F%87%B5%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20376ac
