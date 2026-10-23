@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — AFRICA — 5 configs — 2026-10-23 00:05 UTC
+# @xray_ehi_hub — AFRICA — 2 configs — 2026-10-23 03:28 UTC
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&sni=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.calmlunch.com&path=%2Fassignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%206f48d
 trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20960c9
-trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%208d572
-trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20bd28f
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20df0dc
-trojan://humanity@45.130.125.126:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20e323c

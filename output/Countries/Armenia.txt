@@ -1,0 +1,6 @@
+#profile-title: Armenia (AM)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Armenia (AM) — 1 configs — 2026-10-23 03:28 UTC
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun#AM%20%F0%9F%87%A6%F0%9F%87%B2%20%7C%20@xray_ehi_hub%20%7C%208ef77
