@@ -1,6 +1,0 @@
-#profile-title: XHTTP REALITY
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-10-23 03:28 UTC
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@de2.wrenandroad.space:443?mode=auto&path=/connect&security=reality&encryption=none&pbk=t4k236yDGdnUbfJSBl3KR7JzyLReVVRWEiVHMaE72XI&host=de2.wrenandroad.space&fp=chrome&type=xhttp&sni=de2.wrenandroad.space&sid=9b2e8eb7fea9860b#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%200e52d

@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Vietnam (VN) — 2 configs — 2026-10-23 03:28 UTC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%204b37e
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20c7bbb
+# @xray_ehi_hub — Vietnam (VN) — 2 configs — 2026-10-23 08:59 UTC
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.199.19.132:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20fcb33
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@160.22.74.117:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&sni=vlso5.1d.mom&fp=chrome#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%205eaae
