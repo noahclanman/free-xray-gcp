@@ -1,0 +1,6 @@
+#profile-title: Kyrgyzstan (KG)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Kyrgyzstan (KG) — 1 configs — 2026-10-23 00:05 UTC
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@193.36.95.34:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#KG%20%F0%9F%87%B0%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20c814b

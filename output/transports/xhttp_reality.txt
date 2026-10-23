@@ -1,0 +1,6 @@
+#profile-title: XHTTP REALITY
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-10-23 00:05 UTC
+vless://SoonTeam%20@de.im-soon.com:3443?mode=auto&path=%2FTelegram-Join%40SoonTeam&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hSmC_oFWVZQ7dkhnC0UVb-3eWk-9qAO0VjG21vBnlDI&fp=chrome&spx=%2F8209b7b9a6027cc&type=xhttp&sni=upload.google.com&sid=07#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2031b2a
