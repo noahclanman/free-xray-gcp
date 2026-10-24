@@ -2,7 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — SOUTH AMERICA — 3 configs — 2026-10-24 00:29 UTC
-ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw==@64.176.2.21:8388#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20180f5
+# @xray_ehi_hub — SOUTH AMERICA — 4 configs — 2026-10-24 05:08 UTC
 vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2022c93
 vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&fp=chrome&spx=%2Ffe82b9833f962d8&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206a90f
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA==@216.128.168.190:8388#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2071b60
+vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%205b02e

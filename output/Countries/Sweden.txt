@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Sweden (SE) — 5 configs — 2026-10-24 00:29 UTC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2096e46
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=safari&sni=video.yandex.ru&type=tcp&headerType=none&host=video.yandex.ru&path=%2F#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20c2070
-vless://15397019-2fda-406a-9012-4b219a27bc88@sw03.launch.tel:443?security=reality&encryption=none&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw03.launch.tel&sid=afee962d#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20f1933
-vless://c325206e-0f0c-4472-9d76-43e9b9b2ef63@109.120.155.155:444?security=tls&type=ws&path=/@Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bcff0
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@sweden.luxes.network:8080?security=reality&encryption=none&pbk=6BufnV1d0fbMfWcILuofmElhmkcObPC_D_zzcB6BSno&fp=chrome&type=grpc&serviceName=LoginService&sni=www.ponyexpress.ru&sid=d49d578f280fd832#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20df2ff
+# @xray_ehi_hub — Sweden (SE) — 5 configs — 2026-10-24 05:08 UTC
+vless://633c1bb0-60d5-41fb-a9c4-11f408b264ec@sosoy4.fars-remen.ir:32545?security=&encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e3425
+vless://49a6eeaf-7dbf-4aa5-ba21-b36cd47e724e@89.22.224.146:43788?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&encryption=none#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%200e9a4
+vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?security=tls&type=ws&path=/fp=chrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20dbf5e
+vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e04c6
+trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206fb15

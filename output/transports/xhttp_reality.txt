@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — XHTTP REALITY — 2 configs — 2026-10-24 00:29 UTC
+# @xray_ehi_hub — XHTTP REALITY — 4 configs — 2026-10-24 05:08 UTC
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@146.103.126.207:2096?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&sid=3649e084544949f1&type=xhttp&path=%2Fapple-xh&mode=auto#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%206df14
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@146.103.105.32:2096?mode=auto&path=/apple-xh&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20eed9c
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:2096?mode=auto&path=%2Fapple-xh&security=reality&encryption=none&pbk=2riaCWjnC6m96hid0WcL9BG4vwzh8NoW_ps8CrVo1mo&fp=chrome&type=xhttp&sni=www.apple.com&sid=3649e084544949f1#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%2068c83
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@xuthnybd.himoy.space:443?mode=auto&path=%2Fconnect&security=reality&encryption=none&pbk=uVqY1zxxrmKblAAEJilzrDK8Ayv7ETSxvNvGipLoX0w&host=xuthnybd.himoy.space&fp=firefox&type=xhttp&sni=xuthnybd.himoy.space&sid=86f8bb8d537297da#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20d2bd1
+vless://46785352-db89-4839-8079-d4c69ad87996@191.217.241.15:443?security=reality&sni=eh.vk.com&fp=firefox&pbk=GNQQeHApj8mQsblsKeNix_bUC7hpsfAsrcjGFSj4w1Y&type=xhttp&path=%2Fxhttp&mode=auto#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20e8e90

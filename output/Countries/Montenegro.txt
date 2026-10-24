@@ -2,14 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Montenegro (ME) — 10 configs — 2026-10-24 00:29 UTC
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%209181f
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20378c2
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@31.57.190.93:443?&security=tls&fp=chrome&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20fdd83
-trojan://humanity@31.57.190.34:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%205f766
-trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20a60eb
+# @xray_ehi_hub — Montenegro (ME) — 4 configs — 2026-10-24 05:08 UTC
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%205427d
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ca30a
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2010d78
 trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e86fa
-trojan://humanity@31.57.190.71:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment&Host=www.pleadcourt.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20cf14f
-trojan://humanity@31.57.190.34:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204e480
-trojan://humanity@31.57.190.71:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20651bf
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.89:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fws&host=a.cwvps.eu.org#ME%20%F0%9F%87%B2%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e75de

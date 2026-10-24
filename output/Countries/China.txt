@@ -1,6 +1,0 @@
-#profile-title: China (CN)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — China (CN) — 1 configs — 2026-10-24 00:29 UTC
-vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYTAxZTVkNTYtNDY0Zi00NWI5LWI2MDAtMTY0ZGI0NzAwMTYyIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJDTiDwn4eo8J+HsyB8IEB4cmF5X2VoaV9odWIgfCAyMjQ1YSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Albania (AL) — 3 configs — 2026-10-24 00:29 UTC
-vless://iCaYLyqSFgn5Nt@157.22.240.50:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2037aff
+# @xray_ehi_hub — Albania (AL) — 2 configs — 2026-10-24 05:08 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyV0lnMTZwbGdaODJWN01UTmN3MVVUZ2lZSzRvb1BVQjk1cVZoS0l3SURjPQ@130.49.189.158:43558#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20d9831
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ovhcloud.com&fp=chrome&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&sid=f5bce2ac&type=tcp&headerType=none#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%208b069
-vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2022ac1
