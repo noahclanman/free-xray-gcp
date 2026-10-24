@@ -1,6 +1,0 @@
-#profile-title: Iceland (IS)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iceland (IS) — 1 configs — 2026-10-24 09:33 UTC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.148.156.160:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#IS%20%F0%9F%87%AE%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%209d474

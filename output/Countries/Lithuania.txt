@@ -2,5 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 1 configs — 2026-10-24 09:33 UTC
+# @xray_ehi_hub — Lithuania (LT) — 2 configs — 2026-10-24 13:44 UTC
+trojan://humanity@88.216.69.253:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20295d1
 trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2064a50
