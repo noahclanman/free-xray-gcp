@@ -2,19 +2,21 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Italy (IT) — 15 configs — 2026-10-24 17:07 UTC
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2046a94
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2065d76
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2079ebc
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?path=%2Fassets&security=tls&sni=itly.yandex-api.store&type=ws#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20cf8cf
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?encryption=none&fp=chrome&path=/assets&security=tls&sni=itly.yandex-api.store&type=ws#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20c9ec9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2085def
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a9a56
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%202f8ba
-vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?flow=xtls-rprx-vision&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2029cbc
+# @xray_ehi_hub — Italy (IT) — 17 configs — 2026-10-24 19:30 UTC
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%203d3f6
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204d37b
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My45MDoxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20961e6
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My42MzoxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%208924d
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My41NDoxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a947c
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20ba1bf
-vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&headerType=none&fp=chrome&spx=/bfd751485ce44a9&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20bafae
+vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY&security=reality&sid=37fbf155c7a9f3ff&sni=www.cloudflare.com&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%202298a
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?encryption=none&flow=xtls-rprx-vision&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%206e7ff
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%202f8ba
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2066158
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%207dd3d
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My44MToxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20de9cc
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2079ebc
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d1fef
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a9a56
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My4xODoxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20bc88b
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%202c852
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20fc94d
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20ba1bf
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%207cd19

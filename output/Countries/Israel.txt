@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Israel (IL) — 4 configs — 2026-10-24 17:07 UTC
+# @xray_ehi_hub — Israel (IL) — 2 configs — 2026-10-24 19:30 UTC
+vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2078376
 vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%208371c
-vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20385fe
-vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20f83bb
-vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20b1d2d
