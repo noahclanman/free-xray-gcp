@@ -2,9 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 5 configs — 2026-10-24 13:44 UTC
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@31.59.218.43:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Pb37t99NiJqm-lsTi4tucPFqRXIsek-5G5dqjIqVfxE&sid=15c87d0b99c0d132&sni=tlokexcm.himoy.space#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2005df1
+# @xray_ehi_hub — Estonia (EE) — 6 configs — 2026-10-24 17:07 UTC
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@l415ng0o.himoy.space:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=JOoD5ze_pwrMnQoAIRVieQM8SPJjiLJEw1fwx57iYgk&sni=l415ng0o.himoy.space&fp=firefox&sid=bbd20b213341644c#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2026119
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@l415ng0o.himoy.space:443?security=reality&encryption=none&pbk=JOoD5ze_pwrMnQoAIRVieQM8SPJjiLJEw1fwx57iYgk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=l415ng0o.himoy.space&sid=bbd20b213341644c#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20a53ba
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@194.26.141.223:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=ee1.mycloud1.org&type=tcp#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20adfa5
 vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&sni=ee1.mycloud1.org#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20f5dc3
-trojan://humanity@38.180.163.250:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%205bbfe
-vless://185e2bb3-2934-48d0-bbd5-dd20d16e83ee@93.89.220.37:443?security=reality&encryption=none&pbk=lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ibm.com&sid=e88cb983f3c97528#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2097b6f
+trojan://humanity@185.36.141.81:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ecfd9
 vless://185e2bb3-2934-48d0-bbd5-dd20d16e83ee@93.89.220.37:443?security=reality&encryption=none&pbk=lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ibm.com&sid=e88cb983f3c97528#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e6283

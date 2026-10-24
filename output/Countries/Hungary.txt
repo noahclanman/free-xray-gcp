@@ -1,0 +1,6 @@
+#profile-title: Hungary (HU)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Hungary (HU) — 1 configs — 2026-10-24 17:07 UTC
+trojan://humanity@185.225.68.232:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#HU%20%F0%9F%87%AD%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20b9ab7
