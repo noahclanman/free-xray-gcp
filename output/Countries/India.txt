@@ -2,7 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — India (IN) — 3 configs — 2026-10-24 19:30 UTC
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiSU4g8J+HrvCfh7MgfCBAeHJheV9laGlfaHViIHwgMThkYzMiLCJzY3kiOiJhdXRvIiwic25pIjoiMTUyLjY3LjguMjA1IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDIwMiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJJTiDwn4eu8J+HsyB8IEB4cmF5X2VoaV9odWIgfCA1ZDEzNiIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%2015a64
+# @xray_ehi_hub — India (IN) — 5 configs — 2026-10-24 22:00 UTC
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%2032bb7
+vmess://eyJ2IjpudWxsLCJwcyI6IklOIPCfh67wn4ezIHwgQHhyYXlfZWhpX2h1YiB8IDkxZWQ3IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODAsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDIwNCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJJTiDwn4eu8J+HsyB8IEBSYXlkaWthbHggfCA0OEI1NTUifQ==
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20cfe14
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20ce0ee
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%200e62d

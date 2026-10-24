@@ -2,13 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — TCP TLS — 9 configs — 2026-10-24 19:30 UTC
+# @xray_ehi_hub — TCP TLS — 7 configs — 2026-10-24 22:00 UTC
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20c7357
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2055667
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2056af5
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202ad6c
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?allowInsecure=0&fp=chrome&security=tls#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%205f335
 vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20db92b
-vmess://eyJ2IjoiMiIsInBzIjoiUlUg8J+Ht/Cfh7ogfCBAeHJheV9laGlfaHViIHwgNDQzNTAiLCJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJwb3J0IjoyNDIxMiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-trojan://Trojan@82164024@pl.tronsg.com:443?allowInsecure=1&type=tcp&security=tls&fp=edge&sni=pl.tronsg.com#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2025c4e
-vless://689e46e9-dcc2-4c5c-8301-8623024ad6f0@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ed34a
-trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io#HK%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%20f71d0
-vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUuemhvdS15dWZhbi5jb20iLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0Ijo0NDMsInBzIjoiREUg8J+HqfCfh6ogfCBAeHJheV9laGlfaHViIHwgNzRlNWIiLCJzY3kiOiJhdXRvIiwic25pIjoiZGUuemhvdS15dWZhbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmFtZSI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDc5NDU3RSJ9
-trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?sni=uis175.pacemakere.com&type=tcp#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208fcd9
-vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmMzhlNTkxZC1kMTNhLTRjMzAtOTc2My02YmUzYWQ2NWYzZWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiREUg8J+HqfCfh6ogfCBAeHJheV9laGlfaHViIHwgZmFlYTciLCJzY3kiOiJhdXRvIiwic25pIjoiZGUuemhvdS15dWZhbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443/?type=tcp&encryption=none&flow=&security=tls&sni=node-uk.connectsuite.org&fp=firefox#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%202c1e5

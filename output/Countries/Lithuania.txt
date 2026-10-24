@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 2 configs — 2026-10-24 19:30 UTC
-vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?cs=semi-python&path=%2Ffp%3Dchrome&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d1aa1
+# @xray_ehi_hub — Lithuania (LT) — 4 configs — 2026-10-24 22:00 UTC
+vless://5504eaa8-1395-402f-8e0e-75ecd762e627@88.216.69.253:443?cs=semi-python&path=%2Ffiughoieuhti834t90&security=tls&alpn=http%2F1.1&encryption=none&fm=tlshello-0-len&insecure=0&host=server6.9966338.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=server6.9966338.xyz#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20bdbfb
 vless://5504eaa8-1395-402f-8e0e-75ecd762e627@88.216.69.253:443?host=server6.9966338.xyz&path=%2Ffiughoieuhti834t90&security=tls&sni=server6.9966338.xyz&type=ws#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%208a9e3
+trojan://humanity@88.216.69.253:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20295d1
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@88.216.69.253:443?cs=semi-python&path=%2Fws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20c82af
