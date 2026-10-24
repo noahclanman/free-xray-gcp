@@ -2,11 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Latvia (LV) — 7 configs — 2026-10-23 22:07 UTC
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv1.himoy.space:443?security=reality&encryption=none&pbk=aow1gjMhnsFXqOuIulX3HBWiGI7m488euLPH6G5fcFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lv1.himoy.space&sid=3446a8095e1788b4#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%208cc08
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv5.himoy.space:443?&security=reality&flow=xtls-rprx-vision&pbk=S8fcWoOddbw_d-s7yrgi6Udb69A2XnW2xfJ-Xk6ubko&sid=5ff4fb909a3dfebf&fp=firefox&sni=lv5.himoy.space&type=tcp&headerType=none&host=lv5.himoy.space&path=%2F#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2059c74
-trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2093148
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv1.himoy.space:443?&security=reality&flow=xtls-rprx-vision&pbk=aow1gjMhnsFXqOuIulX3HBWiGI7m488euLPH6G5fcFA&sid=3446a8095e1788b4&fp=firefox&sni=lv1.himoy.space&type=tcp&headerType=none&host=lv1.himoy.space&path=%2F#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20ce20b
+# @xray_ehi_hub — Latvia (LV) — 4 configs — 2026-10-24 00:29 UTC
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20b5781
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=random&host=www.apple.com&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2030b8c
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?security=reality&encryption=none&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lv2.himoy.space&sid=287b3d62899669d7#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20b8814
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv5.himoy.space:443?security=reality&encryption=none&pbk=S8fcWoOddbw_d-s7yrgi6Udb69A2XnW2xfJ-Xk6ubko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lv5.himoy.space&sid=5ff4fb909a3dfebf#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%206d88e
-trojan://humanity@85.31.102.163:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%205193a
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?security=reality&encryption=none&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv2.himoy.space&sid=287b3d62899669d7#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%204899a
