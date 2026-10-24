@@ -2,21 +2,19 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Italy (IT) — 17 configs — 2026-10-24 05:08 UTC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%209d690
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204d37b
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%209c9d6
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d8af3
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a9a56
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%207dd3d
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%206bd81
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20ba1bf
+# @xray_ehi_hub — Italy (IT) — 15 configs — 2026-10-24 09:33 UTC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204f0e5
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2043f5b
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204d37b
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a9a56
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My43MjoxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2040828
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a14f2
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=raw#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20dab49
+vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=37fbf155c7a9f3ff&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20a0180
+vless://d5e5f5a1-0f23-4c49-af9f-4be445bf9d8e@82.118.16.189:443?security=reality&type=tcp&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=37fbf155c7a9f3ff&pbk=SjGkzJQ9I6ZZjC3V73atcPMczhMm0oiTrB8mUQXz1HY#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%208666e
+vless://f36c82e2-e33e-4054-960a-34619d9fdd5b@85.137.175.214:443?flow=xtls-rprx-vision&fp=firefox&pbk=Et_qbCjAgw1NFNOw_49PLmnBuEYCxCrTwbL57wJRAF8&security=reality&sid=22be958ca3b798e2&sni=www.leaseweb.com&type=raw&encryption=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%206e27c
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?encryption=none&fp=firefox&path=%2Fassets&security=tls&sni=itly.yandex-api.store&type=ws#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2034bd3
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=cd6065902eea7a02&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20be791
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?type=tcp&headerType=none#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%202f8ba
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%204a273
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2072469
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My40NToxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20f3863
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2066158
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2079ebc
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20fc94d
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%202c852
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My4xODoxOTk5OQ==#IT%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20bc88b

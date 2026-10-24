@@ -1,6 +1,0 @@
-#profile-title: Iran (IR)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-10-24 05:08 UTC
-vmess://eyJhZGQiOiIxOTQuMzIuMjEzLjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYTY4YTlmMTQtNDA3NS00YjUwLThlZTAtMzgyMDQ0MmQ3ODlhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTk1MSIsInBzIjoiSVIg8J+HrvCfh7cgfCBAeHJheV9laGlfaHViIHwgZjA5NTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

@@ -1,6 +1,0 @@
-#profile-title: GCP verified configs
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GCP verified configs — 1 configs — 2026-10-24 05:08 UTC
-vless://9866e390-c95d-409f-bb0d-5618e5c10978@la.20066002.xyz:443?flow=xtls-rprx-vision&fp=firefox&pbk=Otc1A9KX3_itArtCHz4N5O33kONWoRdyWUyeZPF9rl8&security=reality&sid=57156f2a944d2034&sni=gateway.icloud.com&type=tcp#GCP%20US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20a95aa
