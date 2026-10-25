@@ -1,0 +1,6 @@
+#profile-title: Mexico (MX)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Mexico (MX) — 1 configs — 2026-10-25 14:06 UTC
+vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=&fp=chrome&spx=/&type=tcp&sni=play.googleapis.com&sid=974f7f8f#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%208452b

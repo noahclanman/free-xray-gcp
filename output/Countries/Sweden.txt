@@ -2,9 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Sweden (SE) — 5 configs — 2026-10-25 09:33 UTC
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@se1.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se1.mycloud1.org&fp=chrome&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&type=tcp&headerType=none#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206b108
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@91.242.228.29:443?&security=reality&flow=xtls-rprx-vision&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&fp=firefox&sni=se1.mycloud1.org&type=tcp&headerType=none&host=se1.mycloud1.org&path=%2F#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b802e
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204effb
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%201004a
-trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206fb15
+# @xray_ehi_hub — Sweden (SE) — 4 configs — 2026-10-25 14:06 UTC
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?host=st33614.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=st33614.rumedia-cdn.com&type=ws#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ca32c
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se13-node.rumedia-cdn.com:8443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ndQzAcG4g-2OhvFb8EjFnZyxJ2lhawiulTLJOZrK8lY&sni=www.wikipedia.org#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bd683
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se14-node.rumedia-cdn.com:2096?host=st33614.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=st33614.rumedia-cdn.com&type=ws#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2026917
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se13-node.rumedia-cdn.com:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=st5ff8a.rumedia-cdn.com&type=ws&allowInsecure=0&sni=st5ff8a.rumedia-cdn.com#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ad034

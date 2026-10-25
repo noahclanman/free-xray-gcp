@@ -1,6 +1,0 @@
-#profile-title: Hungary (HU)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Hungary (HU) — 1 configs — 2026-10-25 09:33 UTC
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@13.143.191.7:443?type=grpc&security=tls&fp=firefox&sni=edv6f206j8ujw.hat.onl&serviceName=v1.segment.mNoQuDdqMKJm1Jo7.ts#HU%20%F0%9F%87%AD%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2006810

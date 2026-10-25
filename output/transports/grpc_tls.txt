@@ -2,13 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GRPC TLS — 9 configs — 2026-10-25 09:33 UTC
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@87.58.199.144:443?fp=firefox&security=tls&serviceName=hls-vod.imbsklb92t.segment-75-v1-a1.ts&sni=i4kht12omvvhyz.hat.onl&type=grpc#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20adcc1
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@31.59.217.103:443?type=grpc&security=tls&fp=firefox&sni=x0c8j8znhp8ou.hat.onl&serviceName=hls.5nd8-y0dx.lfm6tQMz2FNwh-fo0ugHo6dYDCvUyg.m3u8#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20caf23
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@31.59.217.104:443?type=grpc&security=tls&fp=firefox&sni=j40zz1jhip3i.hat.onl&serviceName=media.62c26tlnop.v4.PlaybackService#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20f7014
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@151.241.138.221:443?type=grpc&security=tls&fp=firefox&sni=cj1zbqb16amm.hat.onl&serviceName=v1.segment.9099K6xCUJFolqrvvjWHzO0shnIQZkWopQ20zcM6.ts#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20690d8
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@13.143.191.7:443?type=grpc&security=tls&fp=firefox&sni=edv6f206j8ujw.hat.onl&serviceName=v1.segment.mNoQuDdqMKJm1Jo7.ts#HU%20%F0%9F%87%AD%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2006810
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@151.241.138.234:443?type=grpc&security=tls&fp=firefox&sni=m37wv2rk.hat.onl&serviceName=media.vs31ppigl.v2.PlaybackRelay#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%208276c
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@2.27.244.55:443?type=grpc&security=tls&fp=firefox&sni=qbak5xqeb.hat.onl&serviceName=media.uxvgqd.v1.PlaybackStream#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%200c682
+# @xray_ehi_hub — GRPC TLS — 4 configs — 2026-10-25 14:06 UTC
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&sni=ru1.radiolumens.uk&fp=firefox&encryption=none#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2052fcf
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%209efb9
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&fp=chrome&alpn=h2&type=grpc&serviceName=vlgrpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20af676
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&security=tls&sni=xsru1.ddnsfree.com&fp=chrome&type=grpc&serviceName=grpc-ru&mode=gun#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20981df
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?encryption=none&security=tls&sni=xssite.webredirect.org&fp=random&type=grpc&authority=&serviceName=grpc-ru&mode=gun#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20a215b
