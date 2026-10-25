@@ -2,9 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Seychelles (SC) — 5 configs — 2026-10-25 00:14 UTC
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&sni=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.calmlunch.com&path=%2Fassignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%206f48d
-trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%201b276
+# @xray_ehi_hub — Seychelles (SC) — 3 configs — 2026-10-25 04:26 UTC
 trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20960c9
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%206e6e7
-vless://eaf76557-2219-4799-8171-d7020adfefd0@45.130.125.151:443?security=tls&type=ws&path=/ws&host=fancy-mouse-6aff.wixit71180.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fancy-mouse-6aff.wixit71180.workers.dev&fp=chrome#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%202bd31
+trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20a8cdf
+trojan://humanity@45.130.125.126:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20e323c
