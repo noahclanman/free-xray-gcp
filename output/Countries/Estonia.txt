@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 2 configs — 2026-10-25 14:06 UTC
+# @xray_ehi_hub — Estonia (EE) — 2 configs — 2026-10-25 17:40 UTC
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?encryption=none&security=reality&sni=willow.cdn.cachefleet.com&fp=chrome&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&type=grpc&mode=gun&authority=&serviceName=telegram-bridge#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b16cd
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2008931
-trojan://humanity@185.36.141.81:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ecfd9
