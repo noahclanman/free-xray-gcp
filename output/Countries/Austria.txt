@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Austria (AT) — 2 configs — 2026-10-25 20:08 UTC
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%205dce1
+# @xray_ehi_hub — Austria (AT) — 6 configs — 2026-10-25 22:33 UTC
+trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%208f188
 trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20785fd
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20c98b9
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20b8b7f
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?path=/AU5W&security=tls&encryption=none&insecure=0&host=au5.pad-sservice.lat&type=ws&allowInsecure=0&sni=au5.pad-sservice.lat#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2079294
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?path=/A11U&security=tls&encryption=none&insecure=0&host=au2.pad-service.com&type=ws&allowInsecure=0&sni=au2.pad-sservice.lat#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20cd7aa
