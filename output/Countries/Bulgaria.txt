@@ -2,5 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Bulgaria (BG) — 1 configs — 2026-10-25 17:40 UTC
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%205dd61
+# @xray_ehi_hub — Bulgaria (BG) — 3 configs — 2026-10-25 20:08 UTC
+vless://948a83ff-6277-48f1-a31e-f9b2f6b34fe4@6.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeline.www.cloudflare.com&sid=e915#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20d49ee
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?encryption=none&security=reality&sni=bg2.univesalsrv.com&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&mode=gun&authority=&serviceName=api.v2.PushService#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%205d20b
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%202298c
