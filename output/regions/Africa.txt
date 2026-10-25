@@ -2,9 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — AFRICA — 5 configs — 2026-10-24 22:00 UTC
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20a8cdf
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%206e6e7
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%202a8dd
-trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%201b276
+# @xray_ehi_hub — AFRICA — 8 configs — 2026-10-25 00:14 UTC
 trojan://humanity@45.130.125.69:443?type=ws&security=tls&sni=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.calmlunch.com&path=%2Fassignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%206f48d
+trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%201b276
+trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20960c9
+trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%206e6e7
+vless://eaf76557-2219-4799-8171-d7020adfefd0@45.130.125.151:443?security=tls&type=ws&path=/ws&host=fancy-mouse-6aff.wixit71180.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fancy-mouse-6aff.wixit71180.workers.dev&fp=chrome#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%202bd31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20df0dc
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20d6722
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2000aa9
