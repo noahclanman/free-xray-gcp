@@ -2,8 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Spain (ES) — 4 configs — 2026-10-25 22:33 UTC
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%209c7fe
-trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%205d0fb
+# @xray_ehi_hub — Spain (ES) — 3 configs — 2026-10-26 00:46 UTC
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&encryption=none#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2077538
 vless://0b418782-e023-447e-ba99-e66b84ff118d@67.159.46.132:2093?&security=reality&flow=xtls-rprx-vision&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20185f5
-vless://76b6a658-ce80-4500-b24d-404c94639ac6@67.159.46.134:2091?&security=reality&flow=xtls-rprx-vision&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&sid=08a4b1f473932632&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20011a1
+vless://0b418782-e023-447e-ba99-e66b84ff118d@67.159.47.236:2093?&security=reality&flow=xtls-rprx-vision&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2020de1

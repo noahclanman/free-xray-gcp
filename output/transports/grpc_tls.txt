@@ -2,7 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GRPC TLS — 3 configs — 2026-10-25 22:33 UTC
+# @xray_ehi_hub — GRPC TLS — 7 configs — 2026-10-26 00:46 UTC
+vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?security=tls&serviceName=kobedin-server1-vless&sni=45-149-147-213.sslip.io&type=grpc#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2011cea
+trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?type=grpc&security=tls&serviceName=kobedin-server1-trojan&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%204facb
+vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?alpn=h2&fp=chrome&security=tls&serviceName=kobedin-server1-vless&sni=45-149-147-213.sslip.io&type=grpc#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%205e39e
+vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?type=grpc&security=tls&serviceName=kobedin-server1-vless&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2&encryption=none#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%208f06f
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&sni=ru1.radiolumens.uk&fp=firefox&encryption=none#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2052fcf
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&alpn=h2%2Chttp%2F1.1&sni=ru1.radiolumens.uk&fp=chrome#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2027aaa
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?encryption=none&security=tls&sni=xssite.webredirect.org&fp=random&type=grpc&authority=&serviceName=grpc-ru&mode=gun#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20a215b
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%201573b

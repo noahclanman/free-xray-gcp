@@ -2,8 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Sweden (SE) — 4 configs — 2026-10-25 22:33 UTC
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%204effb
+# @xray_ehi_hub — Sweden (SE) — 6 configs — 2026-10-26 00:46 UTC
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2017ddc
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?host=st33614.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=st33614.rumedia-cdn.com&type=ws#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ca32c
-vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e04c6
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se13-node.rumedia-cdn.com:8443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ndQzAcG4g-2OhvFb8EjFnZyxJ2lhawiulTLJOZrK8lY&sni=www.wikipedia.org#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bd683
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%201004a
 vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=/ubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=chrome&type=xhttp&sni=mirror.timeweb.ru#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20679ad
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se13-node.rumedia-cdn.com:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=st5ff8a.rumedia-cdn.com&type=ws&allowInsecure=0&sni=st5ff8a.rumedia-cdn.com#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ad034

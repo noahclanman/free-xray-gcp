@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Czechia (CZ) — 1 configs — 2026-10-25 22:33 UTC
+# @xray_ehi_hub — Czechia (CZ) — 1 configs — 2026-10-26 00:46 UTC
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20f7652
