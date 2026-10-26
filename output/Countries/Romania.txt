@@ -2,9 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 5 configs — 2026-10-26 00:46 UTC
+# @xray_ehi_hub — Romania (RO) — 3 configs — 2026-10-26 06:00 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20dc991
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2023b7b
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?flow=xtls-rprx-vision&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2067e2e
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20fb567
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%208c78e
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2042862

@@ -2,19 +2,20 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — TCP TLS — 15 configs — 2026-10-26 00:46 UTC
+# @xray_ehi_hub — TCP TLS — 16 configs — 2026-10-26 06:00 UTC
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%206d4ac
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%207c53e
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2055667
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208407b
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20da5ad
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20af6b0
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202ad6c
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?sni=tjtw.m2k699.com&type=tcp#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%20b9f3c
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?sni=tjtw.m2k699.com&type=tcp#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%20c2ed2
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&fp=chrome&sni=2.26.6.1#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%202374a
-vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?sni=node-uk.connectsuite.org&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%20380f5
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20a02c2
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20db92b
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2056af5
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2055667
 vmess://eyJ2IjoiMiIsInBzIjoiUlUg8J+Ht/Cfh7ogfCBAeHJheV9laGlfaHViIHwgNDQzNTAiLCJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJwb3J0IjoyNDIxMiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443/?type=tcp&encryption=none&flow=&security=tls&sni=node-uk.connectsuite.org&fp=firefox#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%202c1e5
+trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp#IN%20%F0%9F%87%AE%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20adc81
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&host=7dae9c0cs220.gogocs.xyz&security=tls&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%201afc5
-trojan://Trojan@82164024@pl.tronsg.com:443?allowInsecure=1&type=tcp&security=tls&fp=edge&sni=pl.tronsg.com#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2025c4e
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?allowInsecure=1&type=tcp#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2086b94
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp&headerType=none&path=%2F#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20238c6
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%20a66d9
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=2.27.109.179.sslip.io#HK%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%2097069
+vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUuemhvdS15dWZhbi5jb20iLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJERSDwn4ep8J+HqiB8IEB4cmF5X2VoaV9odWIgfCA2MzYwZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZS56aG91LXl1ZmFuLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZGUuemhvdS15dWZhbi5jb20iLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiREUg8J+HqfCfh6ogfCBAeHJheV9laGlfaHViIHwgOTc3MDgiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — South Africa (ZA) — 2 configs — 2026-10-26 00:46 UTC
+# @xray_ehi_hub — South Africa (ZA) — 3 configs — 2026-10-26 06:00 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%209a2e2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20df0dc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2038792
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@139.84.242.103:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2078f46

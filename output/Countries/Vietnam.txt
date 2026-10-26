@@ -1,0 +1,6 @@
+#profile-title: Vietnam (VN)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Vietnam (VN) — 1 configs — 2026-10-26 06:00 UTC
+vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?encryption=none&fp=chrome&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&security=reality&sid=4710d669&sni=api.receptivity.io&spx=/432a583546f2687&type=tcp#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%204432e

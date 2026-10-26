@@ -2,10 +2,14 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Turkey (TR) — 6 configs — 2026-10-26 00:46 UTC
+# @xray_ehi_hub — Turkey (TR) — 10 configs — 2026-10-26 06:00 UTC
 vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201ffb7
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&security=reality&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&fp=chrome&path=/&host=tr.peregrine-sub.net&mode=auto#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2086813
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2045401
+vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:2053?&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=tr2.soft10.ir&type=ws&headerType=none&host=tr2.soft10.ir&path=%2F#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2063a34
 vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2051183
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2118?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=68c328105c&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20bbe83
+vless://03b0a000-a9f1-4ced-8a13-00e807d8b998@217.11.164.183:2102?encryption=none&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&security=reality&sid=68c328105c&sni=www.apple.com&spx=%2F0b145742074bd35&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201b886
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2112?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=06&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206804b
 vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:443?path=/&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tr2.soft10.ir#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b2f0f
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@helllo.com.tr:2216?encryption=none&security=reality&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=ddaaf1630788aeac&sni=www.apple.com&fp=chrome&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c0129
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@155.103.71.142:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=firefox&type=ws&host=a.cwvps.eu.org&path=%2Fws#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20baf78
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@87.236.166.178:56137#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20069df

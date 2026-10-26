@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Switzerland (CH) — 7 configs — 2026-10-26 00:46 UTC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2078fda
-vless://d5f29a64-da5d-4f99-b3c4-ae92cc39ad5f@116.204.164.30:7443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20bc75a
-vless://d25fa7ff-f71e-4cc2-88e6-a340b86fdebf@116.204.164.5:7443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20b2a86
-vless://3e438472-0f1e-4bbf-be5a-67d034afd8c0@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2042620
-vless://9dd5bcab-4a60-4f97-a7a4-77e98eabf9c4@116.204.164.17:7443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&encryption=none#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%201655d
+# @xray_ehi_hub — Switzerland (CH) — 2 configs — 2026-10-26 06:00 UTC
+vless://d430d61d-5404-4f5b-9eaf-3266b059969b@116.204.164.5:7443?encryption=none&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20fd64c
 vless://b303691b-d577-4465-93c8-dd6a33dc8c85@116.204.164.5:7443?encryption=none&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=/@Marisa_kristi&packetEncoding=xudp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20de829
-vless://48942ced-a272-41c1-98ac-75745d83bf93@116.204.164.60:7443?encryption=none&fp=firefox&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=/@Marisa_kristi&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&type=ws#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2042f62

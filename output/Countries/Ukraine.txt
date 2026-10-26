@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Ukraine (UA) — 2 configs — 2026-10-26 00:46 UTC
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20c99a4
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%208179c
+# @xray_ehi_hub — Ukraine (UA) — 1 configs — 2026-10-26 06:00 UTC
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=android&security=tls#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%207b796
