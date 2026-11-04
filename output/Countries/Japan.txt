@@ -2,17 +2,19 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Japan (JP) — 13 configs — 2026-11-04 06:22 UTC
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20e0b1a
+# @xray_ehi_hub — Japan (JP) — 15 configs — 2026-11-04 15:03 UTC
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2043252
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20f0dce
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204469d
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20e0b1a
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&security=reality&sid=bd6f67b6b2152b45&sni=fuji.etherhub.cc&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%205a5fe
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQHhyYXlfZWhpX2h1YiB8IGIzOGViIiwic25pIjoiMTY4LjEzOC40My43NSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20e6a6a
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?flow=xtls-rprx-vision&fp=random&host=www.apple.com&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20bb6c9
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2012e21
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?alpn=http%252f1.1&flow=xtls-rprx-vision&fp=random&host=www.sony.com&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20dc9e4
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20c8e27
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&fp=chrome&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2078576
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAeHJheV9laGlfaHViIHwgOTNmNDgiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0Ijoibm9uZSJ9
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiMTY4LjEzOC40My43NSIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6ODAsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAeHJheV9laGlfaHViIHwgNzE0ZjMiLCJ0bHMiOiJub25lIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJuYW1lIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQTk0MEQ2Iiwic2N5IjoiYXV0byJ9
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%209b0e2
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20aa99a
+vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?fp=chrome&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&security=reality&sid=9922313fffed1c63&sni=www.apple.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%206f0a0
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20ba6f4
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%200eba4
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=firefox&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20b4784
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20dfbeb
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?flow=xtls-rprx-vision&fp=edge&host=www.sony.com&path=%2F&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&security=reality&sid=03653bc03be10c97&sni=www.sony.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%200d359
