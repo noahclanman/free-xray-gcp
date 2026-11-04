@@ -2,5 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Czechia (CZ) — 1 configs — 2026-11-04 15:03 UTC
-vless://a44a1eab-1f2d-435e-b324-3c9e73d975bc@89.125.237.245:443?security=reality&encryption=none&pbk=IiBlvTjhPXcCixjqH6n6Cz3RWbeQjHepWtfIi28mly4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=9f2c4a7b1d6e8035#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20ce7b5
+# @xray_ehi_hub — Czechia (CZ) — 2 configs — 2026-11-04 21:17 UTC
+vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&packetEncoding=xudp&sni=udemy.com&fp=ios&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&encryption=none#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20e8dd7
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@178.208.89.21:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=prod-eu-east-cz6.api-gateway.service-mesh.ingress-observability.speedtestinternet.link&fp=chrome#CZ%20%F0%9F%87%A8%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%2024cd2
