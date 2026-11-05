@@ -2,7 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 3 configs — 2026-11-05 01:50 UTC
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2064b0b
-vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?security=reality&encryption=none&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=2e82d7ac#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20264f9
-vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?security=reality&encryption=none&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=2e82d7ac#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20a66e4
+# @xray_ehi_hub — Estonia (EE) — 1 configs — 2026-11-05 09:06 UTC
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b8448

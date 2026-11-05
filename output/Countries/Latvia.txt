@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Latvia (LV) — 3 configs — 2026-11-05 01:50 UTC
-vmess://eyJhZGQiOiI5NS4xODIuMTE1LjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYjc1MzMzNC01ZmQxLTQ3MmItYjNlMC00NThiYzIxODljNTgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiTFYg8J+HsfCfh7sgfCBAeHJheV9laGlfaHViIHwgZmI3OTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=raw#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2004cbb
+# @xray_ehi_hub — Latvia (LV) — 2 configs — 2026-11-05 09:06 UTC
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%201799f
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=firefox&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=raw#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2004cbb
