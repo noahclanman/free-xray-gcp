@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Finland (FI) — 2 configs — 2026-11-05 17:16 UTC
-vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAeHJheV9laGlfaHViIHwgMjExNGYiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6IjIwNTMiLCJpZCI6ImFlYjNjMDE5LWFlODMtNDY3Ny1hZjk3LTg0NmJhYTc4N2FkNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8zeCIsImhvc3QiOiJkb3duLWNkbi5kaW5ndGFsay5jb20ifQ==
+# @xray_ehi_hub — Finland (FI) — 2 configs — 2026-11-05 22:53 UTC
 vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@217.144.188.185:443?security=reality&encryption=none&pbk=_ZRqqX7UVPTq--m8Lk8YHhrfElad2dIIpTh3D59f8zk&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nordea.fi#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%203b1c0
+vless://ffaa2141-759b-424f-f28c-23dbeae00f10@122.8.47.4:8443?encryption=none&security=reality&sni=www.philips.com&fp=chrome&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&type=grpc&mode=gun&authority=&serviceName=TunService#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20cac1d
