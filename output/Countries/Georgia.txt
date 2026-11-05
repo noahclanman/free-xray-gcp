@@ -1,6 +1,0 @@
-#profile-title: Georgia (GE)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Georgia (GE) — 1 configs — 2026-11-04 21:17 UTC
-vless://483079ae-79ba-48aa-9071-340b79117a22@45.148.117.151:38291/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=reality.airvpn.su&security=reality&pbk=PNT2xM-R4OpFcV-bVO1Fgdb_C8tuB32bGIznjy2YYzc&sid=55e00de72e977e65#GE%20%F0%9F%87%AC%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d3722
