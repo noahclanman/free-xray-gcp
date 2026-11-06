@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — SOUTH AMERICA — 4 configs — 2026-11-06 03:16 UTC
+# @xray_ehi_hub — SOUTH AMERICA — 4 configs — 2026-11-06 11:32 UTC
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%208e8b5
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%201900e
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%202a094
-vmess://eyJ2IjpudWxsLCJwcyI6IkJSIPCfh6fwn4e3IHwgQHhyYXlfZWhpX2h1YiB8IDQ1NWUzIiwiYWRkIjoiMTAzLjg4LjIzMi41NSIsInBvcnQiOjEyNzAsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOm51bGwsIm5hbWUiOiJCUiDwn4en8J+HtyB8IEBSYXlkaWthbHggfCAwMjQ4REYifQ==
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&allowInsecure=1&type=tcp#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2085733
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ea240
+vmess://eyJ2IjoiMiIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAeHJheV9laGlfaHViIHwgZjY5YmYiLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSJ9

@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Albania (AL) — 3 configs — 2026-11-06 03:16 UTC
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20ab65f
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl4.japancase.site&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&sid=9f05c35b73b47d53&spx=/HesarWeb#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20482c2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20eac57
+# @xray_ehi_hub — Albania (AL) — 3 configs — 2026-11-06 11:32 UTC
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%203a7d1
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?headerType=none&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&flow=xtls-rprx-vision&type=tcp&security=reality&encryption=none&sni=nl4.japancase.site&spx=%2FHesarWeb#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%207196a
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&sid=9f05c35b73b47d53&sni=nl4.japancase.site#AL%20%F0%9F%87%A6%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2061e95
