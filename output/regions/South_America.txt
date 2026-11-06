@@ -2,8 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — SOUTH AMERICA — 4 configs — 2026-11-06 11:32 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%208e8b5
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%201900e
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ea240
-vmess://eyJ2IjoiMiIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAeHJheV9laGlfaHViIHwgZjY5YmYiLCJhZGQiOiIxMDMuODguMjMyLjU1IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSJ9
+# @xray_ehi_hub — SOUTH AMERICA — 3 configs — 2026-11-06 18:27 UTC
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20193c5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20f5654
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%204729a
