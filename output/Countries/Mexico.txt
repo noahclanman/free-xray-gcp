@@ -2,8 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Mexico (MX) — 4 configs — 2026-11-05 22:53 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%202f128
+# @xray_ehi_hub — Mexico (MX) — 3 configs — 2026-11-06 03:16 UTC
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%20190cc
-vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&encryption=none#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%206df33
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%20e6c00
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%20e7d70
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%205f1e7
