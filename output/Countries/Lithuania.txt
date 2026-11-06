@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 2 configs — 2026-11-06 18:27 UTC
+# @xray_ehi_hub — Lithuania (LT) — 1 configs — 2026-11-06 23:38 UTC
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2003845
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.83.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0ucabP76F6UHGAAoi73bxlt6ugwqoRDoLAW5n39pezU&sni=www.rimi.lv#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%208ede1

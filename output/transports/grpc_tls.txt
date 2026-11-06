@@ -2,11 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GRPC TLS — 7 configs — 2026-11-06 18:27 UTC
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2046400
+# @xray_ehi_hub — GRPC TLS — 4 configs — 2026-11-06 23:38 UTC
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?allowInsecure=0&sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%203d0f9
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=vlgrpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20af7cc
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=random&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%201573b
-vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@falmero.store:443?sni=falmero.store&alpn=h2&type=grpc&serviceName=glush.de1.v1&fp=firefox&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20fba66
-vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20bedd1
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=vlgrpc&sni=kk-ru24a1.testkknegr.online&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2097e59
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443/?type=grpc&encryption=none&flow=&serviceName=vlgrpc&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20f863e
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20af4dd
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&security=tls&sni=xsru1.ddnsfree.com&fp=chrome&type=grpc&serviceName=grpc-ru&mode=gun#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20981df
