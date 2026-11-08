@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Turkey (TR) — 4 configs — 2026-11-08 11:14 UTC
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?fp=random&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200fb41
+# @xray_ehi_hub — Turkey (TR) — 4 configs — 2026-11-08 17:12 UTC
+vless://b519e782-fb87-48bf-9935-20a8a5350852@194.135.32.187:443?encryption=none&security=reality&sni=match4-114deaf482f681.gismeteo.ru&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=99e78ee91698aaaa&spx=/&flow=xtls-rprx-vision#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%203e89d
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2060ccb
-vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@81.177.215.122:443?security=reality&encryption=none&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=latino.plus-hit.ru&sid=7c8e3d4a9b1f26d3#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%205277c
-vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15&spx=/&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2018151
+vless://03b0a000-a9f1-4ced-8a13-00e807d8b998@217.11.164.183:2112?encryption=none&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&security=reality&sid=68c328105c&sni=www.apple.com&spx=%2F0b145742074bd35&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201390b
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=none&type=tcp&sni=www.apple.com&sid=cc80ef#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%202455a
