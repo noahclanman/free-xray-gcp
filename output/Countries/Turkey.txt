@@ -2,7 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Turkey (TR) — 3 configs — 2026-11-08 00:01 UTC
+# @xray_ehi_hub — Turkey (TR) — 8 configs — 2026-11-08 03:57 UTC
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?security=reality&encryption=none&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr3.japancase.site&sid=071c3bd86b0c3c73#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%204c5ee
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2118?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=68c328105c&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20bbe83
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.66.62:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B5Rbu23-J_PmzD6d-5ra_pxKaXd1MeRf6IT4jT_6PEM&security=reality&sid=071c3bd86b0c3c73&sni=tr3.japancase.site&type=tcp#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%209cdf3
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2112?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=06&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206804b
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=ddaaf1630788aeac&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%208dc8b
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2060ccb
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b40f9
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2118?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&sid=68c328105c&spx=%2Fb0801adb7de08fd&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20bbe83
+vless://01e61db7-9e0b-4431-a995-a5288a01b951@147.45.66.60:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&sid=4d3d8e15&spx=/&type=tcp&headerType=none#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2018151

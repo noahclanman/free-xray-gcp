@@ -2,5 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Slovakia (SK) — 1 configs — 2026-11-08 00:01 UTC
+# @xray_ehi_hub — Slovakia (SK) — 4 configs — 2026-11-08 03:57 UTC
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=5d0319t.nl7.h1clayd.click&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&spx=/#SK%20%F0%9F%87%B8%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%207e00c
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@961ec0g.nl13.h1clayd.click:443?encryption=none&fp=&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&type=grpc#SK%20%F0%9F%87%B8%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%2022d93
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?&security=reality&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&fp=chrome&sni=f0d7aft.nl13.h1clayd.click&type=tcp&headerType=none&host=f0d7aft.nl13.h1clayd.click&path=%2F#SK%20%F0%9F%87%B8%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%204e158
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@80cb66x.nl13.h1clayd.click:443?encryption=none&fp=&mode=auto&path=/d610f026b146&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&security=reality&sid=f72d4a2c7cbbacb1&sni=80cb66x.nl13.h1clayd.click&type=xhttp#SK%20%F0%9F%87%B8%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%20bd0e8
