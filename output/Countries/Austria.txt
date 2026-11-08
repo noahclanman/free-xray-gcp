@@ -2,5 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Austria (AT) — 1 configs — 2026-11-08 17:12 UTC
-vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2077561
+# @xray_ehi_hub — Austria (AT) — 3 configs — 2026-11-08 21:12 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA%3D%3D@152.53.1.57:8388#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20e99e1
+vmess://eyJhZGQiOiIxNTQuNDcuMTkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IkFUIPCfh6bwn4e5IHwgQHhyYXlfZWhpX2h1YiB8IDFmNzFkIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://90157e25-cee1-4217-921e-91f300bc1a24@66.90.106.28:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=banket-restoran.su&sid=428ef87fd47a3a32#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20c599b

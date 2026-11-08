@@ -1,0 +1,6 @@
+#profile-title: Nigeria (NG)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Nigeria (NG) — 1 configs — 2026-11-08 21:12 UTC
+vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@196.196.149.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se1.h1clayd.click&type=tcp#NG%20%F0%9F%87%B3%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20017da
