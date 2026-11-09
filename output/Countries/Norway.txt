@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Norway (NO) — 2 configs — 2026-11-09 00:40 UTC
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@193.203.10.188:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#NO%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2079b1d
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@no.gacvpn.site:443?security=reality&encryption=none&pbk=mCLTVbcvg_tkaIuGqMVVBV-5d_ftEoLnJHhrCmeLDFk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=no.gacvpn.site&sid=08d12dce#NO%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20c9934
+# @xray_ehi_hub — Norway (NO) — 1 configs — 2026-11-09 07:16 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#NO%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%208a7cf
