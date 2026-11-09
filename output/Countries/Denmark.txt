@@ -1,6 +1,0 @@
-#profile-title: Denmark (DK)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Denmark (DK) — 1 configs — 2026-11-09 07:16 UTC
-vless://de3592c8-3e77-ea26-c465-d6e6f487597d@122.8.46.9:8443?encryption=none&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&type=grpc&mode=gun&authority=&serviceName=TunService#DK%20%F0%9F%87%A9%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%2053757

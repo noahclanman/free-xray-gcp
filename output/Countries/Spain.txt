@@ -2,15 +2,14 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Spain (ES) — 11 configs — 2026-11-09 07:16 UTC
-ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg@193.148.19.214:12798#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2093c67
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.117:19999#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202d392
+# @xray_ehi_hub — Spain (ES) — 10 configs — 2026-11-09 17:33 UTC
+ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg=@193.148.19.214:12798#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20cf24b
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.71.167:19999#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%201d2dc
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&sni=www.discovergreatjobsandadvanceyourcareer.com&fp=chrome&type=tcp&headerType=none#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2056ce0
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20dee4c
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202ee33
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?sni=courses.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%209733e
-vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@45.198.55.14:443?encryption=none&fp=firefox&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&security=reality&serviceName=61c20be08f4f&sid=2437eeeb791b6d80&sni=49930ag.es8.h1clayd.click&type=grpc#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20a2fe3
-vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=0dfc23fe80778c00&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&encryption=none#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2077538
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20c67b1
-vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@196.245.52.188:443?security=reality&encryption=none&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&headerType=none&fp=firefox&type=tcp&sni=62981et.us11.h1clayd.click&sid=ce43937e79bc30f0#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20aab7d
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.117:19999#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202d392
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.71.167:19999#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20594d8
+vless://ead0dd61-d398-40ad-80d6-a0e1e516d7d3@212.227.235.66:2053?fp=firefox&host=www.apple.com&pbk=7Y6Xb5Ql_03K25x8yKUSOKI2JTOMyv2nyCcFza90uxk&security=reality&sid=29e8dcd2b37aaa7f&sni=www.apple.com&type=tcp#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20340ad
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@66.163.118.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PwN5VWqwWKVfrqqrbLE4kzVu9vIXSENAUiAPjMWIrVY&sid=32209e627ee109c7&type=tcp&headerType=none#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208916f
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%203e79a
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20a8398
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%202d6cf
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&headerType=none&type=tcp&sni=cdn.discovergreatjobsandadvanceyourcareer.com#ES%20%F0%9F%87%AA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20133a2
