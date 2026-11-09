@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iceland (IS) — 2 configs — 2026-11-08 21:12 UTC
-vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=firefox&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#IS%20%F0%9F%87%AE%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%208c4f2
-vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#IS%20%F0%9F%87%AE%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20626b0
+# @xray_ehi_hub — Iceland (IS) — 1 configs — 2026-11-09 00:40 UTC
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&encryption=none&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=06#IS%20%F0%9F%87%AE%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%2018d63

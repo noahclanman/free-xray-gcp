@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Turkey (TR) — 3 configs — 2026-11-08 21:12 UTC
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b6008
+# @xray_ehi_hub — Turkey (TR) — 3 configs — 2026-11-09 00:40 UTC
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b8d3e
-vless://4a414062-e1b2-496a-bf50-d447e786f3f4@tr.0a0.uk:443?security=reality&encryption=none&pbk=U-2PKc5vWQ8drgWUeoxL58r4v_GNpmuvxarkDRat9R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=2eec85de34f4cc39#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2085cfd
+vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2060ccb
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@146.103.24.187:8443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/fp=firefox&security=tls#TR%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20f40f0
