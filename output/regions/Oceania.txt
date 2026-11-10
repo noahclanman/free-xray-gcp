@@ -2,8 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — OCEANIA — 4 configs — 2026-11-10 16:16 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=/#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%204b95f
+# @xray_ehi_hub — OCEANIA — 7 configs — 2026-11-10 21:58 UTC
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2098286
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?path=%2F&security=tls&sni=connectwithemployerstohireyouridealteam.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20edaa1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%205dd58
+trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?sni=au001.zestapp778.com&allowInsecure=1&type=tcp#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%206bb80
 vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2065d7c
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2072d35
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2006c67
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&sid=26b26357bfcd59a1&type=tcp&headerType=none#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%208b8b9

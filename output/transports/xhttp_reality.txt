@@ -2,5 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — XHTTP REALITY — 1 configs — 2026-11-10 16:16 UTC
-vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@estonia2.banovano.space:17417?mode=auto&path=/&security=reality&encryption=none&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&fp=chrome&spx=/yGKROYpW7YoNBsh&type=xhttp&sni=yandex-cdn-mirror.ru&sid=728f3f459ddf#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20b2b69
+# @xray_ehi_hub — XHTTP REALITY — 3 configs — 2026-11-10 21:58 UTC
+vless://48dce7a6-e7a9-4d63-a0a5-7b812d998610@91.193.19.58:443?mode=auto&path=/update/check&security=reality&encryption=none&pbk=cDVaCGB7-oxPwRr8h_U3JFRmLw6EzPP062X_hN6U4zk&fp=chrome&spx=/&type=xhttp&sni=github.com&sid=3f72fa9a09a38c97#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20d1446
+vless://e5775208-b6ef-46c0-8b30-9f8a67e6149e@uk.ui.skydown.info:80?type=xhttp&path=/yokoso/sharingan&host=uk.ui.skydown.info&security=reality&pbk=h_OMTyJA9NgPXJa59jvVvydKDz4L61upmQUae1sTTGU&fp=chrome&sni=www.sony.com&sid=86f88a262c1cbc56&spx=/&encryption=none#GB%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20@xray_ehi_hub%20%7C%2048414
+vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?mode=auto&path=%2F&security=reality&encryption=none&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&fp=chrome&type=xhttp&sni=yandex.ru&sid=77#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20f903e
