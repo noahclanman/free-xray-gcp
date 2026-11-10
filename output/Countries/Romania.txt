@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 2 configs — 2026-11-10 01:01 UTC
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@103.102.229.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&security=reality&sid=a1b2c3d4e5f60718&sni=cdn-rum-keno-prsv.keno.su&type=tcp#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2009996
-vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@cdn-rum-keno-prsv.keno.su:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2091089
+# @xray_ehi_hub — Romania (RO) — 1 configs — 2026-11-10 08:12 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2023b7b
