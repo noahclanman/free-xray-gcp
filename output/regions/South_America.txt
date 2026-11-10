@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — SOUTH AMERICA — 5 configs — 2026-11-10 08:12 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%206679b
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ea240
+# @xray_ehi_hub — SOUTH AMERICA — 2 configs — 2026-11-10 16:16 UTC
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b62c8
-vless://bb3723d7-462e-442c-9472-496750476f45@109.104.155.131:2053?flow=xtls-rprx-vision&security=reality&sni=dir-br1.filesapp.org&fp=firefox&pbk=MwJoFytMWCLdwCCt0cSTM8L6ZzYKxlZbFMML_3nnJms&sid=508118120e886b5a#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2016eb9
-vless://bb3723d7-462e-442c-9472-496750476f45@109.104.155.131:2053?encryption=none&flow=xtls-rprx-vision&pbk=MwJoFytMWCLdwCCt0cSTM8L6ZzYKxlZbFMML_3nnJms&security=reality&sid=508118120e886b5a&sni=dir-br1.filesapp.org&type=tcp#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2007671
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#BR%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20e5e66

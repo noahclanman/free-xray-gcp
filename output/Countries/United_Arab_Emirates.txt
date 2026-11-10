@@ -1,6 +1,0 @@
-#profile-title: United Arab Emirates (AE)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — United Arab Emirates (AE) — 1 configs — 2026-11-10 08:12 UTC
-vless://49245416-d794-4db9-8141-0b60724005f7@46.8.100.46:35940?security=&encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&headerType=none&type=tcp#AE%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%208bb1f
