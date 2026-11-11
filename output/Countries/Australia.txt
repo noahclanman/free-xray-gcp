@@ -2,13 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Australia (AU) — 9 configs — 2026-11-11 17:05 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%205dd58
-trojan://Trojan@82164024@45.32.241.180:443?security=tls&sni=au.tronsg.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%207bec0
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20ee9cc
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2098286
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?security=reality&type=tcp&sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&sid=26b26357bfcd59a1#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20b1016
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@50.6.54.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=26b26357bfcd59a1&pbk=2vd1kmOeZpjjDpgN75FMhwFRzPjNfzvLoUM5LlLrm2U&encryption=none#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20e6432
+# @xray_ehi_hub — Australia (AU) — 8 configs — 2026-11-11 23:30 UTC
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&fp=chrome&sni=au001.zestapp778.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20ab657
-vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%209aeda
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2098aa3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20ee9cc
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=/#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%204b95f
+trojan://Trojan@82164024@au.tronsg.com:443?security=tls&sni=au.tronsg.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%201d8b2
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7&sni=www.apple.com#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%200a822
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2006c67
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20dc6d5
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2063178

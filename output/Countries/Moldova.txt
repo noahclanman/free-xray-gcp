@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Moldova (MD) — 2 configs — 2026-11-11 17:05 UTC
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM---leviconfigs&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#MD%20%F0%9F%87%B2%F0%9F%87%A9%20%7C%20@xray_ehi_hub%20%7C%2031989
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#MD%20%F0%9F%87%B2%F0%9F%87%A9%20%7C%20@xray_ehi_hub%20%7C%20ffcc2
+# @xray_ehi_hub — Moldova (MD) — 3 configs — 2026-11-11 23:30 UTC
+vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@srv21.buddygpt.ru:443?mode=auto&path=/assets/1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&fp=chrome&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a#MD%20%F0%9F%87%B2%F0%9F%87%A9%20%7C%20@xray_ehi_hub%20%7C%20f078f
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=chrome&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#MD%20%F0%9F%87%B2%F0%9F%87%A9%20%7C%20@xray_ehi_hub%20%7C%206c845
+vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@143.246.204.21:443?mode=auto&path=/assets/1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&fp=chrome&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a#MD%20%F0%9F%87%B2%F0%9F%87%A9%20%7C%20@xray_ehi_hub%20%7C%200523f
