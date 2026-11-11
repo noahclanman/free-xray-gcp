@@ -2,8 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 4 configs — 2026-11-11 01:52 UTC
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:22843?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl16.blog-forme.ru&pbk=b4IjSqjLCM2MZyRiqv-VBsRB1D7CrRaQCDXaUIfp6mA&sid=646903b46c069439&fp=chrome#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20989d7
+# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-11-11 08:58 UTC
 vless://25ce9135-58c0-46fb-97ad-a39eeff459e9@94.183.164.141:7443?encryption=none&fp=&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20cf590
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NW4zY3dyY25VRHR6UGVzUTlFQzIvOTVjeFZLYVdOdWQxYVVKU2o0QWVtdz06Qk5RcVBqSVJadmFUSGJ5U01mTk1ZS0xGUTJEMTNiVmcrbC9peUprTXNTTT0@gaming.cloudnamercqtzumigrhrjm.ir:30473#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20526df
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200380a
