@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 2 configs — 2026-11-11 08:58 UTC
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?sni=edge-lt.lindenpixel.com&type=grpc&serviceName=grpc&fp=edge&security=tls#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20f7a5e
+# @xray_ehi_hub — Lithuania (LT) — 3 configs — 2026-11-11 17:05 UTC
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=edge-lt.lindenpixel.com#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2039726
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&type=grpc&mode=gun&serviceName=grpc&security=tls&fp=chrome&sni=edge-lt.lindenpixel.com#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2005023
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=edge-lt.lindenpixel.com&fp=edge&encryption=none#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%205d81d

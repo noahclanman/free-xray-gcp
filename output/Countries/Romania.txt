@@ -2,9 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 5 configs — 2026-11-11 08:58 UTC
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?&security=tls&fp=firefox&sni=82.152.132.74&type=ws&headerType=none&host=82.152.132.74&path=%2Fassets%2Fsync-8f3a71#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20f16da
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?path=%2Fassets%2Fsync-8f3a71&security=tls&encryption=none&insecure=0&host=82.152.132.74&fp=firefox&type=ws&allowInsecure=0&sni=82.152.132.74#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%203d3ee
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?path=/assets/sync-8f3a71&security=tls&encryption=none&insecure=0&host=82.152.132.74&fp=chrome&type=ws&allowInsecure=0&sni=82.152.132.74#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20d04f1
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?path=/assets/sync-8f3a71&security=tls&encryption=none&host=82.152.132.74&fp=chrome&type=ws&sni=82.152.132.74#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2066ecf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20dc991
+# @xray_ehi_hub — Romania (RO) — 3 configs — 2026-11-11 17:05 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%208c78e
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?path=%2Fassets%2Fsync-8f3a71&security=tls&encryption=none&host=82.152.132.74&fp=firefox&type=ws&allowInsecure=0&sni=82.152.132.74#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2048b8f
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?path=%2Fassets%2Fsync-8f3a71&security=tls&sni=82.152.132.74&type=ws#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20d2fb4
