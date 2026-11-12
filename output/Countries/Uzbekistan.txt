@@ -1,0 +1,6 @@
+#profile-title: Uzbekistan (UZ)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Uzbekistan (UZ) — 1 configs — 2026-11-12 04:13 UTC
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@46.8.114.205:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=plov.plus-hit.ru&fp=chrome&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&sid=bf8b003cb32c968b#UZ%20%F0%9F%87%BA%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%201a197

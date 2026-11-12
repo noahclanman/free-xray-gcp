@@ -1,6 +1,0 @@
-#profile-title: Slovakia (SK)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Slovakia (SK) — 1 configs — 2026-11-11 23:30 UTC
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.92:443?type=grpc&security=reality&fp=firefox&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&serviceName=204adda7e3da#SK%20%F0%9F%87%B8%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%2000117
