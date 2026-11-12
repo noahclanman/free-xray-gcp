@@ -1,0 +1,8 @@
+#profile-title: Latvia (LV)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Latvia (LV) — 3 configs — 2026-11-12 20:31 UTC
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.26.88.240:4443?type=xhttp&security=tls&fp=chrome&sni=lv3.nexfile.net&path=/api/v1/sync/&host=lv3.nexfile.net#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2048bbb
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2054126
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?encryption=none&fp=qq&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=lv3.nexfile.net&type=xhttp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%201879c

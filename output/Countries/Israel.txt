@@ -2,5 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Israel (IL) — 1 configs — 2026-11-12 12:34 UTC
+# @xray_ehi_hub — Israel (IL) — 2 configs — 2026-11-12 20:31 UTC
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%204878e
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20f94a8

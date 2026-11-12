@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Mexico (MX) — 3 configs — 2026-11-12 12:34 UTC
+# @xray_ehi_hub — Mexico (MX) — 2 configs — 2026-11-12 20:31 UTC
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%209bc77
-vmess://eyJ2IjoiMiIsInBzIjoiTVgg8J+HsvCfh70gfCBAeHJheV9laGlfaHViIHwgYWIyMGMiLCJhZGQiOiIzOC42MC4yMjQuMTczIiwicG9ydCI6IjMyMTUzIiwiaWQiOiI1Y2YxZjQ3MC0zZjcwLTQ1ODktYTJhNC00NjU3ZWEzYTFlZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI5In0=
-vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQHhyYXlfZWhpX2h1YiB8IDQwNzBiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&encryption=none#MX%20%F0%9F%87%B2%F0%9F%87%BD%20%7C%20@xray_ehi_hub%20%7C%206df33

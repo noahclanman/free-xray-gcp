@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 2 configs — 2026-11-12 12:34 UTC
-vless://25ce9135-58c0-46fb-97ad-a39eeff459e9@94.183.164.176:7443/?type=grpc&encryption=none&flow=&serviceName=ebl&sni=optim.tildacdn.pub&fp=chrome&security=reality&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&sid=#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201d484
+# @xray_ehi_hub — Iran (IR) — 2 configs — 2026-11-12 20:31 UTC
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=tgnl2.blog-forme.ru&fp=chrome&pbk=31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y&sid=29f834cf893710f9#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201a7aa
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:443?type=xhttp&security=reality&fp=chrome&pbk=31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y&sid=29f834cf893710f9&sni=tgnl2.blog-forme.ru&path=/v2/notes/86cf7ba6ede1&host=tgnl2.blog-forme.ru#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20d8630
