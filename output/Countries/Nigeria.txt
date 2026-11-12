@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Nigeria (NG) — 1 configs — 2026-11-12 04:13 UTC
+# @xray_ehi_hub — Nigeria (NG) — 1 configs — 2026-11-12 12:34 UTC
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?encryption=none&security=reality&type=xhttp&sni=38917fx.es1.h1clayd.click&fp=chrome&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d#NG%20%F0%9F%87%B3%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%203e5e1
