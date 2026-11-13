@@ -2,11 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Finland (FI) — 7 configs — 2026-11-13 08:39 UTC
-ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20fa24a
+# @xray_ehi_hub — Finland (FI) — 5 configs — 2026-11-13 16:54 UTC
+vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAeHJheV9laGlfaHViIHwgNTFiODgiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6IjUyMDgwIiwiaWQiOiJlYzNjOGI5Ny1mMzA4LTRmZWUtYWExNi05NWUyYzc1OTVhY2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvM3gifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAeHJheV9laGlfaHViIHwgYTZiNDYiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6IjUyMDgwIiwiaWQiOiJlYzNjOGI5Ny1mMzA4LTRmZWUtYWExNi05NWUyYzc1OTVhY2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvM3giLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIn0=
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?security=reality&encryption=none&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=2veos3wvwtx8.cdn.cachefleet.com#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20a764d
-vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=video.yandex.ru&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none&path=%2F#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%203fba9
-vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAeHJheV9laGlfaHViIHwgMjExNGYiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6IjIwNTMiLCJpZCI6ImFlYjNjMDE5LWFlODMtNDY3Ny1hZjk3LTg0NmJhYTc4N2FkNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8zeCIsImhvc3QiOiJkb3duLWNkbi5kaW5ndGFsay5jb20ifQ==
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20ee565
-vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=8f79726c5002#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20f66e0
-vless://8cc7d0fc-1b83-4ee3-b51d-8a03a9b19435@webdisk.jaggyslawa.org:443?security=reality&encryption=none&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sni=www.microsoft.com&sid=87174b37ce3b#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20c04de
+vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@webdisk.jaggyslawa.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.mozilla.org&fp=chrome&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=8f79726c5002&type=tcp&headerType=none#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2030c2f

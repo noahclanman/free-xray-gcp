@@ -1,0 +1,6 @@
+#profile-title: Malaysia (MY)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Malaysia (MY) — 1 configs — 2026-11-13 16:54 UTC
+vmess://eyJhZGQiOiIxOTIuMjI4LjE0NS4xMTgiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDA4NiIsInBzIjoiTVkg8J+HsvCfh74gfCBAeHJheV9laGlfaHViIHwgMDExNDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9

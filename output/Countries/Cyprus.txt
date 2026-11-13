@@ -1,6 +1,0 @@
-#profile-title: Cyprus (CY)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Cyprus (CY) — 1 configs — 2026-11-13 08:39 UTC
-vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@45.88.176.30:8443?mode=auto&path=/xhttp&security=reality&encryption=none&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&fp=chrome&type=xhttp&sni=cdn-us.cahmes.space&sid=6bd33a75ebc0f26e#CY%20%F0%9F%87%A8%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%20f3395
