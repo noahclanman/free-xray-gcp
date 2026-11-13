@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Bulgaria (BG) — 3 configs — 2026-11-12 20:31 UTC
-vless://ade238d6-637e-4f6c-b1fc-268579b262f5@p11real1.greewebservices.ir:1020?security=reality&encryption=none&pbk=xwbp4EcOtus1W5Au4XCJJbCl9jCb4DwGgYQYEwUDqTY&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=354e34396eaa89ab#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20d51f4
-vless://ade238d6-637e-4f6c-b1fc-268579b262f5@p11real3.greewebservices.ir:1040?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20863d1
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20d1cf0
+# @xray_ehi_hub — Bulgaria (BG) — 2 configs — 2026-11-13 01:33 UTC
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20f98b1
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?encryption=none&type=grpc&serviceName=grpc&mode=gun&authority=bg2.oncloudvpn.com&security=tls&sni=bg2.oncloudvpn.com&fp=chrome&alpn=h2#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20bc1c8

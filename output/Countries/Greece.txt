@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Greece (GR) — 2 configs — 2026-11-12 20:31 UTC
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#GR%20%F0%9F%87%AC%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2077c5c
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#GR%20%F0%9F%87%AC%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20a7f47
+# @xray_ehi_hub — Greece (GR) — 2 configs — 2026-11-13 01:33 UTC
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#GR%20%F0%9F%87%AC%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%201d032
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#GR%20%F0%9F%87%AC%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20e9ea8
