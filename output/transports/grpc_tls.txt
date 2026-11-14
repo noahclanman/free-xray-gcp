@@ -2,11 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GRPC TLS — 7 configs — 2026-11-13 22:36 UTC
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=qi8ws15c7jv5q2fa&allowInsecure=0&sni=68r2nrw6avta71yq.cdn.cachefleet.com#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206f268
+# @xray_ehi_hub — GRPC TLS — 8 configs — 2026-11-14 02:50 UTC
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?encryption=none&security=tls&sni=host-de-upscale.cdn.cachefleet.com&fp=chrome&type=grpc&authority=&serviceName=a9w9wmko0k2od14hv8v&mode=gun#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d32f7
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?encryption=none&security=tls&sni=68r2nrw6avta71yq.cdn.cachefleet.com&fp=chrome&type=grpc&mode=gun&authority=&serviceName=qi8ws15c7jv5q2fa#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20d3c36
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=qi8ws15c7jv5q2fa&allowInsecure=0&sni=68r2nrw6avta71yq.cdn.cachefleet.com#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2045c7c
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2046400
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?encryption=none&fp=firefox&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2047cda
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=glush.de3.v1&allowInsecure=0&sni=luminexorizon.ink#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20512fa
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@notebook.filnex.baby:443?security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=glush.de6.v1&allowInsecure=0&sni=notebook.filnex.baby#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20a5dee
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@atelier.merlano.monster:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=glush.de1.v1&allowInsecure=0&sni=grove.moltex.click#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2012539
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%202d002
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2092a0d
+vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=vlgrpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20af7cc
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?sni=vps3.nemnogogo.com&type=grpc&serviceName=mobile.api.Event&fp=firefox&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20d9dd7
+vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2040c6c

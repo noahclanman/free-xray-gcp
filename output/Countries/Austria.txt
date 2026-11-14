@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Austria (AT) — 3 configs — 2026-11-13 22:36 UTC
-vmess://eyJ2IjpudWxsLCJwcyI6IkFUIPCfh6bwn4e5IHwgQHhyYXlfZWhpX2h1YiB8IDcwOGQzIiwiYWRkIjoiMTU0LjQ3LjE5LjIyNSIsInBvcnQiOjEyNzAsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoieG1maGxweS5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwiZnAiOm51bGwsIm5hbWUiOiJBVCDwn4em8J+HuSB8IEBSYXlkaWthbHggfCAyODRCQTQifQ==
-vmess://eyJ2IjpudWxsLCJwcyI6IkFUIPCfh6bwn4e5IHwgQHhyYXlfZWhpX2h1YiB8IDE2YTdmIiwiYWRkIjoiMTU0LjQ3LjE5LjIyNSIsInBvcnQiOjEyNzAsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsLCJuYW1lIjoiQVQg8J+HpvCfh7kgfCBAUmF5ZGlrYWx4IHwgQ0M3MDA4In0=
+# @xray_ehi_hub — Austria (AT) — 3 configs — 2026-11-14 02:50 UTC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2017b9d
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20831e1
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?path=/fp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#AT%20%F0%9F%87%A6%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d1673

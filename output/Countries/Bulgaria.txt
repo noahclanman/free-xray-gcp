@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Bulgaria (BG) — 5 configs — 2026-11-13 22:36 UTC
-vless://cfe7a80d-34c6-46df-909d-2daa14f98136@66.bmi.ir.asopardaz.ir:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=timeline.www.cloudflare.com&fp=chrome&insecure=1&allowInsecure=1&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&flow=xtls-rprx-vision#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20996a4
-vless://cfe7a80d-34c6-46df-909d-2daa14f98136@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%209ac9a
-vless://cfe7a80d-34c6-46df-909d-2daa14f98136@66.bmi.ir.asopardaz.ir:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&security=reality&sid=e915&sni=timeline.www.cloudflare.com&type=tcp#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%2088abf
-vless://b0511969-f769-460b-963b-70c6b84b6967@p1real5.greewebservices.ir:1270?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20fd57b
-vless://b0511969-f769-460b-963b-70c6b84b6967@p1real4.greewebservices.ir:1260?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%209cd71
+# @xray_ehi_hub — Bulgaria (BG) — 2 configs — 2026-11-14 02:50 UTC
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%205dd61
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=gateway.icloud.com&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832#BG%20%F0%9F%87%A7%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%207453c
