@@ -2,5 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 1 configs — 2026-11-15 07:41 UTC
-vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@3fb2b6t.se1.h1clayd.click:443?&security=reality&flow=xtls-rprx-vision&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&fp=firefox&sni=3fb2b6t.se1.h1clayd.click&type=tcp&headerType=none&host=3fb2b6t.se1.h1clayd.click&path=%2F#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2019e22
+# @xray_ehi_hub — Estonia (EE) — 2 configs — 2026-11-15 15:10 UTC
+vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@362c1eg.se1.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=362c1eg.se1.h1clayd.click&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&fp=firefox&spx=/#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%208e27f
+vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?type=grpc&security=reality&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%203688a

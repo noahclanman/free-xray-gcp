@@ -2,7 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — XHTTP REALITY — 3 configs — 2026-11-15 07:41 UTC
+# @xray_ehi_hub — XHTTP REALITY — 8 configs — 2026-11-15 15:10 UTC
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:2087?mode=auto&path=/v2/sync/6e9367&security=reality&encryption=none&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&type=xhttp&sni=summit.blog-forme.ru&sid=3258252d44113e23#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%201a8fa
+vless://11512726-b692-406f-ab49-7b28f44a8294@143.246.211.240:443?mode=auto&path=/ae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=chrome&type=xhttp&sni=fr.gorobsub.com#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200b936
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:2087?path=/v2/sync/6e9367&security=reality&encryption=none&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&fp=chrome&type=xhttp&sni=summit.blog-forme.ru&sid=3258252d44113e23#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20223f6
 vless://11512726-b692-406f-ab49-7b28f44a8294@143.246.211.240:443?encryption=none&security=reality&sni=fr.gorobsub.com&fp=chrome&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&sid=3242cfd7&type=xhttp&path=/ae1b809ceb77#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2062981
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:2087?path=%2Fv2%2Fsync%2F6e9367&security=reality&encryption=none&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&fp=chrome&type=xhttp&sni=summit.blog-forme.ru&sid=3258252d44113e23#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20df00d
 vless://11512726-b692-406f-ab49-7b28f44a8294@80.96.108.29:443?path=%2Fae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=firefox&type=xhttp&sni=md.gorobsub.com&sid=3242cfd7#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%206fe4d
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.104:443?encryption=none&fp=&host=e60833x.nl7.h1clayd.click&mode=auto&path=%2Fd20896a4ce30&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&security=reality&sid=2d2598d60447a967&sni=e60833x.nl7.h1clayd.click&type=xhttp#SK%20%F0%9F%87%B8%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%204ea3b
+vless://ca39b355-b488-9297-918f-9d011d075ba2@185.209.42.72:2084?mode=auto&security=reality&encryption=none&pbk=yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs&fp=chrome&type=xhttp&sni=www.aparat.com&sid=2f567c6d#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c42a0
