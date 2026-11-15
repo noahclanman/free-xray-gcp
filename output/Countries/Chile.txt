@@ -1,0 +1,7 @@
+#profile-title: Chile (CL)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Chile (CL) — 2 configs — 2026-11-15 20:20 UTC
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%201900e
+vless://47637b04-945c-481e-b221-03c32d10c52d@147.224.233.249:63690?security=reality&encryption=none&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1f2519bb96e5589c#CL%20%F0%9F%87%A8%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%202e60f
