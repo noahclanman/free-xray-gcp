@@ -2,9 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 5 configs — 2026-11-14 21:07 UTC
+# @xray_ehi_hub — Iran (IR) — 8 configs — 2026-11-15 00:52 UTC
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&sni=base.hosamobenl.co.uk&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ecdd1
 vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?encryption=none&type=tcp&security=tls&headerType=none&sni=base.hosamobenl.co.uk&alpn=http/1.1&fp=chrome&pinSHA256=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a&pcs=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20853f1
-vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?encryption=none&type=grpc&serviceName=ebl&mode=multi&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&fm=#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2063835
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2044b92
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?pcs=8f40a40d49c7e830e78111a9846f43f322ba049cee043259c108f28a66c16b2a&security=tls&alpn=http/1.1&encryption=none&headerType=none&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20b7307
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@94.183.164.176:443?encryption=none&type=grpc&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&fp=firefox&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2034cf9
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=base.hosamobenl.co.uk&type=tcp&headerType=none&host=base.hosamobenl.co.uk&path=%2F#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20d2d6c
 vless://ed8dda30-5751-4655-acca-4a4066c46e41@ns2.irts.lol:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ns2.irts.lol#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20658ed
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%203bdad
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%207db47
+vless://ed8dda30-5751-4655-acca-4a4066c46e41@ns2.irts.lol:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ns2.irts.lol#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20677a5
