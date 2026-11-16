@@ -2,5 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GCP verified configs — 1 configs — 2026-11-15 20:20 UTC
+# @xray_ehi_hub — GCP verified configs — 2 configs — 2026-11-16 00:22 UTC
 trojan://123456@34.94.152.229:443?fp=chrome&insecure=0&security=tls&sni=us.ctt25.uk&type=tcp#GCP%20US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20e43c1
+vless://304c51f8-5e21-4eea-bdc0-4ebeb6cb811d@34.55.45.96:443?encryption=none&fp=&mode=auto&pbk=1Ft_BCjUX8mvTZvdZXPgcUCipjNXVjzUnWfi9WjTLl8&security=reality&sid=ce5ca552f4edc872&sni=www.clearblade.com&type=xhttp#GCP%20US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@xray_ehi_hub%20%7C%20b96ae
