@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Ireland (IE) — 3 configs — 2026-11-16 07:15 UTC
-vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&security=reality&sid=7a7d19880a9ee786&sni=sladovna.russianpiwo.fun&type=tcp#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2080991
-vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20290b0
+# @xray_ehi_hub — Ireland (IE) — 3 configs — 2026-11-16 17:07 UTC
+vmess://eyJ2IjoiMiIsInBzIjoiSUUg8J+HrvCfh6ogfCBAeHJheV9laGlfaHViIHwgODhhMzQiLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20ifQ==
 vless://2e69b088-6ef3-417f-8247-125cf257fafd@108.156.65.62:443?encryption=none&fp=chrome&host=d1ivx1xk58pr8u.cloudfront.net&mode=auto&path=/cf&security=tls&sni=d1ivx1xk58pr8u.cloudfront.net&type=xhttp#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d6ee5
+vless://8c0676ea-ac9f-4de5-9c6f-b0de31e38704@83.141.70.167:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&security=reality&sid=8b8dd8a1c0c468d3&sni=ch.primarymaster.online&type=tcp#IE%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20dd93f

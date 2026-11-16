@@ -2,6 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Australia (AU) — 2 configs — 2026-11-16 07:15 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%205dd58
+# @xray_ehi_hub — Australia (AU) — 2 configs — 2026-11-16 17:07 UTC
 vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?fp=chrome&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2056003
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#AU%20%F0%9F%87%A6%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20b6e23
