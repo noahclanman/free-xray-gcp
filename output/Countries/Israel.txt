@@ -1,0 +1,6 @@
+#profile-title: Israel (IL)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Israel (IL) — 1 configs — 2026-11-17 08:59 UTC
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?security=reality&encryption=none&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&headerType=none&fp=chrome&spx=/b4fcc6d25bda84e&type=tcp&flow=xtls-rprx-vision&sni=il1.gofizzin.com&sid=dc1bf50b0e0a#IL%20%F0%9F%87%AE%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20833b3

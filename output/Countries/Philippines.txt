@@ -1,0 +1,7 @@
+#profile-title: Philippines (PH)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Philippines (PH) — 2 configs — 2026-11-17 08:59 UTC
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@120.89.61.213:443?&security=reality&flow=xtls-rprx-vision&pbk=wAh4gvnTR3NRk0SFrkBRkX3tNeybFNodcmg7piumxiM&sid=87395f88&fp=chrome&sni=ph1.gofizz.in&type=tcp&headerType=none&host=ph1.gofizz.in&path=/#PH%20%F0%9F%87%B5%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20f901c
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@120.89.61.213:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ph1.gofizz.in&pbk=wAh4gvnTR3NRk0SFrkBRkX3tNeybFNodcmg7piumxiM&sid=87395f88&fp=chrome&spx=/b4fcc6d25bda84e#PH%20%F0%9F%87%B5%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20e26bc

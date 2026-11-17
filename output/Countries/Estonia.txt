@@ -2,10 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 6 configs — 2026-11-17 00:53 UTC
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?type=tcp&fp=firefox&flow=xtls-rprx-vision&security=reality&encryption=none&sid=661766b2bcef440a&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&sni=ee-nf.reddotcorp.org#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20031ae
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.2:8443?security=reality&encryption=none&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&sid=661766b2bcef440a#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%203cca4
+# @xray_ehi_hub — Estonia (EE) — 4 configs — 2026-11-17 08:59 UTC
+vless://3619ae0e-bd3a-458c-bb0a-c0479019d9ec@178.130.46.226:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=serv1.fishtohome.ru#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20cb5c1
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.223.171.1:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ee1.gofizzin.com&pbk=z46-GwLD2TvzK2o95okMP7IMNPUfwYHmqt2JV6nJ03I&sid=8c9f899dba63f6c7&fp=chrome&spx=/b4fcc6d25bda84e#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b6a04
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@b1eb8et.de14.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=l3fn2CzC6-oVy6Mf5jafL-kVs8aX_jUfMUjhupBkPz0&sid=1a5d9b3be394fdc7&sni=b1eb8et.de14.h1clayd.click#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d4c61
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@801a40g.de14.h1clayd.click:443?type=grpc&security=reality&sni=801a40g.de14.h1clayd.click&pbk=tXovWVNlInVZuMVIQLpSbb__RuTUEZKyhjcdpBrThBY&sid=caa2bd1009a29530&fp=firefox&serviceName=0136d39d9d85#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2048f58
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@d4a338t.pl8.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0dAUffCns_r-xP3QP1V8qy2P29vBN5ROOoX96TxpvXA&sid=b545243c33282b73&sni=d4a338t.pl8.h1clayd.click#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2062e8e
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@132.243.67.225:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2016c59

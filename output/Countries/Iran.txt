@@ -2,5 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-11-17 00:53 UTC
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&sni=base.hosamobenl.co.uk&fp=chrome&alpn=http/1.1#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2076d58
+# @xray_ehi_hub — Iran (IR) — 5 configs — 2026-11-17 08:59 UTC
+vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?encryption=none&fp=&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2022dcc
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&sni=base.hosamobenl.co.uk&fp=chrome&type=tcp&headerType=none&path=/#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20a326e
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?encryption=none&security=tls&type=tcp&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%203fd7f
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&type=tcp&packetEncoding=none&sni=base.hosamobenl.co.uk&fp=chrome#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2061b85
+vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@englandddtun.whooisthebest.ir:9632?encryption=none&type=tcp&security=reality&sni=aparat.com&fp=chrome&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672&allowInsecure=1#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%205f186
