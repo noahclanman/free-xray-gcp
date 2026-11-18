@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — NE (NE) — 3 configs — 2026-11-18 01:22 UTC
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.76:443?&security=reality&flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&fp=firefox&sni=8a2e72t.nl20.h1clayd.shop&type=tcp&headerType=none&host=8a2e72t.nl20.h1clayd.shop&path=%2F#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%209c05b
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?encryption=none&security=reality&sni=5d0319t.nl7.h1clayd.click&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&type=tcp&headerType=none#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20cf947
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2026cbf
+# @xray_ehi_hub — NE (NE) — 3 configs — 2026-11-18 09:02 UTC
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=chrome&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2012ed2
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=8a2e72t.nl20.h1clayd.shop&fp=chrome&security=reality&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20b0ff7
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.76:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=8a2e72t.nl20.h1clayd.shop&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ddd25

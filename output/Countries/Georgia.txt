@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Georgia (GE) — 2 configs — 2026-11-18 01:22 UTC
-vless://abd5a6cc-2e21-48bc-b7d7-3e6e73354514@89.125.175.54:8443?security=reality&encryption=none&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk-room05.filesnap.tech&sid=7da3ba09a037e956#GE%20%F0%9F%87%AC%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%206098b
-vless://abd5a6cc-2e21-48bc-b7d7-3e6e73354514@89.125.175.54:8443?security=reality&encryption=none&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk-room05.filesnap.tech&sid=7da3ba09a037e956#GE%20%F0%9F%87%AC%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%207c576
+# @xray_ehi_hub — Georgia (GE) — 1 configs — 2026-11-18 09:02 UTC
+vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.55:8443?security=reality&encryption=none&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk-room05.filesnap.tech&sid=7da3ba09a037e956#GE%20%F0%9F%87%AC%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20c2cfe

@@ -1,0 +1,6 @@
+#profile-title: Bahrain (BH)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Bahrain (BH) — 1 configs — 2026-11-18 09:02 UTC
+vless://b36a16e4-ded8-11f1-bdea-5254b0a2c347@bh1.vpnjantit.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lDEkUokSL-mrM1jsH8UKs8-3cfJMvkxhY7k37iBkFi4&sid=32b72239bc69220e&sni=cloudflare.com#BH%20%F0%9F%87%A7%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20aeea6

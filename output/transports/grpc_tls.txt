@@ -2,10 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GRPC TLS — 6 configs — 2026-11-18 01:22 UTC
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2046400
+# @xray_ehi_hub — GRPC TLS — 5 configs — 2026-11-18 09:02 UTC
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%202d002
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?encryption=none&security=tls&type=grpc&serviceName=mobile.api.Event&mode=gun&sni=vps3.nemnogogo.com&fp=firefox#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20f2dc5
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20aab66
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%201eb7e
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2040c6c
-vless://89573ddc-bc74-49d3-a1bf-96c293d07cea@ide.vipvirtualnet.eu:9990?alpn=h2,http/1.1,h3&authority=/Ox-Secure&encryption=none&fp=chrome&security=tls&serviceName=Aparat-stream&sni=ide.vipvirtualnet.eu&type=grpc#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c043f
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&type=grpc&security=tls&sni=vps3.nemnogogo.com&alpn=h2&serviceName=mobile.api.Event&fp=safari#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20aba0c
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=edge#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20fb01f
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de2.v1&authority=pebble.gerqix.online&security=tls&sni=windlass.gerqix.online&alpn=h2&fp=chrome#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20fa507
