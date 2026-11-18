@@ -1,6 +1,0 @@
-#profile-title: HTTPUPGRADE TLS
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — HTTPUPGRADE TLS — 1 configs — 2026-11-17 18:17 UTC
-vless://b61580cd-bc64-466c-bde9-3533aed885d0@104.21.25.112:443?path=%2Fuser&security=tls&alpn=http%2F1.1&host=eu.workingserverpro.qzz.io&fp=firefox&type=httpupgrade&sni=eu.workingserverpro.qzz.io#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20a5e21
