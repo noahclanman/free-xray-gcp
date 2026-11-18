@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — South Africa (ZA) — 3 configs — 2026-11-18 09:02 UTC
-vless://003ec416-45f0-462a-8030-016fe0a71703@160.123.255.172:443?security=tls&type=xhttp&path=%2F&alpn=h2%2Ch3%2Chttp%2F1.1&sni=mama147.baklajann.ru&fp=firefox&mode=auto#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%208c6ad
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20df0dc
+# @xray_ehi_hub — South Africa (ZA) — 3 configs — 2026-11-18 17:59 UTC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%209a2e2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20df0dc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@leviko-za5790.shopingggg.ir:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2065847

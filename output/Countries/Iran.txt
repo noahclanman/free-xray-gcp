@@ -2,11 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 7 configs — 2026-11-18 09:02 UTC
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20bd8da
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@94.183.164.176:443?encryption=none&type=grpc&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&fp=firefox&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2034cf9
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?&security=tls&fp=chrome&sni=base.hosamobenl.co.uk&type=tcp&headerType=none&path=%2F#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20078c0
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&encryption=none&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2080114
-vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@194.5.175.47:9632?security=reality&sni=aparat.com&type=tcp&fp=chrome&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c110a
-vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@englandddtun.whooisthebest.ir:9632?encryption=none&type=tcp&security=reality&sni=aparat.com&fp=chrome&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672&allowInsecure=1#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%205f186
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?sni=base.hosamobenl.co.uk&alpn=http/1.1&fp=chrome&security=tls#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c29d4
+# @xray_ehi_hub — Iran (IR) — 4 configs — 2026-11-18 17:59 UTC
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20cf8d1
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ecb55
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%205968a
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20d4e00
