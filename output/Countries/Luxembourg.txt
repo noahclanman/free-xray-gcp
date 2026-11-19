@@ -1,0 +1,6 @@
+#profile-title: Luxembourg (LU)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Luxembourg (LU) — 1 configs — 2026-11-19 05:37 UTC
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU%20%F0%9F%87%B1%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2036e53
