@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:52:48Z",
+  "generated_at": "2026-11-19T22:48:14Z",
   "source": "all",
   "criterion": "passed a real proxied request through xray",
   "location_method": "GeoIP (DB-IP Country Lite)",
@@ -9,7 +9,7 @@
       "name": "United States",
       "flag": "🇺🇸",
       "region": "North America",
-      "count": 210,
+      "count": 244,
       "file": "Countries/United_States.txt"
     },
     {
@@ -17,31 +17,39 @@
       "name": "The Netherlands",
       "flag": "🇳🇱",
       "region": "Europe",
-      "count": 111,
+      "count": 140,
       "file": "Countries/The_Netherlands.txt"
-    },
-    {
-      "code": "DE",
-      "name": "Germany",
-      "flag": "🇩🇪",
-      "region": "Europe",
-      "count": 46,
-      "file": "Countries/Germany.txt"
     },
     {
       "code": "CA",
       "name": "Canada",
       "flag": "🇨🇦",
       "region": "North America",
-      "count": 42,
+      "count": 87,
       "file": "Countries/Canada.txt"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "region": "Europe",
+      "count": 76,
+      "file": "Countries/Germany.txt"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "flag": "🇫🇷",
+      "region": "Europe",
+      "count": 49,
+      "file": "Countries/France.txt"
     },
     {
       "code": "RU",
       "name": "Russia",
       "flag": "🇷🇺",
       "region": "Europe",
-      "count": 30,
+      "count": 42,
       "file": "Countries/Russia.txt"
     },
     {
@@ -49,39 +57,55 @@
       "name": "Singapore",
       "flag": "🇸🇬",
       "region": "Asia",
-      "count": 28,
+      "count": 37,
       "file": "Countries/Singapore.txt"
-    },
-    {
-      "code": "FR",
-      "name": "France",
-      "flag": "🇫🇷",
-      "region": "Europe",
-      "count": 26,
-      "file": "Countries/France.txt"
     },
     {
       "code": "GB",
       "name": "United Kingdom",
       "flag": "🇬🇧",
       "region": "Europe",
-      "count": 22,
+      "count": 32,
       "file": "Countries/United_Kingdom.txt"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "region": "Europe",
+      "count": 14,
+      "file": "Countries/Spain.txt"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "flag": "🇫🇮",
+      "region": "Europe",
+      "count": 14,
+      "file": "Countries/Finland.txt"
     },
     {
       "code": "SE",
       "name": "Sweden",
       "flag": "🇸🇪",
       "region": "Europe",
-      "count": 12,
+      "count": 14,
       "file": "Countries/Sweden.txt"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "flag": "🇭🇰",
+      "region": "Asia",
+      "count": 13,
+      "file": "Countries/Hong_Kong.txt"
     },
     {
       "code": "CH",
       "name": "Switzerland",
       "flag": "🇨🇭",
       "region": "Europe",
-      "count": 11,
+      "count": 12,
       "file": "Countries/Switzerland.txt"
     },
     {
@@ -93,28 +117,20 @@
       "file": "Countries/Japan.txt"
     },
     {
-      "code": "TR",
-      "name": "Turkey",
-      "flag": "🇹🇷",
-      "region": "Asia",
-      "count": 11,
-      "file": "Countries/Turkey.txt"
+      "code": "IT",
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "region": "Europe",
+      "count": 8,
+      "file": "Countries/Italy.txt"
     },
     {
-      "code": "HK",
-      "name": "Hong Kong",
-      "flag": "🇭🇰",
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "flag": "🇰🇿",
       "region": "Asia",
-      "count": 7,
-      "file": "Countries/Hong_Kong.txt"
-    },
-    {
-      "code": "IR",
-      "name": "Iran",
-      "flag": "🇮🇷",
-      "region": "Asia",
-      "count": 7,
-      "file": "Countries/Iran.txt"
+      "count": 8,
+      "file": "Countries/Kazakhstan.txt"
     },
     {
       "code": "AT",
@@ -125,44 +141,28 @@
       "file": "Countries/Austria.txt"
     },
     {
-      "code": "ES",
-      "name": "Spain",
-      "flag": "🇪🇸",
+      "code": "EE",
+      "name": "Estonia",
+      "flag": "🇪🇪",
       "region": "Europe",
       "count": 6,
-      "file": "Countries/Spain.txt"
-    },
-    {
-      "code": "FI",
-      "name": "Finland",
-      "flag": "🇫🇮",
-      "region": "Europe",
-      "count": 5,
-      "file": "Countries/Finland.txt"
-    },
-    {
-      "code": "IT",
-      "name": "Italy",
-      "flag": "🇮🇹",
-      "region": "Europe",
-      "count": 5,
-      "file": "Countries/Italy.txt"
-    },
-    {
-      "code": "KZ",
-      "name": "Kazakhstan",
-      "flag": "🇰🇿",
-      "region": "Asia",
-      "count": 5,
-      "file": "Countries/Kazakhstan.txt"
+      "file": "Countries/Estonia.txt"
     },
     {
       "code": "PL",
       "name": "Poland",
       "flag": "🇵🇱",
       "region": "Europe",
-      "count": 5,
+      "count": 6,
       "file": "Countries/Poland.txt"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "region": "Asia",
+      "count": 5,
+      "file": "Countries/Turkey.txt"
     },
     {
       "code": "KR",
@@ -173,6 +173,22 @@
       "file": "Countries/South_Korea.txt"
     },
     {
+      "code": "RO",
+      "name": "Romania",
+      "flag": "🇷🇴",
+      "region": "Europe",
+      "count": 4,
+      "file": "Countries/Romania.txt"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "region": "Oceania",
+      "count": 3,
+      "file": "Countries/Australia.txt"
+    },
+    {
       "code": "BR",
       "name": "Brazil",
       "flag": "🇧🇷",
@@ -181,28 +197,28 @@
       "file": "Countries/Brazil.txt"
     },
     {
-      "code": "LV",
-      "name": "Latvia",
-      "flag": "🇱🇻",
+      "code": "BY",
+      "name": "Belarus",
+      "flag": "🇧🇾",
       "region": "Europe",
       "count": 3,
-      "file": "Countries/Latvia.txt"
+      "file": "Countries/Belarus.txt"
     },
     {
-      "code": "AU",
-      "name": "Australia",
-      "flag": "🇦🇺",
-      "region": "Oceania",
-      "count": 2,
-      "file": "Countries/Australia.txt"
+      "code": "SK",
+      "name": "Slovakia",
+      "flag": "🇸🇰",
+      "region": "Europe",
+      "count": 3,
+      "file": "Countries/Slovakia.txt"
     },
     {
-      "code": "CY",
-      "name": "Cyprus",
-      "flag": "🇨🇾",
-      "region": "Asia",
+      "code": "CL",
+      "name": "Chile",
+      "flag": "🇨🇱",
+      "region": "South America",
       "count": 2,
-      "file": "Countries/Cyprus.txt"
+      "file": "Countries/Chile.txt"
     },
     {
       "code": "CZ",
@@ -213,124 +229,84 @@
       "file": "Countries/Czechia.txt"
     },
     {
-      "code": "GE",
-      "name": "Georgia",
-      "flag": "🇬🇪",
-      "region": "Asia",
-      "count": 2,
-      "file": "Countries/Georgia.txt"
-    },
-    {
-      "code": "IN",
-      "name": "India",
-      "flag": "🇮🇳",
-      "region": "Asia",
-      "count": 2,
-      "file": "Countries/India.txt"
-    },
-    {
-      "code": "LT",
-      "name": "Lithuania",
-      "flag": "🇱🇹",
-      "region": "Europe",
-      "count": 2,
-      "file": "Countries/Lithuania.txt"
-    },
-    {
-      "code": "LU",
-      "name": "Luxembourg",
-      "flag": "🇱🇺",
-      "region": "Europe",
-      "count": 2,
-      "file": "Countries/Luxembourg.txt"
-    },
-    {
-      "code": "SK",
-      "name": "Slovakia",
-      "flag": "🇸🇰",
-      "region": "Europe",
-      "count": 2,
-      "file": "Countries/Slovakia.txt"
-    },
-    {
-      "code": "AL",
-      "name": "Albania",
-      "flag": "🇦🇱",
-      "region": "Europe",
-      "count": 1,
-      "file": "Countries/Albania.txt"
-    },
-    {
-      "code": "BY",
-      "name": "Belarus",
-      "flag": "🇧🇾",
-      "region": "Europe",
-      "count": 1,
-      "file": "Countries/Belarus.txt"
-    },
-    {
-      "code": "CL",
-      "name": "Chile",
-      "flag": "🇨🇱",
-      "region": "South America",
-      "count": 1,
-      "file": "Countries/Chile.txt"
-    },
-    {
-      "code": "GR",
-      "name": "Greece",
-      "flag": "🇬🇷",
-      "region": "Europe",
-      "count": 1,
-      "file": "Countries/Greece.txt"
-    },
-    {
       "code": "IE",
       "name": "Ireland",
       "flag": "🇮🇪",
       "region": "Europe",
-      "count": 1,
+      "count": 2,
       "file": "Countries/Ireland.txt"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "flag": "🇱🇻",
+      "region": "Europe",
+      "count": 2,
+      "file": "Countries/Latvia.txt"
+    },
+    {
+      "code": "NE",
+      "name": "NE",
+      "flag": "🇳🇪",
+      "region": "Africa",
+      "count": 2,
+      "file": "Countries/NE.txt"
     },
     {
       "code": "NG",
       "name": "Nigeria",
       "flag": "🇳🇬",
       "region": "Africa",
-      "count": 1,
+      "count": 2,
       "file": "Countries/Nigeria.txt"
     },
     {
-      "code": "NO",
-      "name": "Norway",
-      "flag": "🇳🇴",
-      "region": "Europe",
-      "count": 1,
-      "file": "Countries/Norway.txt"
-    },
-    {
-      "code": "RO",
-      "name": "Romania",
-      "flag": "🇷🇴",
-      "region": "Europe",
-      "count": 1,
-      "file": "Countries/Romania.txt"
-    },
-    {
-      "code": "TW",
-      "name": "Taiwan",
-      "flag": "🇹🇼",
+      "code": "IN",
+      "name": "India",
+      "flag": "🇮🇳",
       "region": "Asia",
       "count": 1,
-      "file": "Countries/Taiwan.txt"
+      "file": "Countries/India.txt"
     },
     {
-      "code": "UA",
-      "name": "Ukraine",
-      "flag": "🇺🇦",
+      "code": "IR",
+      "name": "Iran",
+      "flag": "🇮🇷",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Iran.txt"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "flag": "🇱🇺",
       "region": "Europe",
       "count": 1,
-      "file": "Countries/Ukraine.txt"
+      "file": "Countries/Luxembourg.txt"
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "flag": "🇱🇾",
+      "region": "Africa",
+      "count": 1,
+      "file": "Countries/Libya.txt"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "flag": "🇲🇾",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Malaysia.txt"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "flag": "🇹🇭",
+      "region": "Asia",
+      "count": 1,
+      "file": "Countries/Thailand.txt"
     }
   ]
 }
