@@ -1,0 +1,6 @@
+#profile-title: BZ (BZ)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — BZ (BZ) — 1 configs — 2026-11-20 04:03 UTC
+vless://cc99c57d-6c93-4031-9153-73f510636533@45.135.235.90:443?security=tls&type=xhttp&path=%2F&host=51.baklajann.ru&sni=51.baklajann.ru&fp=chrome&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A%224%22%2C%22maxConcurrency%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&encryption=none#BZ%20%F0%9F%87%A7%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20e5072

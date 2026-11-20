@@ -2,8 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — South Korea (KR) — 4 configs — 2026-11-19 22:48 UTC
-vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQHhyYXlfZWhpX2h1YiB8IDI4NjUxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJLUiDwn4ew8J+HtyB8IEB4cmF5X2VoaV9odWIgfCAxZDk4ZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0aHJvbmVFeHRyYSI6InR5cGU9dGNwJmhlYWRlclR5cGU9aHR0cCZtZXRob2Q9R0VUIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAeHJheV9laGlfaHViIHwgNzhiM2YiLCJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsInBvcnQiOiI4MDAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+# @xray_ehi_hub — South Korea (KR) — 5 configs — 2026-11-20 04:03 UTC
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20747d8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20e1202
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&headerType=none#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2043681
+vmess://eyJhZGQiOiJkcDh5ay54aWFveWFuLmlvIiwiYWlkIjowLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjE2NjE2LCJwcyI6IktSIPCfh7Dwn4e3IHwgQHhyYXlfZWhpX2h1YiB8IDA1ZTZmIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@168.107.36.135:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c4e49
