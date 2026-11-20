@@ -2,8 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — South Korea (KR) — 4 configs — 2026-11-20 12:40 UTC
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20e1202
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20747d8
+# @xray_ehi_hub — South Korea (KR) — 5 configs — 2026-11-20 20:54 UTC
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUiDwn4ew8J+HtyB8IEB4cmF5X2VoaV9odWIgfCBmMTQ1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAeHJheV9laGlfaHViIHwgNzhiM2YiLCJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsInBvcnQiOiI4MDAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com&type=tcp&headerType=none&path=/#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206ddcb
-vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJLUiDwn4ew8J+HtyB8IEB4cmF5X2VoaV9odWIgfCAxZDk4ZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0aHJvbmVFeHRyYSI6InR5cGU9dGNwJmhlYWRlclR5cGU9aHR0cCZtZXRob2Q9R0VUIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#KR%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20e1202
+vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAeHJheV9laGlfaHViIHwgYzI4NjgiLCJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsInBvcnQiOiI4MCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9

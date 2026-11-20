@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Taiwan (TW) — 1 configs — 2026-11-20 12:40 UTC
-vless://035b0138-5834-4db2-b03a-91fd127b55fa@2.27.174.182:5999?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=apple.com&fp=chrome&pbk=hBuW2XARoZFMlggcvnEEj7M39hYQXQXY_rhejMGRgm4&sid=280893ea#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%2037706
+# @xray_ehi_hub — Taiwan (TW) — 1 configs — 2026-11-20 20:54 UTC
+vless://035b0138-5834-4db2-b03a-91fd127b55fa@2.27.174.182:5999?security=reality&encryption=none&pbk=hBuW2XARoZFMlggcvnEEj7M39hYQXQXY_rhejMGRgm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=280893ea#TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%204b879
