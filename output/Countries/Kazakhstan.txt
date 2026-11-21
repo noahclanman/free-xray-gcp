@@ -2,9 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Kazakhstan (KZ) — 5 configs — 2026-11-21 09:17 UTC
-vless://d3fa965e-74d2-4908-ae9b-f6e1fbc95845@170.168.100.54:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kz.volgasystems.tech&type=tcp#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%201eb84
-vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?encryption=none&fp=&mode=auto&path=/&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&security=reality&sni=cdn3-88.yahoo.com&type=xhttp#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20b2919
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20ee807
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=/vless/&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%2046bf2
-vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImJhdGNoIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaFNlcnZlcktleXMiOiIiLCJmYWtlaG9zdF9kb21haW4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImludGVydmFsIjoiIiwibGVuZ3RoIjoiIiwibXV4IjoiIiwibXV4Q29uY3VycmVuY3kiOiIiLCJuZXQiOiJ3cyIsInBhY2tldHMiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiS1og8J+HsPCfh78gfCBAeHJheV9laGlfaHViIHwgZTBmZDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwieGh0dHBfZXh0cmEiOiIifQ==
+# @xray_ehi_hub — Kazakhstan (KZ) — 1 configs — 2026-11-21 17:09 UTC
+vmess://eyJ2IjoiMiIsInBzIjoiS1og8J+HsPCfh78gfCBAeHJheV9laGlfaHViIHwgMzQ1MWIiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiL3ZtZXNzLyJ9

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Poland (PL) — 3 configs — 2026-11-21 09:17 UTC
-vless://ecc0e60a-f2cc-4266-8353-b228df89730a@150.241.87.52:443?security=reality&encryption=none&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.galacticworld.online#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20f78b3
-vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjFlNTViZWNhLTNjNjktNGZhNy1mYjFmLTE1YzFiNzY3NDM1ZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IlBMIPCfh7Xwn4exIHwgQHhyYXlfZWhpX2h1YiB8IGUyYTEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjFlNTViZWNhLTNjNjktNGZhNy1mYjFmLTE1YzFiNzY3NDM1ZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IlBMIPCfh7Xwn4exIHwgQHhyYXlfZWhpX2h1YiB8IDhlMDk0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
+# @xray_ehi_hub — Poland (PL) — 2 configs — 2026-11-21 17:09 UTC
+vless://e1cf85dd-8de4-44de-86f9-86dd81ae677a@gmb.bachidze.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=gmb.bachidze.com&fp=firefox&pbk=n7jBvniXhdIPJbvDf85x0Q9o067VlnnnJplSJd5KDX8&flow=xtls-rprx-vision#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%20c9d74
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@pl.galacticworld.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=pl.galacticworld.online&fp=qq&flow=xtls-rprx-vision&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&encryption=none#PL%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20@xray_ehi_hub%20%7C%2018a43
