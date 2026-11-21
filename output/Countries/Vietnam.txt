@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Vietnam (VN) — 3 configs — 2026-11-21 02:10 UTC
-vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%20cad88
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%2019d8f
+# @xray_ehi_hub — Vietnam (VN) — 2 configs — 2026-11-21 09:17 UTC
 vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%201c775
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#VN%20%F0%9F%87%BB%F0%9F%87%B3%20%7C%20@xray_ehi_hub%20%7C%2019d8f

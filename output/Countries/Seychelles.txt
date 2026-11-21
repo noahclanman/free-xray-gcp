@@ -1,6 +1,0 @@
-#profile-title: Seychelles (SC)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Seychelles (SC) — 1 configs — 2026-11-21 02:10 UTC
-vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws&headerType=none&host=dfsuporte.garena.com.ex33r.eu.cc&path=/id-pusat#SC%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20@xray_ehi_hub%20%7C%20af3dd
