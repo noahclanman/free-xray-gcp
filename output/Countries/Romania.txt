@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 2 configs — 2026-11-22 17:32 UTC
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@fc82dfx.nl8.h1clayd.click:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=fc82dfx.nl8.h1clayd.click&fp=chrome&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&sid=7b2b1a14a6e0630d&path=/0616f2d729aa&mode=auto#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%206251c
+# @xray_ehi_hub — Romania (RO) — 4 configs — 2026-11-22 22:55 UTC
+vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@8ba6c3t.nl2.h1clayd.click:443?type=tcp&security=reality&sni=8ba6c3t.nl2.h1clayd.click&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa&spx=%2F&encryption=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20a71c6
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=chrome&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%207fc61
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20bab8b
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?security=reality&encryption=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4935e4t.de25.h1clayd.click&sid=6976d670818644cc#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%201ec09

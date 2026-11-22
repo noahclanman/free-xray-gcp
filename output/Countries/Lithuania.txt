@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Lithuania (LT) — 2 configs — 2026-11-22 17:32 UTC
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?encryption=none&security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&type=xhttp&path=/es/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM?ed=2048&mode=stream-one&extra={#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20ea574
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?path=/es/?@MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=7d1a74fd.ferrin.uk#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%20d1d40
+# @xray_ehi_hub — Lithuania (LT) — 1 configs — 2026-11-22 22:55 UTC
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?mode=stream-one&path=/es/?@MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI?ed=2048&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=7d1a74fd.ferrin.uk#LT%20%F0%9F%87%B1%F0%9F%87%B9%20%7C%20@xray_ehi_hub%20%7C%2088c55

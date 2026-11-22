@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Brazil (BR) — 1 configs — 2026-11-22 17:32 UTC
-vmess://eyJhZGQiOiIxMDMuMTQuMjcuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAeHJheV9laGlfaHViIHwgNWJhYTkiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+# @xray_ehi_hub — Brazil (BR) — 1 configs — 2026-11-22 22:55 UTC
+vmess://eyJhZGQiOiIxMDMuODguMjMyLjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5hbWUiOiJCUiDwn4en8J+HtyB8IEBSYXlkaWthbHggfCAwMjQ4REYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MTI3MCwicHMiOiJCUiDwn4en8J+HtyB8IEB4cmF5X2VoaV9odWIgfCBiMzQ1NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
