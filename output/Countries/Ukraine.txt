@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Ukraine (UA) — 2 configs — 2026-11-21 22:15 UTC
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@194.54.80.37:8443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&encryption=none#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2036367
-vless://e4747a1b-4245-43ac-9f69-3a2fde5df9ae@193.106.221.117:777?encryption=none&security=reality&sni=it.nvidia.com&fp=chrome&pbk=5AAbc8WGiJtpoKrcFJyITZEQ8B8jpNuLztju1KEG4SQ&sid=e2db&spx=/317cd1663037a7f&type=grpc&mode=gun&authority=&serviceName=#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%204fee0
+# @xray_ehi_hub — Ukraine (UA) — 1 configs — 2026-11-22 02:11 UTC
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#UA%20%F0%9F%87%BA%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%208179c
