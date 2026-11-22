@@ -2,19 +2,18 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Japan (JP) — 15 configs — 2026-11-22 09:34 UTC
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&sni=kuruish.org&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2068248
+# @xray_ehi_hub — Japan (JP) — 14 configs — 2026-11-22 17:32 UTC
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?host=kuruish.org&security=tls&sni=kuruish.org&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2050c91
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20fe548
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2043252
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20f0dce
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%203cab9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204469d
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20b3cb3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20e0b1a
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&encryption=none#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2014c26
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAeHJheV9laGlfaHViIHwgZjc1ZTIiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6Ik5vbmUifQ==
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJOb25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQHhyYXlfZWhpX2h1YiB8IGQ3OTdkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://f325fb7d-cad5-4ac8-8888-3f39b4b9d1ca@jp2static.jumpernode.site:443?&security=reality&flow=xtls-rprx-vision&pbk=GeKuYNeAqQQkTN9OMJxXA9I-rXs7IiGh4Sl82crCITc&sid=6281f3ef81187ad8&fp=chrome&sni=www.amzn.com&type=tcp&headerType=none&host=www.amzn.com&path=%2F#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20fc13e
+vless://39303679-4e68-4233-8def-8f4f9e48d611@103.201.130.126:443?sni=tt-9nz.pages.dev&type=ws&host=tt-9nz.pages.dev&path=/item/favouritesfp=chrome&security=tls#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%206c2c6
 vmess://eyJhZGQiOiIxNjguMTEwLjYzLjI0NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzNiZGUyOTYtOGU0NC00YjhjLWEzMjUtNTc3ZDViM2NjN2M4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZsZXNzIiwicG9ydCI6IjgwODEiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQHhyYXlfZWhpX2h1YiB8IDg1ZDc3Iiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiMTY4LjExMC42My4yNDciLCJ0bHMiOiIiLCJ2IjoiMiJ9
-vless://d508df52-3acb-483f-85d2-3fd5f6a76808@jpg1api.jumpernode.site:443?&security=reality&flow=xtls-rprx-vision&pbk=dtNeCNIcRgs8_EKIJg_oTJEsiA8KBU-QaE1yVpkoX0I&sid=2c92d6&fp=chrome&sni=buybox.amazon.com&type=tcp&headerType=none&host=buybox.amazon.com&path=%2F#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20199d7
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?sni=nu3rb.supertoolify.com&allowInsecure=1&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%209d0b1
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&encryption=none&insecure=0&host=kuruish.org&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20c8bae
-vless://d508df52-3acb-483f-85d2-3fd5f6a76808@jpg1api.jumpernode.site:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=buybox.amazon.com&fp=chrome&pbk=dtNeCNIcRgs8_EKIJg_oTJEsiA8KBU-QaE1yVpkoX0I&sid=2c92d6#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20323e6
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20aa99a
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@dg4.ianai.it.com:443?sni=dg4.ianai.it.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204bb5a
 vless://dfa9bd91-35ad-4163-bf32-eaaaab64a043@jpg1tts.jumpernode.site:443?&security=reality&flow=xtls-rprx-vision&pbk=2gEyCa4p40rmut61LN-jwQDEOW5JZGZImU92WOXOcnQ&sid=ac1b79beb059f1d6&fp=chrome&sni=intel.com&type=tcp&headerType=none&host=jpg1tts.jumpernode.site&path=%2F#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20a3314
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%200eba4
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%209b0e2
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204ec6d
