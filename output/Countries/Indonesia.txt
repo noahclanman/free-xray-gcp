@@ -1,0 +1,6 @@
+#profile-title: Indonesia (ID)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Indonesia (ID) — 1 configs — 2026-11-22 09:34 UTC
+vless://a197af05-7048-478e-8d99-c3151adb4064@147.139.197.200:443?security=reality&type=tcp&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&sid=6135361d11cc2b31&pbk=ulPGCwIg38AVGww0FBfCNROmu_0N1hykbHbhcAFgcl0&encryption=none#ID%20%F0%9F%87%AE%F0%9F%87%A9%20%7C%20@xray_ehi_hub%20%7C%20585a5
