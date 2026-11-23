@@ -2,5 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Latvia (LV) — 1 configs — 2026-11-22 22:55 UTC
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@195.123.209.159:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2071aec
+# @xray_ehi_hub — Latvia (LV) — 5 configs — 2026-11-23 03:42 UTC
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?security=reality&encryption=none&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5c256336e3b673fa#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20948f6
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@195.123.209.159:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20bfabf
+vless://4e73a85c-21fb-4caf-97aa-af9f835d439c@31.56.179.171:8880?encryption=none&fp=chrome&pbk=wRQ8HyClUOReuiB84oE2r-jPYkiiiJALU3ks2gCvsG0&security=reality&sid=180f4c72&sni=www.speedtest.net&spx=/6dd3df22436d883&support-x25519mlkem768=true&type=tcp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%209de32
+vless://4e73a85c-21fb-4caf-97aa-af9f835d439c@31.56.179.171:8880?security=reality&encryption=none&pbk=wRQ8HyClUOReuiB84oE2r-jPYkiiiJALU3ks2gCvsG0&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&spx=/6dd3df22436d883&type=tcp&sni=www.speedtest.net&sid=180f4c72#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%20d7a7d
+vless://4e73a85c-21fb-4caf-97aa-af9f835d439c@31.56.179.171:2052?encryption=none&fp=chrome&pbk=99SGa74ojL9dJywOLphvaS-zmnnq8mySnLLkgb8Imws&security=reality&sid=24555a9c&sni=www.bing.com&spx=/6dd3df22436d883&support-x25519mlkem768=true&type=tcp#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%2016c24

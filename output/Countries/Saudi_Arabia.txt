@@ -1,0 +1,6 @@
+#profile-title: Saudi Arabia (SA)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Saudi Arabia (SA) — 1 configs — 2026-11-23 03:42 UTC
+trojan://1vkFHbQX_gN1U8V8jVc@91.209.253.54:443?security=tls&sni=mhpanel.kigaping.com&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws#SA%20%F0%9F%87%B8%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20a12ed

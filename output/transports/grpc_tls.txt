@@ -2,14 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GRPC TLS — 10 configs — 2026-11-22 22:55 UTC
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io#SE%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2077c3c
+# @xray_ehi_hub — GRPC TLS — 7 configs — 2026-11-23 03:42 UTC
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2008fde
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%200b282
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2070549
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@188.225.36.219:443?alpn=h2&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=olvento.sync.v1&sni=olvento.space&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20142d8
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@188.225.36.219:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=olvento.sync.v1&sni=olvento.space&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20092aa
-vless://a4740bee-81ad-4a58-99c9-eca576ecb6e6@188.225.78.178:443?alpn=h2&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%208bbcd
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?type=grpc&security=tls&fp=random&sni=xsru1.ddnsfree.com&mode=gun&serviceName=grpc-ru#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%203db87
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&security=tls&type=grpc&serviceName=grpc-ru&mode=gun&sni=xsru1.ddnsfree.com&fp=chrome#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20e0b1b
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@honeycomb.merlano.monster:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=honeycomb.merlano.monster&type=grpc&fp=safari#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2041473
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?sni=elmharbor.gerqix.online&alpn=h2&type=grpc&serviceName=glush.de7.v1&fp=random&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20bebba
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?sni=vps3.nemnogogo.com&type=grpc&serviceName=mobile.api.Event&fp=firefox&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%200c055
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2066d2a
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?sni=vps3.nemnogogo.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=firefox&security=tls#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2059bbd
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%204ba63
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=chrome#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20f7a3d

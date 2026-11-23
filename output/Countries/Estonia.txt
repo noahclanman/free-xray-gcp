@@ -2,10 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 6 configs — 2026-11-22 22:55 UTC
-vless://dc91568b-4f12-4ce1-a483-f04dd4913ab9@217.60.182.96:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qVucogFLYlZOsG8DdX3dZRTr_2llj6_1OtZ9YfoilM&security=reality&sid=b12ebda62333a16a&sni=edge.mult-universe.ru&type=tcp#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20c27de
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@132.243.67.210:25035?path=%2Fastral-edge-h1&security=reality&encryption=none&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&fp=firefox&type=xhttp&sni=96f799r.ch5.h1clayd.click&sid=eb63581de991f8c8#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%208131e
-vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?type=raw&security=reality&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&fp=edge#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2006ff2
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.67.224:443?encryption=none&fp=&mode=auto&path=/0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20aa0cf
+# @xray_ehi_hub — Estonia (EE) — 3 configs — 2026-11-23 03:42 UTC
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.67.224:443?encryption=none&fp=&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2064a7e
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2001a21
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@132.243.67.190:443?mode=auto&path=/&security=reality&encryption=none&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&fp=chrome&type=xhttp&sni=38917fx.es9.h1clayd.click&sid=d5501b156391e01d#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20ad4b8
