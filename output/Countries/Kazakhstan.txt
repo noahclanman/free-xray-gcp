@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Kazakhstan (KZ) — 6 configs — 2026-11-23 03:42 UTC
-vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?encryption=none&mode=auto&path=/&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&security=reality&sni=cdn3-88.yahoo.com&type=xhttp#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20aad0b
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IktaIPCfh7Dwn4e/IHwgQHhyYXlfZWhpX2h1YiB8IDliOTNjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=/vless/&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%2046bf2
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20ab488
-vmess://eyJ2IjoiMiIsInBzIjoiS1og8J+HsPCfh78gfCBAeHJheV9laGlfaHViIHwgMTkwZDYiLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyJ9
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IktaIPCfh7Dwn4e/IHwgQHhyYXlfZWhpX2h1YiB8IDZjMjY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# @xray_ehi_hub — Kazakhstan (KZ) — 2 configs — 2026-11-23 13:41 UTC
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20764e1
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F&sni=3h-kazakhstan1.09vpn.com#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%209b811

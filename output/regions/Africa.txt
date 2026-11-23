@@ -2,11 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — AFRICA — 7 configs — 2026-11-23 03:42 UTC
+# @xray_ehi_hub — AFRICA — 4 configs — 2026-11-23 13:41 UTC
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?encryption=none&security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&type=xhttp&path=/es/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM?ed=2048&mode=stream-one&extra={#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20ea574
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%209a2e2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyd3p2VkVKRGpwTW9wUkFr@20.87.216.236:443#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2011735
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.177:443?&security=reality&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&fp=firefox&sni=4935e4t.de25.h1clayd.click&type=tcp&headerType=none&host=4935e4t.de25.h1clayd.click&path=%2F#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2011464
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&peer=explorecareerpathsandunlockprofessionalsuccesstoday.com&security=tls#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%20885b2
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?allowInsecure=1&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#ZA%20%F0%9F%87%BF%F0%9F%87%A6%20%7C%20@xray_ehi_hub%20%7C%2077479
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.177:443?flow=xtls-rprx-vision&security=reality&sni=4935e4t.de25.h1clayd.click&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%2050119
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=7aa271t.es1.h1clayd.click&fp=chrome&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click#NG%20%F0%9F%87%B3%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%20b8c76
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.90:443?&security=reality&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&fp=firefox&sni=b3cd32g.es1.h1clayd.click&type=grpc&serviceName=&mode=gun#NE%20%F0%9F%87%B3%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20676db
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?&security=reality&flow=xtls-rprx-vision&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&fp=chrome&sni=7aa271t.es1.h1clayd.click&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click&path=%2F#NG%20%F0%9F%87%B3%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%2017ff3
