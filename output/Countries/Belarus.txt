@@ -2,8 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Belarus (BY) — 4 configs — 2026-11-24 11:34 UTC
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%20a2fc2
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?flow=xtls-rprx-vision&fp=safari&host=ads.x5.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%20de78b
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl9958.shopingggg.ir:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%205f266
+# @xray_ehi_hub — Belarus (BY) — 3 configs — 2026-11-24 21:42 UTC
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl1084.shopingggg.ir:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%2037203
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%200d9e7
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C%20@xray_ehi_hub%20%7C%20a2fc2

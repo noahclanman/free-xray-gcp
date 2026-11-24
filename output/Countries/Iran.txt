@@ -1,0 +1,8 @@
+#profile-title: Iran (IR)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Iran (IR) — 3 configs — 2026-11-24 21:42 UTC
+vless://e7e0da99-901a-4b1e-9f5c-17d5d0923edd@cdn.shop.mygharehshop.ir:41230?security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.shop.mygharehshop.ir#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20cd35e
+vless://e7e0da99-901a-4b1e-9f5c-17d5d0923edd@cdn.shop.mygharehshop.ir:41230?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.shop.mygharehshop.ir#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%204f261
+vless://e7e0da99-901a-4b1e-9f5c-17d5d0923edd@cdn.shop.mygharehshop.ir:41230?security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.shop.mygharehshop.ir#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200ad35

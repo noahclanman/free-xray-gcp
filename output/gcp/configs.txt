@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — GCP verified configs — 6 configs — 2026-11-24 11:34 UTC
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:43118?&security=reality&flow=xtls-rprx-vision&pbk=p0crO-ZNRjb07T_GGy9JdkXTjei3-D9f6s2ZzCo2gx8&sid=1a70fe8d4b05&fp=firefox&packet-encoding=xudp&sni=v1-dy.ixigua.com&type=tcp&headerType=none&host=v1-dy.ixigua.com&path=%2F#GCP%20JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20fbc02
+# @xray_ehi_hub — GCP verified configs — 2 configs — 2026-11-24 21:42 UTC
 trojan://123456@34.80.15.95:443?sni=tw.ctt25.uk&type=tcp&fp=chrome#GCP%20TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%204670e
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#GCP%20TW%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20@xray_ehi_hub%20%7C%20cee82
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:30178?allowInsecure=1&sni=usbg1hkzf.hikigo.com#GCP%20HK%20%F0%9F%87%AD%F0%9F%87%B0%20%7C%20@xray_ehi_hub%20%7C%20fa910
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:33161?&security=reality&flow=xtls-rprx-vision&pbk=BECARsUsTAoGzHFcGEquyFHKnI_LVL5FL6s1jZbLhVk&sid=6dbd86dc61ccb46d&fp=firefox&packet-encoding=xudp&sni=v1-dy.ixigua.com&type=tcp&headerType=none&host=v1-dy.ixigua.com&path=%2F#GCP%20JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20f7bbc
 vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:33161?type=tcp&security=reality&path=/&sni=v1-dy.ixigua.com&fp=firefox&flow=xtls-rprx-vision&pbk=BECARsUsTAoGzHFcGEquyFHKnI_LVL5FL6s1jZbLhVk&sid=6dbd86dc61ccb46d#GCP%20JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2072145
