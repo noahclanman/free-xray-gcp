@@ -1,0 +1,6 @@
+#profile-title: HTTPUPGRADE TLS
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — HTTPUPGRADE TLS — 1 configs — 2026-11-24 11:34 UTC
+vless://c1788162-2ad9-48f4-b7a1-717c58938dba@www.thevicinityapp.cn:443?path=%2Fup&security=tls&encryption=mlkem768x25519plus.native.0rtt.N1YARVQLfhGHkJqK_JWjqchjZ8t6HyP0_9YWmYw47n4&insecure=0&host=d2h.irandoc.info&fp=firefox&type=httpupgrade&allowInsecure=0&sni=www.thevicinityapp.cn#SG%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20@xray_ehi_hub%20%7C%203087d

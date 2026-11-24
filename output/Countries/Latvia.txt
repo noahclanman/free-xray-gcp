@@ -1,0 +1,6 @@
+#profile-title: Latvia (LV)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
+# @xray_ehi_hub — Latvia (LV) — 1 configs — 2026-11-24 11:34 UTC
+vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?security=reality&encryption=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.3apes.pro#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20@xray_ehi_hub%20%7C%207c41f
