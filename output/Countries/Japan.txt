@@ -2,18 +2,24 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Japan (JP) — 14 configs — 2026-11-24 21:42 UTC
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204469d
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%203cab9
+# @xray_ehi_hub — Japan (JP) — 20 configs — 2026-11-25 04:41 UTC
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20f0dce
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20e0b1a
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20b3cb3
-vless://9da605d3-f5f7-4135-f806-450f036f9351@155.248.175.201:23169?security=tls&type=raw&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20375a5
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAeHJheV9laGlfaHViIHwgZWYxOWMiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0IjoiMTY4LjEzOC40My43NSJ9
-vless://4204c3de-2973-465f-b5ed-f055a81e27ae@64.204.49.143:443?security=reality&encryption=none&pbk=4PW0sZKIFw76TlA6TZsa58SO_0RTvn7cBUF1Nsia-iU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33f3df46f280bd1a#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20dfc70
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204ec6d
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20aa99a
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204469d
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2043252
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2003a1f
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%205a00d
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=chrome&security=tls#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20cca34
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&encryption=none&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=684c7531e599dec0#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%205b7d3
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?security=tls&encryption=none&insecure=0&host=/?TELEGRAM—MARAMBASHI—MARAMBASHI—MARAMBASHI—MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%202825e
+vmess://eyJhZGQiOiIxNjEuMzMuMjAuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUwODU2NTA4LWQ2OTMtNDUwYS1hMDk5LTQ1NTA5MWRjNGYyNSIsImluc2VjdXJlIjoiMCIsIm5hbWUiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCA5OEE0ODkiLCJuZXQiOiJ3cyIsInBhdGgiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUtdm0iLCJwY3MiOiIiLCJwb3J0Ijo4ODgwLCJwcyI6IkpQIPCfh6/wn4e1IHwgQHhyYXlfZWhpX2h1YiB8IDAyZTVjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAeHJheV9laGlfaHViIHwgMzRlYTgiLCJhZGQiOiIxNjEuMzMuMjAuMjU1IiwicG9ydCI6ODg4MCwiaWQiOiJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9lMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUtdm0iLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwibmFtZSI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IEU0RTMxQiJ9
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nu3rb.supertoolify.com:443?security=tls&sni=nu3rb.supertoolify.com&type=tcp#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20179f3
+vmess://eyJhZGQiOiIxNjguMTEwLjYzLjI0NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzNiZGUyOTYtOGU0NC00YjhjLWEzMjUtNTc3ZDViM2NjN2M4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZsZXNzIiwicG9ydCI6ODA4MSwicHMiOiJKUCDwn4ev8J+HtSB8IEB4cmF5X2VoaV9odWIgfCBkYzU0NCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@jpa.123069.xyz:53758#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%20c12f2
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%204ec6d
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%200eba4
+vmess://eyJhZGQiOiIxNjguMTEwLjYzLjI0NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzNiZGUyOTYtOGU0NC00YjhjLWEzMjUtNTc3ZDViM2NjN2M4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZsZXNzIiwicG9ydCI6IjgwODEiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQHhyYXlfZWhpX2h1YiB8IDg1ZDc3Iiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoiMTY4LjExMC42My4yNDciLCJ0bHMiOiIiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%209b0e2
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?allowInsecure=1&sni=nu3rb.supertoolify.com#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%202b198
-vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:33161?type=tcp&security=reality&path=/&sni=v1-dy.ixigua.com&fp=firefox&flow=xtls-rprx-vision&pbk=BECARsUsTAoGzHFcGEquyFHKnI_LVL5FL6s1jZbLhVk&sid=6dbd86dc61ccb46d#GCP%20JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2072145
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#JP%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20@xray_ehi_hub%20%7C%2068605
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOjgwLCJwcyI6IkpQIPCfh6/wn4e1IHwgQHhyYXlfZWhpX2h1YiB8IGQzNTJlIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJuYW1lIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMUUxQzE0In0=
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAeHJheV9laGlfaHViIHwgMDMxMGUiLCJhZGQiOiI2NC4xNzYuMzQuMTAyIiwicG9ydCI6IjQ2MTMwIiwiaWQiOiI0NzczNTBiMi03NTM2LTRmMzgtZWUyMS0wMjBlZmRkZTJkMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
