@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Luxembourg (LU) — 4 configs — 2026-11-25 04:41 UTC
+# @xray_ehi_hub — Luxembourg (LU) — 2 configs — 2026-11-25 15:01 UTC
+vless://047020df-f518-4b9b-a2d6-8e86f56f8c6e@subgift3.gcorecdn.com:443?security=tls&type=ws&path=%2Ft.me-SubGift&host=subgift3.gcorecdn.com&sni=subgift3.gcorecdn.com&fp=chrome&flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.8zXHNNlVq76P6zwMb6KN8crgkUR765MKT9-lpQP7CQk#LU%20%F0%9F%87%B1%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2026f09
 vless://047020df-f518-4b9b-a2d6-8e86f56f8c6e@subgift3.gcorecdn.com:443?encryption=mlkem768x25519plus.native.0rtt.8zXHNNlVq76P6zwMb6KN8crgkUR765MKT9-lpQP7CQk&flow=xtls-rprx-vision&security=tls&sni=subgift3.gcorecdn.com&type=ws&host=subgift3.gcorecdn.com&path=/t.me-SubGift#LU%20%F0%9F%87%B1%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20e8858
-vless://047020df-f518-4b9b-a2d6-8e86f56f8c6e@subgift3.gcorecdn.com:443?security=tls&type=ws&path=/t.me-SubGift&host=subgift3.gcorecdn.com&sni=subgift3.gcorecdn.com&fp=chrome&flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.8zXHNNlVq76P6zwMb6KN8crgkUR765MKT9-lpQP7CQk#LU%20%F0%9F%87%B1%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%20b10d7
-vless://0c96aeeb-b691-48c9-91e2-8b5de4b29e01@subgift2.gcorecdn.com:443?encryption=mlkem768x25519plus.native.0rtt.ikrYGntY5rd9tKGz209S8GbeVg-aTh6tJ4jUpxpmimg&flow=xtls-rprx-vision&security=tls&sni=subgift2.gcorecdn.com&type=ws&host=subgift2.gcorecdn.com&path=/t.me-SubGift#LU%20%F0%9F%87%B1%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%2040fa3
-vless://0c96aeeb-b691-48c9-91e2-8b5de4b29e01@subgift2.gcorecdn.com:443?security=tls&type=ws&path=%2Ft.me-SubGift&host=subgift2.gcorecdn.com&sni=subgift2.gcorecdn.com&fp=chrome&flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.ikrYGntY5rd9tKGz209S8GbeVg-aTh6tJ4jUpxpmimg#LU%20%F0%9F%87%B1%F0%9F%87%BA%20%7C%20@xray_ehi_hub%20%7C%202b941

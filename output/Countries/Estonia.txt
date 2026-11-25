@@ -2,6 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Estonia (EE) — 2 configs — 2026-11-25 04:41 UTC
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@vexlum.klyck.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vexlum.klyck.online&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&sid=a503308602b56095&fp=chrome#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20bea82
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@vexlum.klyck.online:443?security=reality&encryption=none&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vexlum.klyck.online&sid=a503308602b56095#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20e8f62
+# @xray_ehi_hub — Estonia (EE) — 1 configs — 2026-11-25 15:01 UTC
+vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@188.214.37.231:443?&security=tls&fp=chrome&alpn=http/1.1&sni=lagoon.gerqix.online&type=ws&headerType=none&host=lagoon.gerqix.online&path=/api/de5/stream#EE%20%F0%9F%87%AA%F0%9F%87%AA%20%7C%20@xray_ehi_hub%20%7C%20d1bd1
