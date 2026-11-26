@@ -2,14 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Finland (FI) — 10 configs — 2026-11-26 05:32 UTC
+# @xray_ehi_hub — Finland (FI) — 2 configs — 2026-11-26 15:49 UTC
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@147.45.45.194:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finb2.mcufa.pro#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20ed474
 vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAeHJheV9laGlfaHViIHwgYTZiNDYiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6IjUyMDgwIiwiaWQiOiJlYzNjOGI5Ny1mMzA4LTRmZWUtYWExNi05NWUyYzc1OTVhY2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvM3giLCJob3N0IjoiZG93bi1jZG4uZGluZ3RhbGsuY29tIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAeHJheV9laGlfaHViIHwgMjExNGYiLCJhZGQiOiIxODUuMjEyLjE0OS43IiwicG9ydCI6IjIwNTMiLCJpZCI6ImFlYjNjMDE5LWFlODMtNDY3Ny1hZjk3LTg0NmJhYTc4N2FkNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8zeCIsImhvc3QiOiJkb3duLWNkbi5kaW5ndGFsay5jb20ifQ==
-ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20fa24a
-vless://8f154051-5b60-4e04-8880-a416c133a61b@144.31.156.42:443?mode=packet-up&path=/content/sec.mp4/&security=tls&encryption=none&insecure=0&host=ndc-finar.askme.ooo&fp=firefox&type=xhttp&allowInsecure=0&sni=ndc-finar.askme.ooo#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2072a41
-vless://8f154051-5b60-4e04-8880-a416c133a61b@144.31.156.42:443?mode=packet-up&path=/content/sec.mp4/&security=tls&encryption=none&insecure=0&host=ndc-finar.askme.ooo&fp=chrome&type=xhttp&allowInsecure=0&sni=ndc-finar.askme.ooo#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%20df54a
-vless://a6eed628-ef46-4eb1-b1c9-e13853e082c3@Karen.shahankhan.ir:443?security=&encryption=mlkem768x25519plus.native.0rtt.F4L-tzF4xZP8_exCC-za3YLuTJ7Jiya3scz-WVRnWjU&headerType=none&type=tcp#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2023c63
-vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&allowInsecure=0&sni=ifi1.modemjibi.com.#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%207ed92
-vless://a6eed628-ef46-4eb1-b1c9-e13853e082c3@Karen.shahankhan.ir:443?security=none&encryption=mlkem768x25519plus.native.0rtt.F4L-tzF4xZP8_exCC-za3YLuTJ7Jiya3scz-WVRnWjU&headerType=none&type=tcp#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2050081
-vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?security=tls&type=ws&path=%2F&alpn=http%2F1.1&sni=ifi1.modemjibi.com.&fp=chrome&encryption=none#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2019c47
-vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?path=/&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&allowInsecure=0&sni=ifi1.modemjibi.com.#FI%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20@xray_ehi_hub%20%7C%2008c50

@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "updated_at": "2026-11-26T05:32:54Z",
-  "duration_seconds": 1012.1,
+  "updated_at": "2026-11-26T15:49:11Z",
+  "duration_seconds": 1018.2,
   "xray": "Xray 26.11.9 (Xray, Penetrates Everything.) 676eaf6 (go1.27.3 linux/amd64)",
   "geoip": "db-ip country lite",
   "sources": {
@@ -14,12 +14,12 @@
     ]
   },
   "counts": {
-    "links_collected": 36085,
-    "unique": 16575,
+    "links_collected": 36070,
+    "unique": 16727,
     "on_gcp": 9,
-    "tcp_reachable": 8159,
-    "tested": 3845,
-    "working": 971,
-    "published": 901
+    "tcp_reachable": 8226,
+    "tested": 3642,
+    "working": 821,
+    "published": 735
   }
 }
