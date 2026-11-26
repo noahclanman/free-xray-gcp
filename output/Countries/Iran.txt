@@ -1,6 +1,0 @@
-#profile-title: Iran (IR)
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-#profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-11-25 23:42 UTC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTY0OTIwNmRjNTI0OTRkOWQ4NmI3MTcwYTA0MDU0Ng@mojtun.mlbaz.ir:555?security=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2074f3f

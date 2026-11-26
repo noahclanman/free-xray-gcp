@@ -2,9 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 5 configs — 2026-11-25 23:42 UTC
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@13.141.36.63:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%203ea00
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@13.141.36.63:443?security=reality&type=tcp&packetEncoding=xudp&sni=4935e4t.de25.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=6976d670818644cc&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&encryption=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%206f6b8
+# @xray_ehi_hub — Romania (RO) — 4 configs — 2026-11-26 05:32 UTC
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=tcp#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2042862
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@13.141.36.32:25191?mode=stream-one&path=%2Fastral-edge-h1&security=reality&encryption=none&pbk=_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA&host=se2.h1cloud.net&fp=chrome&type=xhttp&sni=a8687er.se2.h1clayd.click&sid=55328e423218ee9b#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2034a77
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.141.36.136:443?security=reality&sni=fc82dfx.nl8.h1clayd.click&fp=chrome&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&sid=7b2b1a14a6e0630d&type=xhttp&path=/0616f2d729aa&mode=auto&encryption=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2006076
-vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@a80b5386.fi2.h1clayd.click:443?encryption=none&security=reality&sni=a80b5386.fi2.h1clayd.click&fp=firefox&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&sid=cc678f10161992a9&type=tcp&headerType=none&host=a80b5386.fi2.h1clayd.click&path=%2F#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%209cfd3
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.141.36.10:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20113c5
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.247.224.206:443?&security=tls&fp=chrome&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=/media/ws/#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20ca1e5
