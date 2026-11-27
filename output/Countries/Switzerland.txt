@@ -2,7 +2,13 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Switzerland (CH) — 3 configs — 2026-11-27 09:10 UTC
-vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiQ0gg8J+HqPCfh60gfCBAeHJheV9laGlfaHViIHwgYjBiODQiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?encryption=none&security=tls&sni=portal.mavexa.ir&fp=chrome&type=tcp&headerType=none#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20bba76
-vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?encryption=none&mode=auto&path=/&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&security=reality&sid=77&sni=yandex.ru&type=xhttp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20534fc
+# @xray_ehi_hub — Switzerland (CH) — 9 configs — 2026-11-27 18:53 UTC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20bfc91
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7340.shopingggg.ir:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2067e50
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5hbWUiOiJDSCDwn4eo8J+HrSB8IEBSYXlkaWthbHggfCBDMkYzNkIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6MTI3MCwicHMiOiJDSCDwn4eo8J+HrSB8IEB4cmF5X2VoaV9odWIgfCA4NTU5NiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20ec868
+vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&headerType=none&type=tcp&sni=portal.mavexa.ir#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20cd71d
+vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2040824
+vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%209f953
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20140e5
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2081e1f

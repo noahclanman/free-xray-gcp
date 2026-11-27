@@ -2,8 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Kazakhstan (KZ) — 4 configs — 2026-11-27 09:10 UTC
-vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?encryption=none&security=tls&sni=worker3.xomoh98816.workers.dev&fp=firefox&type=ws&host=worker3.xomoh98816.workers.dev&path=%2FLF5LdoZelHLG07nl&headers=%7B%0A%20%20%22Host%22%3A%20%22worker3.xomoh98816.workers.dev%22%0A%7D#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%204a810
-vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20c6b09
-vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?&security=tls&flow=xtls-rprx-vision&fp=safari&alpn=h2&sni=api-6b04608f.adhil.uk&type=tcp&headerType=none&host=one.alpheratzz.org&path=%2F#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20898a1
-vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?sni=api-6b04608f.adhil.uk&alpn=h2&flow=xtls-rprx-vision&fp=safari&security=tls#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20765c0
+# @xray_ehi_hub — Kazakhstan (KZ) — 1 configs — 2026-11-27 18:53 UTC
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#KZ%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20@xray_ehi_hub%20%7C%20d3d2f
