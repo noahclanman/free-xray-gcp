@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 3 configs — 2026-11-27 00:28 UTC
+# @xray_ehi_hub — Iran (IR) — 3 configs — 2026-11-27 09:10 UTC
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:15470?security=&encryption=mlkem768x25519plus.native.0rtt.zxPnV8JfYCCBaYEMhAz0LUK2vVHy4JlbyNoQGAL_zFE&headerType=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c73f7
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:5444?security=none&encryption=mlkem768x25519plus.native.0rtt.YCimiGc6d5fr2nDJVCgxJ2VjXYK26qlsJ0OxuDe7LAI&headerType=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ff214
 vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:15470?security=none&encryption=mlkem768x25519plus.native.0rtt.zxPnV8JfYCCBaYEMhAz0LUK2vVHy4JlbyNoQGAL_zFE&headerType=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%206c599
-vless://41bcd5ea-f90c-4227-ab6f-23de50b0a226@test.electrowizard.ir:5566?mode=auto&path=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F%2F&security=reality&encryption=none&pbk=h0x6NgjJ74LUvMlu3Iz7QsFYNjTG9LzZ3sdNalmJrwY&host=aparat.com&fp=chrome&type=xhttp&sni=aparat.com&sid=ef7377a43eb6a6d4#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%2057f84
-vless://41bcd5ea-f90c-4227-ab6f-23de50b0a226@test02.electrowizard.ir:5565?security=reality&type=xhttp&path=%2F&host=aparat.com&sni=aparat.com&fp=chrome&sid=2436862e3af52511&pbk=MYqLevTK85yKyNkMGnghN3oFxOiRv8NGu8Jy6q9VICc&mode=auto&encryption=none#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20fc847
