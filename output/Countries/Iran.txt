@@ -2,5 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Iran (IR) — 1 configs — 2026-11-27 18:53 UTC
-vless://ff1906a5-a446-44e4-8e72-4e2d61775fa0@ns2.irts.lol:443?security=tls&encryption=none&insecure=0&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ns2.irts.lol#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20df5a5
+# @xray_ehi_hub — Iran (IR) — 6 configs — 2026-11-28 02:00 UTC
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:15470?security=&encryption=mlkem768x25519plus.native.0rtt.zxPnV8JfYCCBaYEMhAz0LUK2vVHy4JlbyNoQGAL_zFE&headerType=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20c73f7
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:15470?security=&encryption=mlkem768x25519plus.native.0rtt.zxPnV8JfYCCBaYEMhAz0LUK2vVHy4JlbyNoQGAL_zFE&headerType=&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%200ea5a
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUR.Deev-Guard.ir:5444?security=none&encryption=mlkem768x25519plus.native.0rtt.YCimiGc6d5fr2nDJVCgxJ2VjXYK26qlsJ0OxuDe7LAI&headerType=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20ff214
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@SUQmci.Deev-Guard.ir:3036?security=none&encryption=mlkem768x25519plus.native.0rtt.x8try52PFaTDSgZvj01fbRsH43gXD5Dx0S3yX1QkuB8&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&type=tcp#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%202d659
+vmess://eyJhZGQiOiJJci53YnpvLmlyIiwiYWlkIjoiMCIsImlkIjoiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwibmV0IjoidGNwIiwicG9ydCI6MjA3MCwicHMiOiJJUiDwn4eu8J+HtyB8IEB4cmF5X2VoaV9odWIgfCBiZTNjZCIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://8215052e-4e1e-4205-948e-084eb0b4efee@5.202.14.218:2083?security=reality&encryption=none&pbk=wsoMEZUh-R_4i4TUwmPi3o0UIwaD7EcwGHl_Z-YQVR4&headerType=none&fp=chrome&spx=/3ZNw3pVLDYpKKRn&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=bbb6129b0f#IR%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20@xray_ehi_hub%20%7C%20e7522

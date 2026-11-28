@@ -2,7 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Romania (RO) — 3 configs — 2026-11-27 18:53 UTC
+# @xray_ehi_hub — Romania (RO) — 4 configs — 2026-11-28 02:00 UTC
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d06d78e974491b6e&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&encryption=none#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2010968
-vless://89f361ea-a370-4cbe-b2b3-d3e9c0b7c4c1@193.168.140.228:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-1200%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%2C%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=UGeXXP0IS2_P7AWPDbbk_w7BzZLoPPrk3ha7OgI_0D4&host=www.vodafone.ro&fp=firefox&type=xhttp&sni=www.vodafone.ro#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20dc683
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@6bf329t.nl18.h1clayd.click:443?security=reality&encryption=none&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=6bf329t.nl18.h1clayd.click&sid=92aee92130b46fe2#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2088636
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@13.141.36.43:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=6bf329t.nl18.h1clayd.click&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM&sid=92aee92130b46fe2&fp=chrome#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%2093741
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@13.141.36.10:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs#RO%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20@xray_ehi_hub%20%7C%20113c5
