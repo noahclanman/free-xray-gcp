@@ -2,12 +2,12 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-web-page-url: https://github.com/noahclanman/free-xray-gcp
-# @xray_ehi_hub — Switzerland (CH) — 8 configs — 2026-11-28 02:00 UTC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20140e5
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.166.88.127:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%205155b
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.127:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20312a5
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch0322.shopingggg.ir:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2071c4e
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2081e1f
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20128a0
+# @xray_ehi_hub — Switzerland (CH) — 8 configs — 2026-11-28 09:56 UTC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20bfc91
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7340.shopingggg.ir:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2067e50
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch5965.shopingggg.ir:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20cfbd9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@79.127.184.104:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%202fd5b
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiQ0gg8J+HqPCfh60gfCBAeHJheV9laGlfaHViIHwgNDhhZTMiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmFtZSI6InYyZ28gfCDwn4eo8J+HrSBDSCB8IFZNRVNTIHwgMzg3In0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%20140e5
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch0322.shopingggg.ir:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2071c4e
+vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?encryption=none&fp=&mode=auto&path=%2F&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&security=reality&sid=77&sni=yandex.ru&type=xhttp#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%2028f0d
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@leviko-ch0322.shopingggg.ir:19999#CH%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20@xray_ehi_hub%20%7C%206ff93
